@@ -1,0 +1,657 @@
+threlease = "TH11"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "地霊達の起床"
+zh-hans = "地灵们的起床"
+en = "Awakening of the Earth Spirits"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "地灵们的起床"
+page = "地灵们的起床"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\nまあいつもの感じで。\n洞窟って音が響くとそれっぽいのでそれっぽくなるように\n努力しました。\n洞窟いいね。"
+zh-hans = "标题画面的主题曲。\n\n跟以往是大同小异了。\n若是声音能够发出回响一定会有洞窟的气氛\n便为此做了努力。\n洞窟好棒啊。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "暗闇の風穴"
+zh-hans = "昏暗的风穴"
+en = "The Dark Blowhole"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "昏暗的风穴"
+page = "昏暗的风穴"
+
+[soundtrack-list.commentary]
+ja = "１面のテーマです。\n折角の洞窟って事で、１面にしてはちょっとお暗い感じにしました。\n\n可愛い感じに少し不気味さを乗せて……ってノリがいいと不気味に\n聞こえない罠。\nスピード感のあるホラーゲームもしてみたい。"
+zh-hans = "第一面的主题曲。\n难得身处洞窟，于是采用了对于第一面来说相对阴暗的曲调。\n\n在可爱上添加些许阴森的感觉……但兴头一来\n却又听不出那种阴森感的圈套。\n我倒是挺想玩玩具有速度感的恐怖游戏呢。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "封じられた妖怪　～ Lost Place"
+zh-hans = "被封印的妖怪　～ Lost Place"
+en = "The Sealed-Away Youkai ~ Lost Place"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "黑谷山女",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[黑谷山女]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "被封印的妖怪　～ Lost Place"
+page = "被封印的妖怪　～ Lost Place"
+
+[soundtrack-list.commentary]
+ja = "黒谷ヤマメのテーマです。\n\n一面にしては格好良く創ってみようと書きました。\n昔ながらのゲームミュージックらしさ溢れるシンプルな曲です。\nつくづく判りやすいメロディの方がゲームが盛り上がっていいなと思うのです。"
+zh-hans = "黑谷 山女的主题曲。\n\n相对以往的一面，我进行了比较帅气的创作。\n一如既往的充满了游戏感的简单配乐。\n我深感易于掌握的节奏更能推动游戏的气氛。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "渡る者の途絶えた橋"
+zh-hans = "阻绝人迹之桥"
+en = "The Bridge People No Longer Cross"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "阻绝人迹之桥"
+page = "阻绝人迹之桥"
+
+[soundtrack-list.commentary]
+ja = "２面のテーマです。\n\n深く深く降りていく。\n自己主張は少なめに雰囲気重視でと、まさに道中オブ道中曲。\n妙に和風になってしまったのは意図した訳ではなく、なちゃった\nだけともいう。関係無いけど洞窟いいね。"
+zh-hans = "第二面的主题曲。\n\n深深地潜下去。\n减少自我特色而着重对氛围的表现，可谓道中曲的道中曲。\n微妙的和风并不是我有意为之，可以说是自然而然地变成了这样子。\n虽然与话题无关不过洞窟好棒呢。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "緑眼のジェラシー"
+zh-hans = "绿眼的嫉妒"
+en = "Green-Eyed Jealousy"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "水桥帕露西",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[{{水桥}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "绿眼的嫉妒"
+page = "绿眼的嫉妒"
+
+[soundtrack-list.commentary]
+ja = "水橋パルスィのテーマです。\n\n心の病んだ妖怪です。\nそんな訳でメロディアスな曲にしたいと思ってこんな感じに。\nシューティングとは思えないような曲だけどシューティングに合う曲\nを考えていたらこんな感じに落ち着きました。"
+zh-hans = "水桥 帕露西的主题曲。\n\n是位患有心病的妖怪。\n所以想要做得婉转感伤一些便成了现在这个样子。\n虽然不像是射击游戏的曲子但希望能与射击游戏相称。\n最后曲调安定在了这种感觉。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "旧地獄街道を行く"
+zh-hans = "漫游旧地狱街道"
+en = "Walking the Streets of a Former Hell"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "漫游旧地狱街道"
+page = "漫游旧地狱街道"
+
+[soundtrack-list.commentary]
+ja = "３面のテーマです。\n\n平和で喧嘩が華の江戸の町っぽいイメージでかきました。\nやっぱり楽しげで軽快なのは良いですよね。\n何とも懐かしい雰囲気のする曲です。\n街を歩くときも、この曲位うきうき気分で闊歩したいものです。"
+zh-hans = "第三面的主题曲。\n\n以和平与喧嚣四绽的江户街道为印象所创作的曲子。\n果然欢愉轻快是很好的吧。\n这是一首荡漾着怀旧气氛的曲子。\n走在街上时，真想带着这首曲子般畅快的心情阔步前行呢。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "華のさかづき大江山"
+zh-hans = "大江山的花之酒宴"
+en = "A Flower-Studded Sake Dish on Mt. Ooe"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "星熊勇仪",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[星熊勇仪]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "大江山的花之酒宴"
+page = "大江山的花之酒宴"
+
+[soundtrack-list.commentary]
+ja = "星熊 勇儀のテーマです。\n\n強そうで遊び心溢れる感じを目指しました。\n実は勇儀、お酒を一滴も零さずに闘うというルールを自分に課して\nいます。やっぱり退屈なんですね。\n何か、人間より地獄の鬼の方が面白みがある気がします。"
+zh-hans = "星熊 勇仪的主题曲。\n\n以强力却洋溢着玩乐感的氛围为目标。\n其实勇仪，给自己课下了战斗中绝不洒落一滴酒的准则。\n果然是因为太闲了吧。\n让人觉得，比起人类，地狱的鬼却更有意思呢。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ハートフェルトファンシー"
+zh-hans = "Heartfelt Fancy"
+en = "Heartfelt Fancy"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Heartfelt Fancy"
+page = "Heartfelt Fancy"
+
+[soundtrack-list.commentary]
+ja = "４面のテーマです。\n\n余り和風に偏りすぎないように創りました。\n地霊殿は思いの外西洋風の造りなんですね。住んでいる人達も\nどこかしらファンシー。\nでも猫屋敷。猫に飼われたいですね。"
+zh-hans = "第四面的主题曲。\n\n在创作时我注意不让它过于偏向和风。\n地灵殿出乎意料的是西洋风的建筑。\n住在里面的人也都别具一格。\n不过这里是猫窝。好想被猫养呢。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "少女さとり　～ 3rd eye"
+zh-hans = "少女觉　～ 3rd eye"
+en = "Satori Maiden ~ 3rd eye"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "古明地觉",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "[[古明地觉]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "少女觉　～ 3rd eye"
+page = "少女觉　～ 3rd eye"
+
+[soundtrack-list.commentary]
+ja = "古明地さとりのテーマです。\n\n地霊殿の主です。ちょっとファンシーで動物好き。\n実は今回の地霊殿の中では一番の大物、の筈ですが、戦闘は余り\n得意ではない様子。\n曲も大物っぽさと不気味さを出してみました。"
+zh-hans = "古明地觉的主题曲。\n\n她是地灵殿的主人。稍有幻想情调并喜爱动物。\n其实是这次地灵殿中的最大牌人物，然而\n并不怎么擅长战斗的样子。\n曲风也展现出大人物的以及阴森的感觉。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "廃獄ララバイ"
+zh-hans = "废狱摇篮曲"
+en = "Lullaby of Deserted Hell"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "废狱摇篮曲"
+page = "废狱摇篮曲"
+
+[soundtrack-list.commentary]
+ja = "５面のテーマです。\n\n灼熱地獄も罪人が落とされなくなってから、鬼が訪れる事も無く\n怨霊と動物達の遊び場と化している様子。\n実は人の住まなくなった建物とか見るとゾクゾクします。\n旧地獄も廃墟特有の切なさに包まれて……と想像して創った曲です。"
+zh-hans = "第五面的主题曲。\n\n自不再有罪人被打入灼热地狱，鬼也便不会来访\n这里似乎就变成了怨灵和动物们的游戏场所。\n老实说我看到不再有人居住的建筑物会感到毛骨悚然。\n旧地狱也被废墟所特有的悲凉感包裹着……这样想象着创作了此曲。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "死体旅行　～ Be of good cheer!"
+zh-hans = "尸体旅行　～ Be of good cheer!"
+en = "Corpse Voyage ~ Be of good cheer!"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "火焰猫燐",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面BOSS",
+    "[[火焰猫燐]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "尸体旅行　～ Be of good cheer!"
+page = "尸体旅行　～ Be of good cheer!"
+
+[soundtrack-list.commentary]
+ja = "お燐のテーマです。\n\n元気さが不気味な猫のテーマです。\n４、５面と重い感じにしてきたので、一気に明るくしてみました。\nお燐が押している車は猫車です。何を運んでいるかって？\n聞かない方が良かったと思う筈ですよ。"
+zh-hans = "阿燐的主题曲。\n\n精神得让人生畏的猫的主题曲。\n四、五面都作得比较沉重，便试着一下子变得快活起来。\n阿燐推着的车是猫车。你问她在运什么？\n你一定会想要是不问的话就好了。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "業火マントル"
+zh-hans = "业火地幔"
+en = "Hellfire Mantle"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "业火地幔"
+page = "业火地幔"
+
+[soundtrack-list.commentary]
+ja = "最終面のテーマです。\n\nいかにも終盤って感じを出してみました。\n溶岩の中を進むのはシューティングゲームでは定番ですね。\n何が言いたいかというと、巫女さんが溶岩の上を飛んでも特に\n不思議ではない、という事です。カラスもね。"
+zh-hans = "最终面的主题曲。\n\n试着做出终于到了最后这样子的感觉。\n在熔岩中进发是射击游戏一贯的场景设定呢。\n要问我到底想说什么的话，那就是就算巫女在熔岩之上飞行\n也没什么不可思议的，就是这样。当然乌鸦也一样。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "霊知の太陽信仰　～ Nuclear Fusion"
+zh-hans = "灵知的太阳信仰　～ Nuclear Fusion"
+en = "Solar Sect of Mystic Wisdom ~ Nuclear Fusion"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "灵乌路空",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面BOSS",
+    "[[灵乌路空]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "灵知的太阳信仰　～ Nuclear Fusion"
+page = "灵知的太阳信仰　～ Nuclear Fusion"
+
+[soundtrack-list.commentary]
+ja = "霊烏路 空のテーマです。\n\n出来る限り軽く近代的で、単純にボスっぽい感じで攻めてみました。\n事実、ラスボスとしては相当軽い妖怪です。しょせん鳥だしね。\nただ力は滅茶苦茶強いのです。強い力でも馬鹿に持たせれば悪用す\nらできないって事がよく判ります。ああ夢のエネルギーなのに。"
+zh-hans = "灵乌路 空的主题曲。\n\n我尽力谱出稍有现代感的，单纯地有BOSS感觉的曲子。\n其实，作为最终BOSS而言她是相当轻量级的妖怪。终究只是鸟嘛。\n不过力量是异常强大的。但显而易见，一个笨蛋拥有再强的力量\n也无法为非作歹。啊啊明明是梦幻般的能源来着。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ラストリモート"
+zh-hans = "Last Remote"
+en = "Last Remote"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Last Remote"
+page = "Last Remote"
+
+[soundtrack-list.commentary]
+ja = "エキストラステージのテーマです。\n\n何故か急いでいる感じになっていますが、そこまで緊急な出来事が\nあった訳でもなくみんなは暢気です。\n特に守矢神社の奴らの暢気っぷりといったら、霊夢でも敵いそうに\nありません。曲名は某ＳＴＧと関係ありません。"
+zh-hans = "Extra面的主题曲。\n\n不知为何有种急匆匆的感觉，但其实并没有那么紧急的事。\n大家都很悠然自得。\n尤其是守矢神社那帮家伙的悠闲样，就连灵梦都比不上。\n曲名跟某STG一点关系都没有。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ハルトマンの妖怪少女"
+zh-hans = "哈德曼的妖怪少女"
+en = "Hartmann's Youkai Girl"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "古明地恋",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[古明地恋]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "哈德曼的妖怪少女"
+page = "哈德曼的妖怪少女"
+
+[soundtrack-list.commentary]
+ja = "古明地こいしのテーマです。\n\n不気味で壊れた少女っぽさを出そうとしてみました。\n不気味さがおまけのボスっぽさを出しているかと思います。\n本当は薔薇を敷き詰めた庭とかで、茨が痛そうな場所で戦うのが\n似合う筈ですが、今回は何故か神社。"
+zh-hans = "古明地恋的主题曲。\n\n试着表现出令人毛骨悚然的坏掉的少女的感觉。\n实际表现出了附带阴森样的BOSS的感觉吧。\n其实应该适合在铺满蔷薇的庭院，荆棘看起来很刺痛的场所战斗\n这次不知为何是在神社呢。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "地霊達の帰宅"
+zh-hans = "地灵们的归家"
+en = "The Earth Spirits' Homecoming"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "地灵们的归家"
+page = "地灵们的归家"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n\n朝まで呑んで寂しく帰る時のイメージで創りました。\n「祭りも終わりかのう」「ぼちぼち引き上げるか」と心の中で\n会話しながら怨霊達が土の下へ戻っていきます。\nなんというオヤジ怨霊。"
+zh-hans = "ENDING的主题曲。\n\n根据饮至清晨寂寞回家时的印象创作的曲子。\n「庆典也结束了」「差不多该跑路啦」这样在心里叨咕着\n怨灵们便钻回土中了。\n这是何等的大叔怨灵。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "エネルギー黎明　～ Future Dream..."
+zh-hans = "能源黎明　～ Future Dream..."
+en = "Energy Daybreak ~ Future Dream..."
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "地灵殿音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "能源黎明　～ Future Dream..."
+page = "能源黎明　～ Future Dream..."
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\n\nいつもの感じで作りました。まんまいつもの感じ。\nこれでお仕舞いですよーって感じ。\nお仕舞いでも曲名は黎明。たみあき、じゃ無いですよ。"
+zh-hans = "Staffroll的主题曲。\n\n按往常的感觉做的曲子。一切如故。\n这样就结束啦—的感觉。\n虽然结束但曲名却是黎明。可不读作tamiaki哦。"
+
+[title]
+ja = "東方地霊殿 〜 Subterranean Animism."
+en = "Touhou Chireiden ~ Subterranean Animism"
+zh = "東方地靈殿 ～ Subterranean Animism."
+zh-hans = "东方地灵殿 ～ Subterranean Animism."

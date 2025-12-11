@@ -1,0 +1,958 @@
+threlease = "TH3"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "夢は時空を越えて"
+zh-hans = "梦想超越时空"
+en = "A Dream Transcending Space-Time"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "梦想超越时空"
+page = "梦想超越时空"
+
+[soundtrack-list.commentary]
+ja = "タイトルの曲です。いきなり東方な感じ\nがしませんね。\n我ながら、よくここまでゲームの雰囲気\nに合わない曲を作って平気な顔してられる\nなぁ、なんて最近思ってます。\nけど、最近はこの雰囲気に馴れたせいか\nそれとも、実はこの雰囲気で合ってるのか\n私のゲームはこういう曲じゃなきゃ駄目な\n気がしてきました。\nそんなわけで、最初からこういった曲で\n始まってます。いやはや。"
+zh-hans = "标题画面的曲目。\n一下子是没有东方的感觉的。\n最近在想，嘿，我还真能在做出这么不\n合游戏氛围的曲子之后还摆着一脸啥事儿\n都没有的样子啊。\n不过，是因为最近习惯了这种气氛吗，\n又或者是其实这种气氛才是正确的吗，总之\n有种感觉，我做出来的游戏还非得要配上这\n种曲子不可啊。\n如此这般，首先就由上述的这种曲子开\n始了，哎呦喂。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "OP.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "夢は時空を越えて\nＺＵＮ（太田）\n東方夢時空のイメージ曲\n中華？和風？？"
+zh-hans = "梦想超越时空\nＺＵＮ（太田）\n东方梦时空的印象曲\n中华风？和风？？\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Selection"
+zh-hans = "Selection"
+en = "Selection"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "角色选择画面",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "角色选择画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Selection"
+page = "Selection"
+
+[soundtrack-list.commentary]
+ja = "この曲で何を語ればいいんでしょう(笑)\n\nそれにしても結構重い曲だなぁ。\nなんで、このおちゃらけストーリーのゲー\nムのキャラ選択がこんな曲なんでしょう。\n\nまぁ、短いしね。その・・\n（曲も、制作時間も、コメントも）"
+zh-hans = "对这首曲子我该说些什么呢（笑）\n\n话说回来这还真是首沉重的曲子啊，为\n什么在这个净是瞎搞故事的游戏的自机选择\n非要用这种曲子呢。\n\n哎，很短啊，这个．．．\n（曲子也是，制作时间也是，曲注也是）"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "SELECT.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Selection\nＺＵＮ（太田）\n東方夢時空用の曲\nキャラクターセレクトの曲。\n暗すぎ。"
+zh-hans = "Selection\nＺＵＮ（太田）\n用于东方梦时空的曲子\n选择角色时的曲子。\n暗过头了。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "東方妖恋談"
+zh-hans = "东方妖恋谈"
+en = "Eastern Mystical Love Consultation"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "博丽灵梦（旧作角色）",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[博丽灵梦（旧作角色）|博丽灵梦]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "东方妖恋谈"
+page = "东方妖恋谈"
+
+[soundtrack-list.commentary]
+ja = "博麗靈夢のテーマ。\nゲームの主人公であり巫女さんでもある\nわけなんだけど。\n巫女さんかぁ？　この曲。\nって、まぁその。あの。\nでも、気に入ってます。それでも東方な\n感じのするところもあるし、メロディもい\nい感じだよね。ねぇ（哀願）"
+zh-hans = "博丽灵梦的主题曲\n虽然作为游戏的主人公的同时，也是一\n位巫女。\n巫女？就这曲子？\n嗯，诶，这个，那个．．．\n不过，我很喜欢这首曲子，而且感觉上\n也很有东方的风格，再加上旋律也不错啊，\n对吧对吧（哀愿）"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "00MM.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "東方妖恋談\nＺＵＮ（太田）\n東方夢時空用の曲\n博麗　靈夢のテーマ。（予定）\nかっこい～わ、これ。\nほんの一部東方な感じがするところがみそ。"
+zh-hans = "东方妖恋谈\nＺＵＮ（太田）\n用于东方梦时空的曲子\n博丽　灵梦的主题曲。（预定）\n好棒啊～这个。\n仅仅一部分有着东方的感觉的地方是味噌汤。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Reincarnation"
+zh-hans = "Reincarnation"
+en = "Reincarnation"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "魅魔",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[魅魔]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Reincarnation"
+page = "Reincarnation"
+
+[soundtrack-list.commentary]
+ja = "魅魔のテーマ。\n魅魔を知らない人の為にちょっと説明し\nますが、前作、東方封魔録のラスボスなん\nですよ。\n今回はボスでも何でも無く、ただの使用\nキャラにすぎないんで、余りかっこよすぎ\nる曲は避けて作ってみたんだけど・・・\nそれにしても、このキャラの性格がよく\nわかんないです。\n（自分で作ったキャラだろうが（汗））\nだから、曲もどうしたもんだか。\nさびのメロディは、単純だけどいい感じで\nす・・よね。（単純だから？）"
+zh-hans = "魅魔的主题曲\n为那些不了解魅魔的人稍作帮助，她可是\n前作「东方封魔录」的最终Boss呦。\n这次并不是什么Boss，而仅仅作为可以使\n用的自机而已，虽然曲子已经尽量避免不要\n做得太拉风了，不过．．．\n话说回来，这个角色的性格还真是有些让\n人搞不懂啊。\n（是你自己做出来的角色吧喂（汗））\n所以，这曲子到底怎么了。\n高潮部分的旋律，虽然很简单，但感觉还\n不错……呢。（就因为简单？）"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "01MM.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "リーインカーネーション\nＺＵＮ（太田）\n東方夢時空用の曲\n魅魔様のテーマ（予定）\nこりゃまた、こりゃまたな曲だね。"
+zh-hans = "重生\nＺＵＮ（太田）\n用于东方梦时空的曲子\n魅魔大人的主题曲。（预定）\n是“这里还没、那里也还没”的曲子呢。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Dim. Dream"
+zh-hans = "Dim. Dream"
+en = "Dim. Dream"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "雾雨魔理沙（旧作角色）",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[雾雨魔理沙（旧作角色）|雾雨魔理沙]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Dim. Dream"
+page = "Dim. Dream"
+
+[soundtrack-list.commentary]
+ja = "霧雨魔理沙のテーマ\nなんか、このキャラ、前作と性格が変わ\nったような・・・\n前作では、もっとこう、子供っぽい感じが\nしたんだけど？（髪の色も違うし(笑)）\n曲は、妙なかっこよさがある気が・・。\n一般に言うかっこよさとはちょっと違うか\nもしんないけど。なんていうか、なんてい\nうんですか。えぇ～と(^^;\nまぁその、このゲームの曲、どれも結構\n気に入ってます。\nみなさんはどうですか。まぁ、キャラに\n合わないとかは抜きにしてね(^^;"
+zh-hans = "雾雨魔理沙的主题曲\n怎么感觉这个角色和前作相比，性格好\n像变掉了．．．\n在前作里面，感觉上更加的那个，孩子\n气吧？（头发颜色也不一样（笑））\n曲子上呢，不知为啥感觉很不错．．．\n虽然可能和普通意义上的「感觉不错」稍微\n有点偏差。怎么说呢，该怎么说呢，嗯(^^;\n啊，那个，这个游戏的每一首曲子我都\n蛮中意的。\n各位感觉怎么样呢。对了，配不上角色\n之类的不算哦(^^;"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "02MM.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Dim. Dream\nＺＵＮ（太田）\n東方夢時空用の曲\n霧雨　魔理沙のテーマ。（予定）\nちょっと、イメージちゃうかも。"
+zh-hans = "Dim. Dream\nＺＵＮ（太田）\n用于东方梦时空的曲子\n雾雨　魔理沙的主题曲。（预定）\n说不定稍微，与想象的有些不同。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Tabula rasa　～空白少女"
+zh-hans = "Tabula rasa　～ 空白少女"
+en = "Tabula rasa ~ The Empty Girl"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "爱莲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[爱莲]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Tabula rasa　～ 空白少女"
+page = "Tabula rasa　～ 空白少女"
+
+[soundtrack-list.commentary]
+ja = "エレンのテーマ\nう～ん。作者、かわいい曲は苦手なんで\nす。なんか、あんまりかわいい曲では無い\nですよね。\n（エレンの元の漫画知ってる人、いたらご\nめんよ。あんまりキャラに合ってなくて）\nそれはともかく、この曲、実はずうっと\n昔にＭＩＤＩを練習する為に作った曲を、\nＦＭで作り直したものなのです。\nお気に入りのオリジナル曲の一つだった\nんですが、元の曲は完全に東洋風だったん\nですが・・・（この曲もそうな気が・・）\nなんで、外国の少女のテーマなのかしらん"
+zh-hans = "爱莲的主题曲\n嗯～我在作曲方面并不擅长写可爱系的\n曲子啊，所以，总感觉这并不是首很可爱的\n曲子呢。\n（如果您有看过有爱莲的出典漫画的话，\n真是抱歉啊，和角色不是很配）\n先不管这个，这首曲子，实际上是把一\n首很～久以前为了练习MIDI而写的曲子，用\nFM音源重制了一下。\n很中意的原创曲之一，但原配的曲子完\n全是东洋风的啊．．（这首曲子也有点那种感觉．．）\n为什么是外国少女的主题曲呢。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "03MM.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Tabula rasa 　　～空白少女\nＺＵＮ（太田）\n東方夢時空用の曲\n昔作った‘千里の道’のＦＭ版です。\nあんまり、ノリが良くないです。"
+zh-hans = "Tabula rasa　～ 空白少女\nＺＵＮ（太田）\n用于东方梦时空的曲子\n从前所做的‘千里之道’的FM版。\n几乎没法与弹幕合拍。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Maniacal Princess"
+zh-hans = "Maniacal Princess"
+en = "Maniacal Princess"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "小兔姬",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[小兔姬]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Maniacal Princess"
+page = "Maniacal Princess"
+
+[soundtrack-list.commentary]
+ja = "小兎姫のテーマ\n変なキャラです。変な曲です。はい。\nなんていうんでしょうかねぇ。う～ん。\nまぁ、この高速なもっきんみたいな音が\nこの曲のメインなのかしらねぇ。\nとにかく、旋律が変だもん。みなさんも\nそう思うかな？やっぱり。"
+zh-hans = "小兔姬的主题曲\n奇怪的角色呢，奇怪的曲子呢，对啊。\n我该说些什么呢。嗯．．\n不过，这种犹如高速弹奏着木琴一般的\n演奏正是这首曲子的亮点。\n总而言之，旋律很奇怪。各位也是这么\n感觉的吧？果然如此啊。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "04MM.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Maniacal Princess\nＺＵＮ（太田）\n東方夢時空用の曲\n小兎姫のテーマ（予定）。\nぜんぜん、お姫様な感じがしません。"
+zh-hans = "Maniacal Princess\nＺＵＮ（太田）\n用于东方梦时空的曲子\n小兔姬的主题曲。（预定）\n完全，感觉不出是公主的样子啊。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "夢消失　～Lost Dream"
+zh-hans = "梦消失　～ Lost Dream"
+en = "Vanishing Dream ~ Lost Dream"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "卡娜·安娜贝拉尔",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[卡娜·安娜贝拉尔]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "梦消失　～ Lost Dream"
+page = "梦消失　～ Lost Dream"
+
+[soundtrack-list.commentary]
+ja = "カナ・アナベラルのテーマ\nこの娘も人間じゃないのよねぇ・・・\n自分はキャラを作るときに、いつも紙にい\nろんなキャラを描いて、その中から選ぶん\nですが。このキャラかなりロリっとした感\nじのキャラだったんだけど・・・\n曲の方は、妙にかっこいいですよね。\nさっきも書いたけど、かわいい曲って苦手\nなのです。この曲もそうですよね・・・。\nこのキャラだったらもっとかわいい系でも\nよかったですよねぇ・・・。\n\nあああ、どの曲もなんだか中途半端～\n（かっこいいけど、少女っぽい感じ（音色\nが）もするし）まぁ、いいんですけど。\n自分はそれが気に入ってるみたいだし。"
+zh-hans = "卡娜．安娜贝拉尔的主题曲\n这女孩子也不是人类呢．．．\n自己在设计角色的时候，常常会在纸上\n画出各种各样的角色，然后再从其中选择。\n这本应该是个非常偏向萝莉的角色，但是不\n知怎的．．．\n曲子却有莫名地威风呢。\n前面也写过了，我对可爱的曲子作曲很\n没辙，这首曲子也是这样啊，这个角色配上\n可爱系的就好了啊．．．\n\n不管哪首曲子都有点不伦不类啊～（虽\n然很威风，但是（音色）也有少女的感觉）\n哎，虽然还不要紧。\n看来自己也很喜欢这类曲子的说。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "05MM.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "夢消失  ～ Lost Dream\nＺＵＮ（太田）\n東方夢時空用の曲\nカナ・アナベラル（仮）のテーマ。\nちょっとろりだ～（嫌）\nかっこよすぎ？　うふふふふふ。（実はロリッ娘はあんま好きくない）"
+zh-hans = "梦消失　～ Lost Dream\nＺＵＮ（太田）\n用于东方梦时空的曲子\n卡娜·安娜贝拉尔（暂定）的主题曲。\n稍微有些loli啊～（讨厌）\n帅过头了？呜呼呼呼呼呼。（其实不太喜欢loli的女孩子）\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "夢幻遊戯　～Dream War"
+zh-hans = "梦幻游戏　～ Dream War"
+en = "Visionary Game ~ Dream War"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "朝仓理香子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[朝仓理香子]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "梦幻游戏　～ Dream War"
+page = "梦幻游戏　～ Dream War"
+
+[soundtrack-list.commentary]
+ja = "朝倉理香子のテーマ\nこの曲、かなり気に入ってるんだけど、\n気に入ってるんですけど。めちゃくちゃ、\nキャラに合ってないですよね(^^;\nまぁその。この曲かなりループまで長い\nですけど、繰り返し、多いですね。\nえ～と、でも、ボスキャラを除く７人の\n中では一番かっこいいんじゃないかな？\n（とくにさびとか、イントロとかも）"
+zh-hans = "朝仓理香子的主题曲\n这首曲子，虽然我自己十分中意，但是\n非常非常地，与角色不相配啊(^^;\n嗯，那个，这首曲子直到循环前有很长\n的一段，不过反复很多呢。\n嗯，但是除了Boss角色以外的７个人中\n这是否算是最有型的一曲呢？\n（特别是高潮部分，引子部分也是）"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "06MM.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "夢幻遊戯  ～Dream War\nＺＵＮ（太田）\n東方夢時空用の曲\nラスボス　岡崎　夢美のテーマ。\nオカルトマニアのテーマ(^^;。\nいままでの曲と感じが違うっぽい（いっしょ？）。けどボスかなぁ。"
+zh-hans = "梦幻游戏　～ Dream War\nＺＵＮ（太田）\n用于东方梦时空的曲子\n最终boss 冈崎　梦美的主题曲。\n神秘现象狂热者的主题曲(^^;。\n和之前的曲子感觉有些不同（的吗？）。但是，是boss啊。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔法決戦！　～Fight it out!"
+zh-hans = "魔法决战！　～ Fight it out!"
+en = "Decisive Magic Battle! ~ Fight it out!"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "CPU第七人的主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "CPU第七人的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔法决战！　～ Fight it out!"
+page = "魔法决战！　～ Fight it out!"
+
+[soundtrack-list.commentary]
+ja = "７人目のＣＰＵ戦のテーマ\nこの曲は対戦では流れません。７人目は\n使用キャラによって固定されてますが、ど\nのキャラが出てきてもこの曲になります。\nよって、エレンとかが最後に来る場合と\nかだと、めちゃくちゃ合いません。(^^;\n曲は、ラストっぽくないボスっぽいのを\n目指したのですが・・・\nメインのメロディは東方妖恋談とほぼ同\nじになってます。さびもかっこはいいです\n・・・よね。\nまぁ、変・・・かな？"
+zh-hans = "第７人的ＣＰＵ战的主题曲\n这首曲子在对战模式下是不会出现的。\n虽然第七个角色是按照使用角色而固定的，\n但不管是谁登场，ＢＧＭ都是这首曲子。\n因此，当遇到最后出现的是爱莲之类的\n场合，会感到非常非常不协调。(^^;\n虽然希望做成不到最终、而只是一般的\nBoss的曲子．．\n主旋律与《东方妖恋谈》几乎一样。\n高潮部分感觉也很不错．．吧。\n哎，奇怪．．吗？"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "DEC.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "魔法決戦！ ～Fight it out!!\nＺＵＮ（太田）\n東方夢時空用の曲\n使えるかなぁ～・"
+zh-hans = "魔法决战！　～ Fight it out!\nＺＵＮ（太田）\n用于东方梦时空的曲子\n会用吗～・\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Sailor of Time"
+zh-hans = "Sailor of Time"
+en = "Sailor of Time"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "北白河千百合",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[北白河千百合]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Sailor of Time"
+page = "Sailor of Time"
+
+[soundtrack-list.commentary]
+ja = "北白河ちゆりのテーマ\nなんの為にいるのかわからん中ボスの曲\nです。(^^;\nこれも、ラストっぽくないボスっぽい曲\nにしたつもり、なんだけど。え～と。\nこの曲のみ、ゲーム中に最初のステージ\n８　ＳＴＡＲＴ　っていう表示とシンクロ\nしてます。気が付きました？\nまぁその、一応本物のセーラー服です。\nって、あ、あら～。"
+zh-hans = "北白河千百合的主题曲\n完全不晓得存在意义的中Boss曲。(^^;\n这首曲子，本来也是想做成非最终Boss\n的战斗曲来着的，嗯～\n在游戏中，只有这首曲子会和游戏开始\n的字「Stage 8　Start」的显示是同步的。\n有发现吗？\n嗯，那个，再怎么说，这也是正宗的水\n手服，呃，啊，啊呀～"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "07MM.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Sailor of Time\nＺＵＮ（太田）\n東方夢時空用の曲\n中ボス　絵理子（仮）のテーマ。\n本物のセーラー服～（予定）\n勢いだけは凄い曲ですね。(^^;"
+zh-hans = "Sailor of Time\nＺＵＮ（太田）\n用于东方梦时空的曲子\n中boss 绘理子<ref> 北白河千百合的原型朝ケ丘　絵理子，是在竹本泉的漫画《アップルパラダイス》和《よみきりもの》等中登场的主人公之一。</ref>（暂定）的主题曲。\n货真价实的水手服～（预定）\n单说气势是厉害的曲子呢。(^^;\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Strawberry Crisis!!"
+zh-hans = "Strawberry Crisis!!"
+en = "Strawberry Crisis!!"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "冈崎梦美",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[冈崎梦美]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Strawberry Crisis!!"
+page = "Strawberry Crisis!!"
+
+[soundtrack-list.commentary]
+ja = "岡崎夢美のテーマ\n一応、ラスボスのテーマです。\nかなり、難産なんですけどねぇ。まぁ、\nなんとか形になったからよしとしましょう\n他のキャラの曲にかっこいいものが多い\nので、苦労したんですよ。私にしては珍し\nくギターっぽい音を使ってます。\nまた、さび？のメロディは高級感溢れる\n様なのを目指したんだけどなぁ。ちょっと\n違うかなぁ？"
+zh-hans = "冈崎梦美的主题曲\n应该也算是最终Boss的主题曲。\n虽然作曲的时候非常地难产啊。\n哎，总算是有个样子了就这样吧。\n其他角色有很多很酷的曲子，所以写这首很辛苦，还非常少有地使用了\n吉他的那种声音。\n还有，高潮？的旋律我也向着充满高级\n感而努力了下。\n稍微有点不对吗？"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "08MM.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Strawberry crisis\nＺＵＮ（太田）\n東方夢時空用の曲\nラスボス　岡崎　夢美のテーマ\nありがちかもしれんが、珍しい曲（自分にとって）"
+zh-hans = "Strawberry Crisis!!\nＺＵＮ（太田）\n用于东方梦时空的曲子\n最终boss 冈崎　梦美的主题曲。\n说不定常见的，罕见曲子（对我来说）\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "非統一魔法世界論"
+zh-hans = "非统一魔法世界论"
+en = "Disunified Field Theory of Magic"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "道中BOSS过场曲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "道中BOSS过场曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "非统一魔法世界论"
+page = "非统一魔法世界论"
+
+[soundtrack-list.commentary]
+ja = "中ボス前デモの曲\nちょっと、デモが長過ぎよねぇ。まとも\nにみると、この曲短いから何ループもしち\nゃうのですよね。\nまぁ、このゲームの曲、全体的に、妙な\nかっこよさがあるような気が・・・\nちなみに中間デモはＥＳＣキーを押すと\n早送りできます。２回目からは、とばして\nいいよ。かなり意味の無いデモだから。"
+zh-hans = "中BOSS战前过场曲\n对话有点长过头了呢。认真看的话，这\n首曲子很短所以会反复好几次呢。\n不过，这游戏里的曲子整体上都感觉有\n种莫名的飒爽．．．\n顺便说一下中间的对话其实是可以按着\nＥＳＣ键快进过去的。第二次看的时候，就\n跳过去吧，因为是非常没意义的对话。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "DEMO1.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "非統一魔力世界論\nＺＵＮ（太田）\n東方夢時空用の曲\n中間デモ用の曲\nかっこい～。（短い～）"
+zh-hans = "非统一魔法世界论\nＺＵＮ（太田）\n用于东方梦时空的曲子\n中间过场使用的曲子\n好棒～。（好短～）\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔法鐘愛"
+zh-hans = "魔法钟爱"
+en = "Adoration of Magic"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "冈崎梦美过场曲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "冈崎梦美过场曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔法钟爱"
+page = "魔法钟爱"
+
+[soundtrack-list.commentary]
+ja = "ラスボス前デモの曲\nこれは短いです。ただ、かっこつけてみ\nただけです。\nまぁ、なんだ、そんだけ。"
+zh-hans = "BOSS战前过场曲\n这首曲子很短。\n我只是试着用它来摆个气势的。\n哎，怎么说呢，就这样啦。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "DEMO2.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "魔法鐘愛\nＺＵＮ（太田）\n東方夢時空用の曲\n中間デモ用の曲\nめちゃ短いぞ～。"
+zh-hans = "魔法钟爱\nＺＵＮ（太田）\n用于东方梦时空的曲子\n中间过场使用的曲子\n非常短啊～。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "久遠の夢"
+zh-hans = "久远之梦"
+en = "Dream of Eternity"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "通用的Ending曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "通用的Ending曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "久远之梦"
+page = "久远之梦"
+
+[soundtrack-list.commentary]
+ja = "エンディングテーマ１\nエンディングっぽい曲だけど、場面に場\n面に合ってるのかしら？\nまぁ、短いし。"
+zh-hans = "结尾曲　其一\n弄成了结尾感觉的曲子，但是与情景配\n得上吗？\n哎呀，反正很短。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "DEMO3.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "久遠の夢\nＺＵＮ（太田）\n東方夢時空用の曲\nエンディングテーマ\nこれこそ、場面に合わない曲というもの。"
+zh-hans = "久远之梦\nＺＵＮ（太田）\n用于东方梦时空的曲子\nending主题曲\n这个就是，所谓不用符合场面的曲子的东西。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "東方の青い空"
+zh-hans = "东方的蓝色天空"
+en = "Eastern Blue Sky"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "白天的Ending曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "白天的Ending曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "东方的蓝色天空"
+page = "东方的蓝色天空"
+
+[soundtrack-list.commentary]
+ja = "エンディングテーマ２\n昼間のエンディングで流れる曲。\nわりと、神社を意識してます。実は、一番\n巫女さんっぽいんじゃないかと。\nほら、よくエロゲーで出てくる神社とか\n巫女さんとかってこういう曲じゃん（笑）"
+zh-hans = "结尾曲　其二\n白天的结尾的曲子。\n比较有意识地向神社靠近。\n其实，这应该是最具有巫女感觉的曲子\n不是吗，你想，经常在１８Ｘ游戏中出现的\n神社啦巫女啦用的就是这种曲子呀（笑）"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "DEMO4.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "東方に青い空\nＺＵＮ（太田）\n東方夢時空用の曲\nエンディングテーマ\nこれこそ、場面に合わない曲というもの。"
+zh-hans = "东方的蓝色天空\nＺＵＮ（太田）\n用于东方梦时空的曲子\nending主题曲\n这个就是，所谓不用符合场面的曲子的东西。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "永遠の満月"
+zh-hans = "永远的满月"
+en = "Eternal Full Moon"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "夜晚的Ending曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "夜晚的Ending曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "永远的满月"
+page = "永远的满月"
+
+[soundtrack-list.commentary]
+ja = "エンディングテーマ３\n夜のエンディングで流れる曲。どうやら\nエンディングの曲はどれも、東方っぽくな\nったようです。よかったよかった。"
+zh-hans = "结尾曲　其三\n晚上的结尾的主题曲。\n看来不管哪个结尾曲都做出东方系列的\n感觉了啊。太好了太好了。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "DEMO5.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "永遠の満月\nＺＵＮ（太田）\n東方夢時空用の曲\nエンディングテーマ\nこれこそ、場面に合わない曲というもの。"
+zh-hans = "永远的满月\nＺＵＮ（太田）\n用于东方梦时空的曲子\nending主题曲\n这个就是，所谓不用符合场面的曲子的东西。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Maple Dream..."
+zh-hans = "Maple Dream..."
+en = "Maple Dream..."
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    18,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Maple Dream..."
+page = "Maple Dream..."
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマ\nなんか、またまたゲームに合ってません\nね・・・　思いっきり。\nでも、この曲はスタッフロールには合っ\nてると思います。\nかっこいいですよね。たとえスタッフが\n私一人だけでも（笑）\n\nなんか、妙なところでかっこつけすぎ～"
+zh-hans = "制作人员名单主题曲\n总有一种，又跟游戏调子偏离了．．．\n的感觉。\n但是，我想这首曲子配制作人员列表还\n是很好的。\n感觉很不错呢，就算工作人员只有我一\n个人也一样（笑）\n\n怎么感觉在莫名其妙的地方狂摆造型～"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "ED.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Maple Dream\nＺＵＮ（太田）\n東方夢時空用の曲\nスタッフロールの曲。ロール出来んの（笑）"
+zh-hans = "Maple Dream\nＺＵＮ（太田）\n用于东方梦时空的曲子\nStaff画面曲。可以有列表啊（笑）\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "霊人の休日"
+zh-hans = "灵人的休息日"
+en = "Ghostly Person's Holiday"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "得分画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    19,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "得分画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "灵人的休息日"
+page = "灵人的休息日"
+
+[soundtrack-list.commentary]
+ja = "ネームレジストのテーマ\nあっというまに制作しおわった記憶があ\nります。まぁ、単純な曲ですし。"
+zh-hans = "得分登记时的主题曲\n还保留着还差一点制作就能收尾了的记\n忆在里面。\n哎，是首简单的曲子啊。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "SCORE.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "霊人の休日\nＺＵＮ（太田）\n東方夢時空用の曲\nネームレジストの曲。\nこういう曲も好き。でも、なんかちーがーうー。"
+zh-hans = "灵人的休息日\nＺＵＮ（太田）\n用于东方梦时空的曲子\n输入名字时的曲子。\n这样的曲子也喜欢。不过，哪里搞——错——了——。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "You Win ..."
+zh-hans = "You Win ..."
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "获胜的演示曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "获胜的演示曲",
+]
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "WIN.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "You Win ...\nＺＵＮ（太田）\n東方夢時空用の曲\nウィナーデモの曲。\n暗いです。でも大変。"
+zh-hans = "You Win ...\nＺＵＮ（太田）\n用于东方梦时空的曲子\n获胜的演示曲。\n很暗。但是很重要。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ゲームオーバー"
+zh-hans = "Game Over"
+en = "Game Over"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "游戏结束画面曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "梦时空音乐名",
+    21,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "游戏结束画面曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Game Over"
+page = "Game Over"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "OVER.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Game Over\nＺＵＮ（太田）\n東方夢時空用の曲\nゲームオーバーの曲。\nこんな感じ？（違います）"
+zh-hans = "Game Over\nＺＵＮ（太田）\n用于东方梦时空的曲子\n游戏结束曲。\n这种感觉？（搞错了）\n"
+
+[title]
+ja = "東方夢時空 〜 Phantasmagoria of Dim.Dream."
+en = "Touhou Yumejikuu ~ Phantasmagoria of Dimensional Dream"
+zh = "東方夢時空 ～ Phantasmagoria of Dim.Dream."
+zh-hans = "东方梦时空 ～ Phantasmagoria of Dim.Dream."

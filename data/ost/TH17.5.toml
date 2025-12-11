@@ -1,0 +1,920 @@
+threlease = "TH17.5"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "水没した沈愁地獄"
+zh-hans = "被水淹没的沉愁地狱"
+en = "Submerged Hell of Sunken Sorrow"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "被水淹没的沉愁地狱"
+page = "被水淹没的沉愁地狱"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "東方剛欲異聞"
+zh-hans = "东方刚欲异闻"
+en = "Eastern Strange Tale of Avarice"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "东方刚欲异闻"
+page = "东方刚欲异闻（曲目）"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "天理人欲"
+zh-hans = "天理人欲"
+en = "Laws of Heaven, Desires of Man"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending画面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending画面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "天理人欲"
+page = "天理人欲"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔法使いの憂鬱"
+zh-hans = "魔法使的忧郁"
+en = "Magician's Melancholy"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "魔法森林",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[魔法森林]]场景音乐",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔法使的忧郁"
+page = "魔法使的忧郁"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "暗闇の風穴"
+zh-hans = "昏暗的风穴"
+en = "The Dark Blowhole"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "地灵虹洞",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[地灵虹洞]]场景音乐",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "昏暗的风穴"
+page = "昏暗的风穴"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "旧地獄街道を行く"
+zh-hans = "漫游旧地狱街道"
+en = "Walking the Streets of a Former Hell"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "旧都",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[旧都|旧地狱温泉]]场景音乐",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "漫游旧地狱街道"
+page = "漫游旧地狱街道"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "業火マントル"
+zh-hans = "业火地幔"
+en = "Hellfire Mantle"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "灼热地狱遗址",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[灼热地狱遗址|旧灼热地狱]]场景音乐",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "业火地幔"
+page = "业火地幔"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "御柱の墓場"
+zh-hans = "御柱的墓场"
+en = "Cemetery of Onbashira"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "核聚变炉心",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[核聚变炉心|地底核聚变炉]]场景音乐",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "御柱的墓场"
+page = "御柱的墓场"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "大地の底、剛欲の海"
+zh-hans = "大地之底，刚欲之海"
+en = "Depths of the Earth, Ocean of Avarice"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "血池地狱遗址",
+    "血池地狱遗址",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[血池地狱遗址|石油之海]]、[[血池地狱遗址|被废弃的血池地狱]]场景音乐",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "大地之底，刚欲之海"
+page = "大地之底，刚欲之海"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "不朽の曼珠沙華"
+zh-hans = "不朽的曼珠沙华"
+en = "Everlasting Red Spider Lily"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "灼热地狱遗址",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "淹水的[[灼热地狱遗址|旧灼热地狱]]场景音乐",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "不朽的曼珠沙华"
+page = "不朽的曼珠沙华"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔法少女達の百年祭"
+zh-hans = "魔法少女们的百年祭"
+en = "The Centennial Festival for Magical Girls"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "红魔馆",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[红魔馆]]场景音乐",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔法少女们的百年祭"
+page = "魔法少女们的百年祭"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "少女綺想曲"
+zh-hans = "少女绮想曲"
+en = "Maiden's Capriccio"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "博丽灵梦",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[博丽灵梦]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "少女绮想曲"
+page = "少女绮想曲"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "恋色マスタースパーク"
+zh-hans = "恋色Master spark"
+en = "Love-Colored Master Spark"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "雾雨魔理沙",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[雾雨魔理沙]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "恋色Master spark"
+page = "恋色Master spark"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "封じられた妖怪"
+zh-hans = "被封印的妖怪"
+en = "The Sealed-Away Youkai"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "黑谷山女",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[黑谷山女]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "被封印的妖怪"
+page = "被封印的妖怪"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "万年置き傘にご注意を"
+zh-hans = "请注意万年备用伞"
+en = "Beware the Umbrella Left There Forever"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "多多良小伞",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[多多良小伞]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "请注意万年备用伞"
+page = "请注意万年备用伞"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "キャプテンムラサ"
+zh-hans = "Captain Murasa"
+en = "Captain Murasa"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "村纱水蜜",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[村纱水蜜]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Captain Murasa"
+page = "Captain Murasa"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "神さびた古戦場"
+zh-hans = "神圣庄严的古战场"
+en = "The Venerable Ancient Battlefield"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "八坂神奈子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[八坂神奈子]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "神圣庄严的古战场"
+page = "神圣庄严的古战场"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "今宵は飄逸なエゴイスト　～ Egoistic Flowers."
+zh-hans = "今宵是飘逸的利己主义者　～ Egoistic Flowers."
+en = "Tonight Stars an Easygoing Egoist ~ Egoistic Flowers"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "依神女苑",
+    "依神紫苑",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    18,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[依神女苑]]&[[依神紫苑]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "今宵是飘逸的利己主义者　～ Egoistic Flowers."
+page = "今宵是飘逸的利己主义者　～ Egoistic Flowers."
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "華のさかづき大江山"
+zh-hans = "大江山的花之酒宴"
+en = "A Flower-Studded Sake Dish on Mt. Ooe"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "星熊勇仪",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    19,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[星熊勇仪]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "大江山的花之酒宴"
+page = "大江山的花之酒宴"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "霊知の太陽信仰"
+zh-hans = "灵知的太阳信仰"
+en = "Solar Sect of Mystic Wisdom"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "灵乌路空",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    20,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[灵乌路空]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "灵知的太阳信仰"
+page = "灵知的太阳信仰"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "セラフィックチキン"
+zh-hans = "Seraphic Chicken"
+en = "Seraphic Chicken"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "庭渡久侘歌",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    21,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[庭渡久侘歌]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Seraphic Chicken"
+page = "Seraphic Chicken"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "U.N.オーエンは彼女なのか？"
+zh-hans = "U.N.OWEN就是她吗？"
+en = "U.N. Owen Was Her?"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "芙兰朵露·斯卡蕾特",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    22,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{芙兰朵露}}]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "U.N.OWEN就是她吗？"
+page = "U.N.OWEN就是她吗？"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "もうドアには入れない"
+zh-hans = "门再也进不去了"
+en = "No More Going Through Doors"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "后户之国",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    23,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[后户之国|？？？]]场景音乐",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "门再也进不去了"
+page = "门再也进不去了"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "秘神マターラ"
+zh-hans = "秘神摩多罗"
+en = "Secret God Matara"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "摩多罗隐岐奈",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    24,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[摩多罗隐岐奈]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "秘神摩多罗"
+page = "秘神摩多罗"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "強欲な獣のメメント"
+zh-hans = "贪欲之兽的记忆"
+en = "Memento of the Avaricious Beast"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "饕餮尤魔",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    25,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[饕餮尤魔]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "贪欲之兽的记忆"
+page = "贪欲之兽的记忆"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "有機体全てのメメント　～ Memory of Fossil Energy."
+zh-hans = "全有机体的记忆　～ Memory of Fossil Energy."
+en = "Memento of All Organisms ~ Memory of Fossil Energy."
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "饕餮尤魔",
+    "血池地狱遗址",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "刚欲异闻音乐名",
+    26,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[饕餮尤魔]]的主题曲（[[血池地狱遗址|被废弃的血池地狱]]）",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "全有机体的记忆　～ Memory of Fossil Energy."
+page = "全有机体的记忆　～ Memory of Fossil Energy."
+
+[soundtrack-list.commentary]
+
+[title]
+ja = "東方剛欲異聞 〜 水没した沈愁地獄"
+en = "Touhou Gouyoku Ibun ~ Sunken Fossil World"
+zh = "东方刚欲异闻 ～ 被水淹没的沉愁地狱"
+zh-hans = "东方刚欲异闻 ～ 被水淹没的沉愁地狱"

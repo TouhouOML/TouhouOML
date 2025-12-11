@@ -1,0 +1,229 @@
+threlease = "TH9.5"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "天狗の手帖　～ Mysterious Note"
+zh-hans = "天狗的笔记　～ Mysterious Note"
+en = "Tengu's Notebook ~ Mysterious Note"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "天狗的笔记　～ Mysterious Note"
+page = "天狗的笔记　～ Mysterious Note"
+
+[soundtrack-list.commentary]
+ja = "タイトル、メニュー画面のテーマです。\nいつもの曲です。\n今回は少し暗くレトロな感じが出るようにして、妖怪らしさが出る\nようにしました。\nザーというノイズは妖怪のミステリアスな部分です。決してモニタ\nとスピーカーが逝かれたわけでは無いのでご安心を。"
+zh-hans = "标题、菜单画面所用的曲目。\n一如既往的曲子，这次做得带有少许阴沉复古的感觉，\n象是会有妖怪出来。\n沙沙作响的噪音是妖怪的神秘所在，\n绝对不是显示器或扬声器的问题，请放心。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "風の循環　～ Wind Tour"
+zh-hans = "风的循环　～ Wind Tour"
+en = "Wind Circulation ~ Wind Tour"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "摄影主题曲1",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "摄影主题曲1",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "风的循环　～ Wind Tour"
+page = "风的循环　～ Wind Tour"
+
+[soundtrack-list.commentary]
+ja = "撮影曲１です。\n\n今回のゲームは、通常のボス戦のような曲ではなく、もっと日常感\nを出したかった為、こんな感じに。\n随分と落ち着いた感じですが、実際文は余裕です。自分から被写体\nをおちょくりに出かけている様なもんですし。"
+zh-hans = "摄影用曲１。\n\n这次游戏中的曲子，和往常BOSS战中的那一类不同，\n为了表现出更多的日常感，做成了这种感觉。\n相当沉着的感觉，实际上文也是游刃有余，\n就象是自己正在逗摄影对象玩一般。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "天狗が見ている　～ Black Eyes"
+zh-hans = "天狗正凝视着　～ Black Eyes"
+en = "Tengu Is Watching ~ Black Eyes"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "摄影主题曲2",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "摄影主题曲2",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "天狗正凝视着　～ Black Eyes"
+page = "天狗正凝视着　～ Black Eyes"
+
+[soundtrack-list.commentary]
+ja = "撮影曲２です。\n\n怖いような可愛らしいような奇妙なノリを持たせました。\n人を攫ったり喰ったりが当たり前の妖怪なのに、どこか陽気で人当\nたりも良さそうな所が、幻想の天狗のイメージ。\nこの曲には、ぞの怖さと陽気さ、暢気さを混ぜた感じになっている\nかと思います。"
+zh-hans = "摄影用曲２。\n\n曲子带着似是恐怖、又好似可爱的奇妙节奏。\n明明是生来便要袭击人类、以人类为食的妖怪，\n却又有待人和善的活泼一面，便是幻想之天狗的形象。\n这首曲子是否很好地融合了恐怖以及活泼、悠然的感觉呢？\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "東の国の眠らない夜"
+zh-hans = "东之国的不眠夜"
+en = "Sleepless Night of the Eastern Country"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "摄影主题曲3",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "摄影主题曲3",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "东之国的不眠夜"
+page = "东之国的不眠夜"
+
+[soundtrack-list.commentary]
+ja = "撮影曲３です。中盤以降に使う曲として用意しました。\n\nボスも文も楽しんでいる感じを出しつつ、ボスに威圧感を持たせる\nのは難しい物です。\nこの曲はそれを意識して、軽快で明るいながらもボスが強そうに\n見える様に格好つけ書きました。特にピアノ。"
+zh-hans = "摄影用曲３，用于中盘之后的曲子。\n\nBOSS及文一直都乐在其中，要让BOSS保持威势不是件容易的事。\n虽是轻盈明快的曲子，意识到这点后，\n便将BOSS表现成看上去很强的样子。\n尤其是用钢琴。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "レトロスペクティブ京都"
+zh-hans = "回忆京都"
+en = "Retrospective Kyoto"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "摄影主题曲4",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "摄影主题曲4",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "回忆京都"
+page = "回忆京都"
+
+[soundtrack-list.commentary]
+ja = "撮影曲４のテーマです。後半に使う曲として用意しました。\n\nレトロな日本をイメージしたところ、私の中ではこんな感じに。\n雪の降る京の都。人気の少ない夜の道。\nでも、この曲のレトロさは私のレトロさでして……。\nこの曲を聴いていると何となく昔を思い出してしまう。"
+zh-hans = "摄影用曲４，用于后半的曲子。\n\n想象往昔的日本风貌之际，我的脑中是这样的画面：\n下雪的旧时都城——京都，以及鲜有人迹的夜路。\n不过，这首曲子的复古是我的复古尔尔……\n听着曲子，不知不觉就回忆起往昔来。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "風神少女"
+zh-hans = "风神少女"
+en = "Wind God Girl"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "摄影主题曲5",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "摄影主题曲5",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "风神少女"
+page = "风神少女"
+
+[soundtrack-list.commentary]
+ja = "撮影曲５のテーマです。\n\nこの曲は文花帖のテーマ曲なので入れないわけにはいかないと思い\n入っております。\n本編では殆ど使われておりませんが:-)"
+zh-hans = "摄影用曲５。\n\n这首曲子因为是文花帖的主题曲，不编入是不行的。\n虽然在本篇几乎不大用到:-)"
+
+[title]
+ja = "東方文花帖 〜 Shoot the Bullet."
+en = "Touhou Bunkachou ~ Shoot the Bullet"
+zh = "東方文花帖 ～ Shoot the Bullet."
+zh-hans = "东方文花帖 ～ Shoot the Bullet."

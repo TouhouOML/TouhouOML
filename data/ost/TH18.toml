@@ -1,0 +1,657 @@
+threlease = "TH18"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "虹の架かる幻想郷"
+zh-hans = "架起虹桥的幻想乡"
+en = "A Rainbow Spanning Gensokyo"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "架起虹桥的幻想乡"
+page = "架起虹桥的幻想乡"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\n爽やかだけど少し気怠さの残る感じの曲です。\n雨が上がったからと言って、すぐには\n活動的になれないもんですよね。"
+zh-hans = "标题画面的主题曲。\n\n虽然很清爽，但又稍微残存着一些慵懒感觉的曲子。\n毕竟就算雨停了，\n也没法立刻变得活跃起来。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖異達の通り雨"
+zh-hans = "妖异们的骤雨"
+en = "A Shower of Strange Occurrences"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖异们的骤雨"
+page = "妖异们的骤雨"
+
+[soundtrack-list.commentary]
+ja = "１面のテーマです。\n\n大雨降る森の上の曲です。\n雨の曲って、しっとりにさせるか疾走感を持たせるかで\n１８０度イメージが変わりますよね。\nこの曲は１面らしく後者です。\n"
+zh-hans = "1面的主题曲。\n\n大雨中的森林上方的曲子。\n以雨为主题的曲子，根据曲风是平缓还是具有疾驰感，\n曲子的印象会有180度的变化。\n这首曲子符合1面的感觉，是后者。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "大吉キトゥン"
+zh-hans = "大吉猫咪"
+en = "Kitten of Great Fortune"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "豪德寺三花",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[豪德寺三花]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "大吉猫咪"
+page = "大吉猫咪"
+
+[soundtrack-list.commentary]
+ja = "豪徳寺 ミケ（ごうとくじ みけ）のテーマです。\n\n千客万来、商売繁盛と言えば招き猫ですね。\n和風というか中華風というか、何処かしら東洋の感じがする\nメロディになっていると思います。\n猫っぽい跳ねる感じの曲で、かわいらしいと思いません？"
+zh-hans = "豪德寺 三花的主题曲。\n\n说到千客万来、生意兴隆，那就是招财猫。\n我觉得这首曲子的旋律该说是和风还是中华风，\n有某种东洋的感觉。\n曲子很有猫蹦蹦跳跳的感觉，不觉得很可爱吗？"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "深緑に隠された断崖"
+zh-hans = "深绿掩映的断崖"
+en = "The Cliff Hidden in Deep Green"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "深绿掩映的断崖"
+page = "深绿掩映的断崖"
+
+[soundtrack-list.commentary]
+ja = "２面のテーマです。\n\nはなっから異界っぽさが強い曲です。\n深い山の中って人間にとっては異界なんですよね。\nそれは衛星写真で世界中見られる今になっても\n深い森に包まれた山の中は異界のままなのです。"
+zh-hans = "2面的主题曲。\n\n从一开始就有很强烈的异界感的曲子。\n深山之中对于人类来说就是异界。\n即便如今能通过卫星照片查看全世界，\n被浓密的森林笼罩的山中依旧还是异界。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "バンデットリィテクノロジー"
+zh-hans = "Banditry Technology"
+en = "Banditry Technology"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "山城高岭",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[山城高岭]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Banditry Technology"
+page = "Banditry Technology"
+
+[soundtrack-list.commentary]
+ja = "山城 たかね（やましろ たかね)のテーマです。\n\n河童と対を成す山の妖怪、山童です。\n頭脳派妖怪（？）らしく、遊び感覚で戦闘している感じの曲に\nなりました。\n何処か懐かしさもあって面白い曲です。"
+zh-hans = "山城 高岭的主题曲。\n\n她是与河童相对的山中妖怪，山童。\n她似乎是头脑派妖怪（？），\n所以曲子也变成了边玩边战斗的感觉。\n曲子也有点怀念的感觉，非常有趣。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "駒草咲くパーペチュアルスノー"
+zh-hans = "驹草盛开的万年积雪"
+en = "The Perpetual Snow of Komakusa Blossoms"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "驹草盛开的万年积雪"
+page = "驹草盛开的万年积雪"
+
+[soundtrack-list.commentary]
+ja = "３面のテーマです。\n\n山の上の少しだけ開けた高地をイメージしました。\n辿り着くのが難しいこういう高地の平原は、昔は\n平家や忍者などの隠れ里と呼ばれる事がよくあったようですね。\n流石に事実ではないと思いますが、ロマンがあります。"
+zh-hans = "3面的主题曲。\n\n我作曲时想象了山上稍微空旷的高地。\n这种难以抵达的高地平原，在古代似乎常常被称为\n平家或者是忍者的藏身处。\n虽然这大概不是事实，但很浪漫。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "スモーキングドラゴン"
+zh-hans = "Smoking Dragon"
+en = "Smoking Dragon"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "驹草山如",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[驹草山如]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Smoking Dragon"
+page = "Smoking Dragon"
+
+[soundtrack-list.commentary]
+ja = "駒草 山如（こまくさ さんにょ）のテーマです。\n\n煙管片手のその出で立ちから駒草太夫と呼ばれている彼女です。\nストレートに癖の強い曲を作りました。もっとヤクザっぽいのを\n目指したんですけどね、なんだろうこの中ボス感……。\nまあやってることは門番だし、紛うこと無き中ボスなんですが。"
+zh-hans = "驹草 山如的主题曲。\n\n因为她单手拿着烟斗的风貌，她被称为驹草太夫。\n我直率地创作了一首曲风非常独特的曲子。\n我本来的目标是更加有黑道的感觉，但这种道中BOSS的气场是怎么回事……\n不过她也只不过是个门卫，毋庸置疑只是个道中BOSS。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "廃れゆく産業遺構"
+zh-hans = "日渐荒废的工业遗址"
+en = "The Obsolescent Industrial Remains"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "日渐荒废的工业遗址"
+page = "日渐荒废的工业遗址"
+
+[soundtrack-list.commentary]
+ja = "４面のテーマです。\n\nかつては鉱山というと周辺に街が出来るくらいの一大産業でした。\n運搬のために道や鉄道も発達し、日本の産業を支えていました。\nしかし、現在は殆ど閉山しています。\nこの曲は鉱山跡にノスタルジアを感じてこんな感じになりました。"
+zh-hans = "4面的主题曲。\n\n在过去，矿场曾经是能围绕其建造起一座城市的大产业。\n为了运输，道路和铁路发展壮大，可以说它支撑了日本的产业。\n然而，现在的矿洞几乎都废弃了。\n这首曲子的氛围便来自对矿洞遗址的怀念。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "神代鉱石"
+zh-hans = "神代矿石"
+en = "Ore from the Age of the Gods"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "玉造魅须丸",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "[[玉造魅须丸]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "神代矿石"
+page = "神代矿石"
+
+[soundtrack-list.commentary]
+ja = "玉造 魅須丸（たまつくり みすまる）のテーマです。\n\nダンジョンの奥で敵か味方か判らない謎の人物と対峙するイメージ\nで作曲しました。そのまんまですね（笑）\nさて、突如現れた伊弉諾物質ですが、僕が作った同名の音楽CDに\n出てきますのでそちらも是非。結局、謎の物質です。"
+zh-hans = "玉造 魅须丸的主题曲。\n\n这首歌是我按照在地牢深处遭遇不知是敌是友的神秘人物，与其对峙时\n的感觉作曲的。虽然的确就是这种情况（笑）\n然后，说到那个突然出现的伊奘诺物质，其实我有一张音乐CD\n也叫这个名字，请大家多多支持。结果到了最后，它还是神秘的物质。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "待ちわびた逢魔が時"
+zh-hans = "渴盼已久的逢魔之刻"
+en = "The Long-Awaited Oumagatoki"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "渴盼已久的逢魔之刻"
+page = "渴盼已久的逢魔之刻"
+
+[soundtrack-list.commentary]
+ja = "５面のテーマです。\n\n幻想的な山からの展望のイメージから、天狗が出て世界が急に身近\nになり、世界が狭くなると心が軽くなる……そんな感じの曲です。\n４面の虹龍洞が息苦しい感じだったのに対し、軽快で楽しい、そし\nてボスが判りやすい奴、というのが気持ちいいです。"
+zh-hans = "5面的主题曲。\n\n开始是从自如梦似幻的山上眺望，而天狗突然出现，又变回熟悉的世界，\n世界变小之后心里面轻松不少……这首曲子就是这种感觉。\n相比4面的虹龙洞给人无法呼吸的紧张感，5面轻松愉快，\nBOSS也是很好懂的家伙，让人感觉十分舒爽。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "星降る天魔の山"
+zh-hans = "天魔之山漫天星"
+en = "Starry Mountain of Tenma"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "饭纲丸龙",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面BOSS",
+    "[[饭纲丸龙]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "天魔之山漫天星"
+page = "天魔之山漫天星"
+
+[soundtrack-list.commentary]
+ja = "飯綱丸 龍（いいずなまる めぐむ）のテーマです。\n\n大物の天狗らしく、おどけた感じを残しつつも哀愁のある曲になり\nました。メインフレーズは個人的に懐かしい感じがして、何故か目\n頭が熱くなります。なんかこういうゲームらしいフレーズの曲って\n殆ど見かけなくなったからですかねぇ。"
+zh-hans = "饭纲丸 龙的主题曲。\n\n这是一首很有天狗中的大人物的味道，留有一丝诙谐感，同时又\n十分哀伤的曲子。主旋律给了我一种怀念的感觉，不知怎的眼眶\n有些湿润。大概是因为已经很久没有听到这种像游戏音乐的主旋律了吧。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ルナレインボー"
+zh-hans = "Lunar Rainbow"
+en = "Luna Rainbow"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Lunar Rainbow"
+page = "Lunar Rainbow"
+
+[soundtrack-list.commentary]
+ja = "最終面のテーマです。\n\n幻想的な夜空に軽快なリズムを合わせました。\nそういえば子供の頃って、月明りで自分の影がくっきりと地面に\n落ちていた気がします。今は周りが明るくなったから見えなく\nなったのか、それともあれは妖怪の仕業だったのか。"
+zh-hans = "最终面的主题曲。\n\n为恍若幻境的夜空配上了轻快的节奏。\n说起来在我小时候，能清晰看见在月光照耀下自己落在地面上的影子。\n究竟是因为现在周围变亮了才看不到的呢，还是说这也是妖怪的把戏呢？"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "あの賑やかな市場は今どこに　～ Immemorial Marketeers"
+zh-hans = "熙攘市场今何在　～ Immemorial Marketeers"
+en = "Where Is That Bustling Marketplace Now ~ Immemorial Marketeers"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "天弓千亦",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面BOSS",
+    "[[天弓千亦]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "熙攘市场今何在　～ Immemorial Marketeers"
+page = "熙攘市场今何在　～ Immemorial Marketeers"
+
+[soundtrack-list.commentary]
+ja = "天弓 千亦（てんきゅう ちまた）のテーマです。\n\n市場の神です。虹というのは異界と交錯する場所です。\n異なる物が交わる場所こそ、彼女のテリトリーなのです。\n曲の方も軽いリズムで楽しく賑やかなパートと、パワフルで\nどこか悲鳴のようにも聞こえるパートが交錯する曲になりました。"
+zh-hans = "天弓 千亦的主题曲。\n\n她是集市之神。说到彩虹，就是和异界交错的地方。\n不同事物交汇的地方，就是她的领域。\n这首曲子同样，由节奏轻快热闹愉快的部分，和富有力量感、\n仿佛能听见某处传来的悲鸣一样的部分，这两部分交错组成。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻想の地下大線路網"
+zh-hans = "幻想地下大轨道网"
+en = "The Great Fantastic Underground Railway Network"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻想地下大轨道网"
+page = "幻想地下大轨道网"
+
+[soundtrack-list.commentary]
+ja = "エキストラステージのテーマです。\n\n勾玉（酸素ボンベ）を手に入れて心置きなく、坑道探検に行く\n霊夢達をイメージしました。\n振り回されっぱなしだった彼女達の逆襲が始まる……\n筈だったのに。まさかさらに振り回される事になるとは"
+zh-hans = "EXTRA关卡的主题曲。\n\n这首曲子的感觉来自获得勾玉（氧气瓶）后毫无顾虑地开始探索\n矿道的灵梦等人。\n被耍得团团转的她们将要发起逆袭……\n本来应该是这样的。结果反而被耍得更加晕头转向了"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "龍王殺しのプリンセス"
+zh-hans = "灭杀龙王的公主"
+en = "The Princess Who Slays Dragon Kings"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "姬虫百百世",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[姬虫百百世]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "灭杀龙王的公主"
+page = "灭杀龙王的公主"
+
+[soundtrack-list.commentary]
+ja = "姫虫 百々世（ひめむし ももよ）のテーマです。\n\nムカデの姫です。いやー、いくら昆虫好きでもムカデはちょっと\nねぇ……。醜悪、毒がある、割と身近でレア度も低い、と嫌われる\n要素しかないムカデですが、やっぱり嫌いです。でも曲は最高に\n楽しくムカデみたいに格好いい物になりました。やっぱり好きかも。"
+zh-hans = "姬虫 百百世的主题曲。\n\n她是蜈蚣公主。哎，不管说多喜欢昆虫，蜈蚣还是太……\n丑恶、有毒、经常能够发现、稀有度低，蜈蚣身上全都是\n这种会被讨厌的要素，但再怎么说……还是讨厌。不过我把\n这首曲子写成了最为欢快，像蜈蚣一样帅气的音乐。说不定我还是喜欢蜈蚣。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "嵐の後の日曜日"
+zh-hans = "风暴过后的星期日"
+en = "The Sunday After the Storm"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "风暴过后的星期日"
+page = "风暴过后的星期日"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n\nお酒を手に、のんびりと何にもしない日曜日に憧れます。"
+zh-hans = "结局的主题曲。\n\n我渴望着过一个手拿酒杯无所事事的星期日。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "虹色の世界"
+zh-hans = "虹色的世界"
+en = "The Rainbow-Colored World"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "虹龙洞音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "虹色的世界"
+page = "虹色的世界"
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\n\n世界の市場に笑顔と賑やかさが戻る日を夢見て。"
+zh-hans = "制作人员名单的主题曲。\n\n我梦想着有一天，笑容和活力能回到全世界的市场。"
+
+[title]
+ja = "東方虹龍洞 〜 Unconnected Marketeers."
+en = "Touhou Kouryuudou ~ Unconnected Marketeers"
+zh = "東方虹龍洞 ～ Unconnected Marketeers."
+zh-hans = "东方虹龙洞 ～ Unconnected Marketeers."

@@ -1,0 +1,658 @@
+threlease = "TH16"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "桜舞い散る天空"
+zh-hans = "樱花舞落的天空"
+en = "The Sky Where Cherry Blossoms Flutter Down"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "樱花舞落的天空"
+page = "樱花舞落的天空"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\nこれから始まるよーという感じの曲です。\n和風と軽快さとちょっぴりのシリアスという感じになりました。"
+zh-hans = "标题画面的主题曲。\n\n有种马上要开始喽的感觉的曲子。\n做成了和风、轻快和些许严肃的感觉。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "希望の星は青霄に昇る"
+zh-hans = "希望之星直升青霄"
+en = "A Star of Hope Rises in the Blue Sky"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "希望之星直升青霄"
+page = "希望之星直升青霄"
+
+[soundtrack-list.commentary]
+ja = "１面のテーマです。\n\n導入らしさと夏の爽快感を出してみました。\n東方の中でもかなり軽めな曲で、スピード感が出たかなぁ\nと思います。\n何といってもビールが進む奴ですね。"
+zh-hans = "1面的主题曲。\n\n试着做出了引导的氛围和夏天的爽快感。\n在东方里也是相当轻快的曲子，我想应该能表现出\n速度感吧。\n不管怎么说啤酒都是人前进的动力啊。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "真夏の妖精の夢"
+zh-hans = "仲夏的妖精梦"
+en = "A Midsummer Fairy's Dream"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "爱塔妮缇拉尔瓦",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[{{爱塔‎}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "仲夏的妖精梦"
+page = "仲夏的妖精梦"
+
+[soundtrack-list.commentary]
+ja = "エタニティラルバのテーマです。\n\n何か謎めいたものを秘めた妖精という感じを目指しました。\nゲームに出てくる蝶々って、やっぱりミステリアスの象徴だと\n思うんですよね。\nまあ中身は妖精なんで頭は空っぽですが。"
+zh-hans = "{{爱塔}}的主题曲。\n\n目的是表现出隐藏着什么秘密的妖精的形象。\n我觉得游戏里经常出现的蝴蝶之类的，果然还是神秘的\n象征啊。\n不过本身是妖精所以脑袋还是空空如也。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "色無き風は妖怪の山に"
+zh-hans = "妖怪山间无色风"
+en = "The Colorless Wind on Youkai Mountain"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖怪山间无色风"
+page = "妖怪山间无色风"
+
+[soundtrack-list.commentary]
+ja = "２面のテーマです。\n\n一面の底抜けの軽快さとは対照的に、何かもの悲しさを入れて\n秋っぽさを出しました。\n季節が変わっても、ゲーム全体では同じ系統な曲になるように\n調整するのも面白いですね。"
+zh-hans = "2面的主题曲。\n\n与一面无穷尽的轻快感形成对照，展现出某种\n悲凉的秋意。\n这种就算季节在变化，也要把曲风调整为与整个游戏浑然一体\n的差事还蛮有趣的。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "山奥のエンカウンター"
+zh-hans = "深山的遭遇"
+en = "Deep-Mountain Encounter"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "坂田合欢",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[坂田合欢]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "深山的遭遇"
+page = "深山的遭遇"
+
+[soundtrack-list.commentary]
+ja = "坂田 ネムノのテーマです。\n\n非常にゲームらしい曲になったと思います。\nいやー、山姥ですよ。昔話に頻繁に出てくる割には\n正体不明な存在ですよねぇ。\n不気味さ、血気盛んな様子、そんな感じを東方風に仕上げました。"
+zh-hans = "坂田 合欢的主题曲。\n\n我觉得是非常像游戏音乐的曲子。\n哎呀——，是山姥哦。虽然在传说中频繁出现\n但意外地其实是真面目不明的存在呢。\n将悚然感、血气方刚的感觉，以东方风呈上。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "桜色の海を泳いで"
+zh-hans = "徜徉于樱色之海"
+en = "Swim in a Cherry Blossom-Colored Sea"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "徜徉于樱色之海"
+page = "徜徉于樱色之海"
+
+[soundtrack-list.commentary]
+ja = "３面のテーマです。\n\n月光に照らされて桜だけが光っている夜の上空を飛んでいる\nイメージです。\n\n桜はどうしても儚さが付きまとうのですが、今回もそんな感じで。"
+zh-hans = "3面的主题曲。\n\n在只有樱花映月而发亮的夜空中飞翔着\n表现了这样的氛围。\n\n樱花怎么看都像是笼罩着梦幻的事物，这次也有这样的感觉。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "一対の神獣"
+zh-hans = "成对的神兽"
+en = "A Pair of Divine Beasts"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "高丽野阿吽",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[高丽野阿吽]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "成对的神兽"
+page = "成对的神兽"
+
+[soundtrack-list.commentary]
+ja = "高麗野 あうんのテーマです。\n\n春らしさと勇敢さと、そこそこの強敵感。そしてゆるキャラ感。\nそんなのをごちゃごちゃ詰め込んだ無節操な曲です。\n彼女は一人で一対の神獣という設定ですが、多重人格という訳では\nありません。見えないけど尻尾もあるんやでー。"
+zh-hans = "高丽野 阿吽的主题曲。\n\n春意和勇敢，以及马马虎虎的强敌感。然后是悠闲角色的感觉。\n把这些东西杂乱地拌在一起形成的毫无原则的曲子。\n她从设定上来说是一个人对应了一对神兽，但并不是多重人格\n的意思。虽然看不见但她也有尾巴的喔。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻想のホワイトトラベラー"
+zh-hans = "幻想的白色旅人"
+en = "Illusionary White Traveler"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻想的白色旅人"
+page = "幻想的白色旅人"
+
+[soundtrack-list.commentary]
+ja = "４面のテーマです。\n\n冬と言えば吹雪ですね。\n雪国の人じゃ無いと判らないかも知れませんが、吹雪は豪雨とは\n異なり、地面から巻き上がる雪が横殴りに降っているんですよね。\n笠とか意味ありません。"
+zh-hans = "4面的主题曲。\n\n说到冬天就离不开风雪呢。\n不是雪国的住民可能很难明白，风雪和豪雨是不同的，\n从地面被风卷起来的大雪会迎面砸过来呢。\n戴斗笠是没用的。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔法の笠地蔵"
+zh-hans = "魔法的笠地藏"
+en = "The Magic Straw-Hat Jizo"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "矢田寺成美",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "[[矢田寺成美]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔法的笠地藏"
+page = "魔法的笠地藏"
+
+[soundtrack-list.commentary]
+ja = "矢田寺 成美のテーマです。\n\nどっしり地面に足をつけているイメージで作りました。\n元々の地蔵菩薩は弥勒菩薩の出現までの長い期間を救済する尊い\n菩薩なのですが、いつの間にか数え切れないくらい風変わりな地蔵が\n全国に広まっています。だから魔法地蔵だって居ても良いよね。"
+zh-hans = "矢田寺 成美的主题曲。\n\n以双脚深深扎根于地面为印象作的曲子。\n地藏菩萨原本是在弥勒菩萨出现之前的很长一段时间里普渡众生\n而得尊敬的菩萨，但不知从何时开始，数不胜数又风格迥异的地藏像\n开始出现在全国各地。所以要真有个魔法地藏也挺不错的。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "禁断の扉の向こうは、この世かあの世か"
+zh-hans = "禁忌之门对侧，是此世还是彼世"
+en = "Does the Forbidden Door Lead to This World, or the World Beyond?"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "禁忌之门对侧，是此世还是彼世"
+page = "禁忌之门对侧，是此世还是彼世"
+
+[soundtrack-list.commentary]
+ja = "５面のテーマです。\n\n東方の中でもかつて無い程に不気味な世界です。\nそれぞれの扉が誰かの背中になっていると思うと、便利と言えば\n便利ですけどね。\n何か扉が生温かそう。"
+zh-hans = "5面的主题曲。\n\n这是一个在东方系列中前所未有的诡异的世界。\n一想到各种各样的门都是被安在什么人的背上……\n要说方便倒也挺方便的。\n但这门怎么好像还有余温呢。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "クレイジーバックダンサーズ"
+zh-hans = "Crazy Back Dancers"
+en = "Crazy Backup Dancers"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "尔子田里乃",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面BOSS",
+    "丁礼田舞",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面BOSS",
+    "[[丁礼田舞]]<br />&[[尔子田里乃]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Crazy Back Dancers"
+page = "Crazy Back Dancers"
+
+[soundtrack-list.commentary]
+ja = "丁礼田 舞＆爾子田 里乃のテーマです。\n\n不気味さ、軽快さ、強敵感、無邪気さ、全てを盛り込んで\nその上で中ボスらしさをてんこ盛りにした曲です。\n二人分入れたので色々と贅沢な曲ですな。\n不気味に踊り狂っているイメージです。"
+zh-hans = "丁礼田 舞与尔子田 里乃的主题曲。\n\n将诡异感、轻快感、强敌感、天真感全数融入然后\n再加上中BOSS的感觉的一首盛得满满的曲子。\n因为加了两个人的份所以在各种方面都是很奢侈的一首曲子啊。\n有种诡异地狂舞的印象。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "イントゥ・バックドア"
+zh-hans = "Into Backdoor"
+en = "Into Backdoor"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Into Backdoor"
+page = "Into Backdoor"
+
+[soundtrack-list.commentary]
+ja = "６面のテーマです。\n\nボス前の高速ステージというイメージです。\nストーリーとは無関係に焦らせる感じが出ていると思います。"
+zh-hans = "6面的主题曲。\n\n以BOSS战前的高速关卡为印象作的。\n感觉能传达出和剧情本身无关的焦灼感。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "秘匿されたフォーシーズンズ"
+zh-hans = "被秘匿的四个季节"
+en = "The Concealed Four Seasons"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "摩多罗隐岐奈",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面BOSS",
+    "[[摩多罗隐岐奈]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "被秘匿的四个季节"
+page = "被秘匿的四个季节"
+
+[soundtrack-list.commentary]
+ja = "摩多羅 隠岐奈のテーマです。\n\nいかにもクライマックスって感じで強そうな曲です。\n今回の曲の中でもメロディが強い方なので、いっそ歌い始めれば\n良かったかも知れませんね。\n笑ってゲームにならない可能性が高いですが、それも最高かも。"
+zh-hans = "摩多罗 隐岐奈的主题曲。\n\n实在是高潮感十分强烈的曲子。\n在本次的曲子当中也是旋律感最强的一首，\n索性跟着曲子唱起来说不定也不错。\n虽然一唱就可能笑起来让游戏玩不下去，但这不也很棒嘛。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "もうドアには入れない"
+zh-hans = "门再也进不去了"
+en = "No More Going Through Doors"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "门再也进不去了"
+page = "门再也进不去了"
+
+[soundtrack-list.commentary]
+ja = "エキストラのテーマです。\n\n覚悟を決めて再び飛び込んだ謎の世界です。\n不気味さと優しさを兼ね備えた曲になりました。\n\n難しそうってのが曲から伝わってきて気が滅入ります（笑）"
+zh-hans = "EX面的主题曲。\n\n做好觉悟后再次跳入了谜之世界。\n做成了诡异和温柔兼备的曲子。\n\n由曲子传达出困难重重的感觉还真是令人绝望（笑）"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "秘神マターラ　～ Hidden Star in All Seasons."
+zh-hans = "秘神摩多罗　～ Hidden Star in All Seasons."
+en = "Secret God Matara ~ Hidden Star in All Seasons."
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "摩多罗隐岐奈",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[摩多罗隐岐奈]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "秘神摩多罗　～ Hidden Star in All Seasons."
+page = "秘神摩多罗　～ Hidden Star in All Seasons."
+
+[soundtrack-list.commentary]
+ja = "摩多羅 隠岐奈（真）のテーマです。\n\nエキストラなのにストーリーが本編になってしまいました。\n真の隠岐奈戦と言う事で、自然の持つ爽やかさを全て取っ払い\nそれでもメロ強めで真のラスボスらしい曲に仕上げました。\n正直、後ろから攻撃されるの大嫌い！"
+zh-hans = "摩多罗 隐岐奈（真）的主题曲。\n\n明明都到了EX关卡结果剧情却变成了重头戏。\n既然是要和真正的隐岐奈战斗，便全部去除了大自然的清爽感\n又加强了旋律之后呈上了一首像个真正的最终BOSS一样的曲子。\n说实话，我最讨厌背后阴人的攻击啦！"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "不自然な自然"
+zh-hans = "不自然的自然"
+en = "Unnatural Nature"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "不自然的自然"
+page = "不自然的自然"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n\nなんだかバッドエンドみたいですが、実は今回は全て\nバッドエンドみたいなもんです。"
+zh-hans = "结局画面的曲子。\n\n有种坏结局一样的感觉，\n其实本次的结局基本都挺像坏结局的。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "白い旅人"
+zh-hans = "白色旅人"
+en = "White Traveler"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天空璋音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "白色旅人"
+page = "白色旅人"
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\n\n冬の曲の別バージョンで、爽やかな終わりのイメージです。\n\nそういえば何で冬の吹雪の曲が爽やかかって？\nそれは「冬はつとめて」<ref>出自《枕草子》</ref>から、早朝をイメージしたからです。"
+zh-hans = "Staff画面的曲子。\n\n是冬天的曲子的另一版本，便做成了清清爽爽地结局的印象。\n\n你问为什么冬日吹雪的曲子能这么清爽？\n因为「冬则晨朝」，我是以大清早为印象谱曲的。\n"
+
+[title]
+ja = "東方天空璋 〜 Hidden Star in Four Seasons."
+en = "Touhou Tenkuushou ~ Hidden Star in Four Seasons"
+zh = "東方天空璋 ～ Hidden Star in Four Seasons."
+zh-hans = "东方天空璋 ～ Hidden Star in Four Seasons."

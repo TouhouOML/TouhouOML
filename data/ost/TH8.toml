@@ -1,0 +1,807 @@
+threlease = "TH8"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "永夜抄　～ Eastern Night."
+zh-hans = "永夜抄　～ Eastern Night."
+en = "Eternal Night Vignette ~ Eastern Night"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "永夜抄　～ Eastern Night."
+page = "永夜抄　～ Eastern Night."
+
+[soundtrack-list.commentary]
+ja = "タイトル画面テーマです。\nタイトル曲のイメージは前作から継続して同じ雰囲気になる様に。\nより幻想的になってきた感じがしますが、何せ幻想郷だし。\n幻想的、って幻想郷的の略なんですか？\nまぁ、タイトルの曲にしてはお気に入りだったり。"
+zh-hans = "标题画面的主题曲。\n想把标题曲的印象做成与前作相同的氛围。\n但变得更具幻想感了，毕竟是幻想乡嘛。\n所谓幻想感，是幻想乡感的简称吗？\n总之，作为标题曲我还挺喜欢的。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻視の夜　～ Ghostly Eyes"
+zh-hans = "幻视之夜　～ Ghostly Eyes"
+en = "Illusionary Night ~ Ghostly Eyes"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻视之夜　～ Ghostly Eyes"
+page = "幻视之夜　～ Ghostly Eyes"
+
+[soundtrack-list.commentary]
+ja = "１面テーマです。\n一面は軽快でノリのいい物が良いよなぁと思ってるんですが、これ、\n軽快かもしれないけどかなり暗いですよねぇ。\nでも永夜抄は夜と妖怪のお話なので、暗く暗く。\nこの曲は蓮台野夜行にも収録したので、知っている方も多いかも。\n１面からこの暗さじゃ先が思いやられるなぁと。"
+zh-hans = "第１面的主题曲。\n虽然总觉得第一面来点轻快而情绪高昂的东西多好啊，不过这首，\n也许还算轻快但却非常黑暗呢。\n但是因为永夜抄所讲述的是夜晚与妖怪的故事，黑暗点吧黑暗点吧。\n这首曲子由于在莲台野夜行中也有收录，也许有不少人都已经听过了。\n才第１面就这么黑暗了后面真是令人担忧啊。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "蠢々秋月　～ Mooned Insect"
+zh-hans = "蠢蠢的秋月　～ Mooned Insect"
+en = "Stirring an Autumn Moon ~ Mooned Insect"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "莉格露·奈特巴格",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第1面BOSS [[{{莉格露}}]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "蠢蠢的秋月　～ Mooned Insect"
+page = "蠢蠢的秋月　～ Mooned Insect"
+
+[soundtrack-list.commentary]
+ja = "リグル・ナイトバグのテーマです。\nいつもの東方炸裂な感じで。\n表情豊かな子供の無邪気さと、夜と蟲のイメージをミックスさせた\nイメージで創りました。蠢く小さな蟲40%。\nこの曲に限らず、今回のMIDI版は完全におまけです。Wavがあったら\n絶対にWavで聞いてください。Midiでは出せない幻想が含まれてます。"
+zh-hans = "{{莉格露}}的主题曲。\n传统的东方炸裂般的感觉。\n将表情丰富的小孩的天真和夜晚的虫子的印象互相混合，\n以此为印象创作出来的曲子。蠢动的小虫40。\n不仅限于这首曲子，这次的MIDI版完全就是附送品。假如有Wav版\n请务必听听看Wav。其中包含着Midi所无法表现的幻想。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "夜雀の歌声　～ Night Bird"
+zh-hans = "夜雀的歌声　～ Night Bird"
+en = "Song of the Night Sparrow ~ Night Bird"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "夜雀的歌声　～ Night Bird"
+page = "夜雀的歌声　～ Night Bird"
+
+[soundtrack-list.commentary]
+ja = "２面テーマです。\n先を急いでるんだけど、焦燥感は余り無く余裕すら漂っている感じ。\nそんな雰囲気を出そうとした曲です。\nこの曲は私なりに最大限の和洋折衷を目指した曲です。\n関係無いけど、どうも幻想郷の彼女達には危機感という物が無い。\n心底生きている事を楽しんでいる様な……。"
+zh-hans = "第２面的主题曲。\n虽然急着赶路，但不光没什么焦躁感反倒还有种悠闲的感觉。\n这便是曲子想表现出的氛围。\n这首曲子是我个人最大限度试图做到和洋折衷的曲子。\n虽然跟曲子本身没有什么关系，但幻想乡的少女们似乎没有所谓的危机感。\n仿佛是在从心底里享受着生活……。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "もう歌しか聞こえない"
+zh-hans = "已经只能听见歌声了"
+en = "Deaf to All but the Song"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "米斯蒂娅·萝蕾拉",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第2面BOSS [[{{米斯蒂娅}}]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "已经只能听见歌声了"
+page = "已经只能听见歌声了"
+
+[soundtrack-list.commentary]
+ja = "ミスティア・ローレライのテーマです。\nなんか２面ボスなのに強敵っぽい曲。\nミステリアスな部分と鳥っぽい部分と夜っぽい部分を……、ってよく\n分からないテーマは置かないで、可愛い格好良さが出るように創った\nもの。\nこの曲は、敵があんまり悪役っぽ過ぎないでまったり。"
+zh-hans = "{{米斯蒂娅}}的主题曲。\n明明是２面BOSS却莫名给人一种强敌般感觉的曲子。\n神秘的部分和鸟一般的部分和夜晚一般的部分……，\n这种不明所以的主题统统不管，只是为了表现可爱与帅气\n而创作出来。\n由于敌人不是太大的反派，所以这首曲子比较悠闲。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "懐かしき東方の血　～ Old World"
+zh-hans = "令人怀念的东方之血　～ Old World"
+en = "Nostalgic Blood of the East ~ Old World"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "令人怀念的东方之血　～ Old World"
+page = "令人怀念的东方之血　～ Old World"
+
+[soundtrack-list.commentary]
+ja = "３面テーマです。\nこれは懐かしい感じがする……、東方を古くから知っている人には判\nるかも知れないけど、数年前の私の曲みたいな曲です。創り方も同じ\nテーマは懐かしい感じのする曲、ですが私だけが懐かしく思う曲を創\nってどうする（笑）\nかなりテーマを勘違いしてますね。人生80年代テイスト。"
+zh-hans = "第３面的主题曲。\n这首曲子有种令人怀念的感觉……，从很早以前便接触到东方的人\n也许可以感觉到，这是很像我数年前的曲风的曲子。创作方式和主题\n都令人怀念的曲子，不过创作这种只有我一个人感觉到怀念的曲子\n算什么事啊（笑），\n对主题有很大的误解呢。有种80年代生活的风味。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "プレインエイジア"
+zh-hans = "Plain Asia"
+en = "Plain Asia"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "上白泽慧音",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第3面BOSS [[上白泽慧音]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Plain Asia"
+page = "Plain Asia"
+
+[soundtrack-list.commentary]
+ja = "上白沢慧音のテーマです。\nミステリアスさと真剣さを強調しました。\nイントロのピアノがかなり印象的でメロディアスな感じがして、結構\n気に入ってます。\n私にとってイーストエイジア、神国の文化は当然進行中です。決して\n和製の音楽を癒しの材料なんかに貶めるものか。"
+zh-hans = "上白泽慧音的主题曲。\n强调了神秘感和认真的感觉。\n前奏中的钢琴令人印象深刻且旋律十分优美，\n我非常喜欢。\n对我而言East Asia、神国<ref>指日本。</ref>的文化自然是正在进行中。\n决不能让别人贬低说日本音乐只能当成治愈系的材料。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "永夜の報い　～ Imperishable Night"
+zh-hans = "永夜的报应　～ Imperishable Night"
+en = "Retribution for the Eternal Night ~ Imperishable Night"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "永夜的报应　～ Imperishable Night"
+page = "永夜的报应　～ Imperishable Night"
+
+[soundtrack-list.commentary]
+ja = "４面のテーマです。\nこの曲はこのゲームのテーマ曲でもあるタイトル画面曲の編曲となっ\nています。非常に短くテンポが良い曲です。\n終盤、妖怪の鳴き声の様な笑い声の様な音も入っていますが、おどろ\nおどろしくならない所が普通ではない。\n全体的に拍子もおかしい。少しずつ狂気が見えて来る気がする。"
+zh-hans = "第４面的主题曲。\n这首曲子是从标题画面曲，亦即这个游戏的主题曲编曲而来的。\n曲子非常短且节奏感很强。\n在结尾处，还加入了仿佛妖怪的叫声或是笑声般的声音，\n但奇怪的是并不会令人感到惊悚。\n总体来看节拍很怪。感觉慢慢能够看出一些疯狂的苗头了。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "少女綺想曲　～ Dream Battle"
+zh-hans = "少女绮想曲　～ Dream Battle"
+en = "Maiden's Capriccio ~ Dream Battle"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "博丽灵梦",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第4面BOSS [[博丽灵梦]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "少女绮想曲　～ Dream Battle"
+page = "少女绮想曲　～ Dream Battle"
+
+[soundtrack-list.commentary]
+ja = "博麗霊夢のテーマです。\n懐かしさをテーマに、って何故懐かしいかといえば、数年前の曲のア\nレンジだからです。第４弾、東方幻想郷の４面ボス（霊夢）の曲のア\nレンジバージョンです。４面のパターンが幻想郷と酷似しているので、\n曲も同じにして一部の人だけに完全なデ・ジャヴ感を与えようと（ぉ\n今回のゲームの裏テーマは「幻想と言う名の古き記憶」です。"
+zh-hans = "博丽灵梦的主题曲。\n以怀旧为主题，要问为什么怀念的话，是因为这是由数年前的曲子编曲而成的。\n这是第４作，东方幻想乡的４面BOSS（灵梦）的曲子的重编曲版。\n因为４面的模式与幻想乡非常相似，于是也用了相同的曲子，\n想着能让一些人体会到完全的既视感（喂\n这次游戏的里主题是“名为幻想的古老记忆”。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "恋色マスタースパーク"
+zh-hans = "恋色Master spark"
+en = "Love-Colored Master Spark"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "雾雨魔理沙",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第4面BOSS [[雾雨魔理沙]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "恋色Master spark"
+page = "恋色Master spark"
+
+[soundtrack-list.commentary]
+ja = "霧雨魔理沙のテーマです。\nここまで行くと懐かしいもへったくれも無い曲です。封魔録は第２弾\nですからねぇ。そんな昔の曲のアレンジです。\n今の魔理沙でこの曲だと違和感あるかな、と思ったら何にも違和感無\nくてびっくり。こんなに変わらない人間も珍しいです。\n魔理沙のテーマ曲は５曲あるんですけどこれが一番それっぽいかな。"
+zh-hans = "雾雨魔理沙的主题曲。\n都到这一步了也就不用说什么怀念不怀念了。\n封魔录是第２作呢。就是那么古老的曲子的改编曲。\n当初一直在想，现在的魔理沙再用这首音乐会不会有违和感，\n结果一点违和感也没有，真惊人。如此恒定不变的人很少见啊。\n她的主题曲虽然有５首但这首是不是最像她的呢。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "シンデレラケージ　～ Kagome-Kagome"
+zh-hans = "灰姑娘的笼子　～ Kagome-Kagome"
+en = "Cinderella Cage ~ Kagome-Kagome"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "灰姑娘的笼子　～ Kagome-Kagome"
+page = "灰姑娘的笼子　～ Kagome-Kagome"
+
+[soundtrack-list.commentary]
+ja = "５面のテーマです。\n東洋風なのか西洋風なのか、古いのか新しいのかはっきりしない曲で\nす。ボスもそんな感じ。でもステージ背景は和風ホラー風。\nいつも曲にはテーマがありますが、この曲のテーマはかごめかごめ、\nつまり曲です。アレンジではなく曲のテーマを曲にする。\n表現のテーマは檻に囚われてはいけないと思う。"
+zh-hans = "第５面的主题曲。\n已分不清究竟是东洋风还是西洋风，究竟是古典还是新潮的曲子。\nBOSS也给人那种感觉，不过关卡的背景倒是和风恐怖风。\n以往的曲子都有一个主题，而这首曲子的主题是《Kagome Kagome》，\n也就是曲子。这不是改编，而是将曲子的主题做成了曲子。\n表现的主题，我认为是不能为笼子所困。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "狂気の瞳　～ Invisible Full Moon"
+zh-hans = "狂气之瞳　～ Invisible Full Moon"
+en = "Lunatic Eyes ~ Invisible Full Moon"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "铃仙·优昙华院·因幡",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第5面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第5面BOSS [[{{铃仙}}]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "狂气之瞳　～ Invisible Full Moon"
+page = "狂气之瞳　～ Invisible Full Moon"
+
+[soundtrack-list.commentary]
+ja = "鈴仙・Ｕ・イナバのテーマです。\n東方で終盤ボスっぽい曲って言えばこんな感じ。ほんと、変わりばえ\nしないなぁ（笑）\n激しいイントロから、途中ちょっと切なさのあるメロディを挿んで、\nサビで吹っ切れる。\nああみんな楽しそうだなぁ。"
+zh-hans = "{{铃仙|2}}的主题曲。\n在东方当中，要说有终盘BOSS感觉的曲子的话，就是这种感觉。\n真是，一点都没变呐（笑）。<ref>日文正确写法是“代わり映え”。</ref>\n以激烈的前奏开始，途中穿插着略为悲伤的旋律，\n然后在高潮部分又变得心情愉快。\n哎呀大家都挺高兴的嘛。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ヴォヤージュ1969"
+zh-hans = "Voyage1969"
+en = "Voyage 1969"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第6面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第6面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Voyage1969"
+page = "Voyage1969"
+
+[soundtrack-list.commentary]
+ja = "６面のテーマです。\n二十世紀の旅人。\n二十世紀のノアの箱舟は、期待と不安を乗せて宙を飛んだ。\nだが、期待だけを月に置き忘れてきてしまったのだろうか。\n未来と言われていた二十一世紀には、不安とほんの少しの幻想だけ\nしか残されていなかった。"
+zh-hans = "第6面的主题曲。\n二十世纪的旅人。\n二十世纪的诺亚方舟，承载着期待与不安向着天空飞去，\n但似乎只能将期待遗忘在月球之上了吧。\n在被称为未来的二十一世纪里，\n只残留着不安与少许的幻想。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "千年幻想郷　～ History of the Moon"
+zh-hans = "千年幻想乡　～ History of the Moon"
+en = "Gensokyo Millennium ~ History of the Moon"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "八意永琳",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第6面BOSS [[八意永琳]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "千年幻想乡　～ History of the Moon"
+page = "千年幻想乡　～ History of the Moon"
+
+[soundtrack-list.commentary]
+ja = "八意 永琳のテーマです。\nありえない程勇ましかったり、激しかったり、爽やかだったり。\n一つだけ共通しているテーマは、物凄く馬鹿みたいに元気である事。\n元気と馬鹿だけがラスボスの取得なんですから（えー）\nというか、こんな曲でＳＴＧって言う事自体がルナティック。\n表現のテーマは檻に囚われてはいけないと思う。"
+zh-hans = "八意永琳的主题曲。\n充满着难以置信的勇猛、激烈与飒爽。\n唯一与其它音乐共通的主题就是像笨蛋一样非常有精力。\n莫非是因为只有精力和笨蛋才是最终BOSS的长处（咦ー）\n不过在STG里面用这样的曲子本身便已很疯狂了。\n想表达的主题是不能为笼子所困。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "竹取飛翔　～ Lunatic Princess"
+zh-hans = "竹取飞翔　～ Lunatic Princess"
+en = "Flight of the Bamboo Cutter ~ Lunatic Princess"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "蓬莱山辉夜",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第6面BOSS [[蓬莱山辉夜]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "竹取飞翔　～ Lunatic Princess"
+page = "竹取飞翔　～ Lunatic Princess"
+
+[soundtrack-list.commentary]
+ja = "蓬莱山 輝夜のテーマです。\nキテるなぁ（笑）　冷静さを欠いた感情剥き出しの曲です。\n曲で感情を表現するのではなく、感情で曲を創る、\nむしろゲームが曲を創る。\nなんてクールじゃない、今風じゃない曲なんだろう（笑）\n私はプロじゃないですからねぇ。"
+zh-hans = "蓬莱山辉夜的主题曲。\n真兴奋呐（笑） 这是表露出缺乏冷静的感觉的曲子。\n不是以曲子来表达感情，而是以感觉来作曲，\n倒不如说是游戏创作了这个曲子。\n为什么不是酷酷的、有现代感的曲子呢（笑）\n因为我不是专业人士呢。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ヴォヤージュ1970"
+zh-hans = "Voyage1970"
+en = "Voyage 1970"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "Spell",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Final",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Final Spell",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Voyage1970"
+page = "Voyage1970"
+
+[soundtrack-list.commentary]
+ja = "ファイナルスペルのテーマです。\n焦燥感だけをあおる曲。この曲は本格的に焦る。\n物凄く短いフレーズの繰り返しが本能的の焦らせる。\nそんなに朝になるのが嫌かねぇ（笑）\nでもまぁ、焦るはずなのに何処かしら懐かしさのあるのは不思議。"
+zh-hans = "Final Spell的主题曲。\n只是煽动着焦躁感的曲子。这首音乐给人真正充满了焦躁的感受。\n不断重复着非常短的乐段使人本能地焦躁起来。\n就是那么不愿意让白天到来呢（笑）。\n话说回来，本应焦躁却从不知从何感到一丝怀念，真是不可思议。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "エクステンドアッシュ　～ 蓬莱人"
+zh-hans = "Extend Ash　～ 蓬莱人"
+en = "Extend Ash ~ Person of Hourai"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra关卡主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra关卡主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Extend Ash　～ 蓬莱人"
+page = "Extend Ash　～ 蓬莱人"
+
+[soundtrack-list.commentary]
+ja = "エキストラステージのテーマです。\nエキストラにしては落ち着いた曲、か？\n誰も怖がらない肝試し、っていうとこんな感じかな（嘘）\nちょっと心もとないところもあったりなんかしちゃって、でも\nエクステンド。 ＥＸＴＥＮＤを集めてエクステンド。"
+zh-hans = "Extra面的主题曲。\n作为EX关卡来说是首很沉稳的曲子，吗？\n要说那种谁也不怕的试胆应该就是这种感觉吧（才怪）\n有点不放心呢，但是这是Extend。\n收集起EXTEND之后Extend。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "月まで届け、不死の煙"
+zh-hans = "飘上月球，不死之烟"
+en = "Reach for the Moon, Immortal Smoke"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "藤原妹红",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra关卡BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    18,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra关卡BOSS",
+    "[[藤原妹红]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "飘上月球，不死之烟"
+page = "飘上月球，不死之烟"
+
+[soundtrack-list.commentary]
+ja = "藤原 妹紅のテーマです。\n出来るだけ格好よさや威圧感、パワフルさを抑えて、如何わしさが\n出るようしました。いやまぁ曲で如何わしくしなくても、キャラだ\nけで十分如何わしいんですが。\nエキストラボスはいつも昔のゲームっぽい曲にしている所がありますが、\n今回は大昔のゲームっぽい曲に（ぉ"
+zh-hans = "藤原妹红的主题曲。\n尽可能地压抑住帅气、威压感以及力量感，突出一种可疑的感觉。\n不过话说回来，就算曲子本身不可疑，\n角色本身便已非常之可疑了。\nEX关的BOSS一直以来均使用了很像以前游戏的曲子，\n不过这次用的是很久以前的游戏的曲子（喂"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "月見草"
+zh-hans = "月见草"
+en = "Evening Primrose"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    19,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "月见草"
+page = "月见草"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\nいつものです。ああまったり。\nいつも、エンディング曲はあんまり元気じゃないんだよなぁ。\nそれもなんだかアレです。"
+zh-hans = "结局的主题曲。\n和往常一样。哎呀真悠闲。\n一直以来，结局曲都没什么精神呀。\n总觉得那有点那个。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Eternal Dream　～ 幽玄の槭樹"
+zh-hans = "Eternal Dream　～ 幽玄的枫树"
+en = "Eternal Dream ~ Mystical Maple"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    20,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Eternal Dream　～ 幽玄的枫树"
+page = "Eternal Dream　～ 幽玄的枫树"
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\nこれも懐かしい物を混ぜて入れておきました。\n槭樹(Maple)ですね。古い記憶です。\n今回は古い記憶が全体的なテーマにあるので。\nというか、スタッフ少なすぎ。"
+zh-hans = "制作人员列表的主题曲。\n这个曲子当中也混入了令人怀念的东西。\n是槭树(Maple)呢。久远的记忆。\n其实这一次所有主题曲都有久远的记忆。\n话说，这制作人员也太少了。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "東方妖怪小町"
+zh-hans = "东方妖怪小町"
+en = "Eastern Youkai Beauty"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "Word的主题曲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Last",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "永夜抄音乐名",
+    21,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Last Word的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "东方妖怪小町"
+page = "东方妖怪小町"
+
+[soundtrack-list.commentary]
+ja = "ラストワードのテーマです。\nストーリーの枠から外れた感じを出そうとしました。\n格好良いようにも見えてそうでもなく。\n可愛いようにも見えてそうでもなく。\n不気味なように……は見えなく。\nずっと流れていても嫌な気分にならなければ良いんですけどね。"
+zh-hans = "Last Word的主题曲。\n想要表现出一种脱离剧情框架的感觉。\n看起来似乎很帅气但并非如此。\n看起来似乎很可爱但并非如此。\n看起来似乎……不令人害怕。\n如果能够让人一直听下去心情也不会变坏就好了呢。"
+
+[title]
+ja = "東方永夜抄 〜 Imperishable Night."
+en = "Touhou Eiyashou ~ Imperishable Night"
+zh = "東方永夜抄 ～ Imperishable Night."
+zh-hans = "东方永夜抄 ～ Imperishable Night."

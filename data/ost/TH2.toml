@@ -1,0 +1,847 @@
+threlease = "TH2"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "東方封魔録　～浄土曼荼羅"
+zh-hans = "东方封魔录　～净土曼荼罗"
+en = "Eastern Demon-Sealing Record ~ Pure Land Mandala"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "东方封魔录　～净土曼荼罗"
+page = "东方封魔录　～净土曼荼罗"
+
+[soundtrack-list.commentary]
+ja = "ＭＩＤＩ版はますます東方な感じがしません（笑）。\n大体、曲の後半部なんてどう聞いても中世風な気がするしなぁ。"
+zh-hans = "MIDI版听起来更没有东方的感觉了（笑）。\n到了曲子的后半部分不管怎么听都感觉是中世纪风格呐。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "OP.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "東方封魔録　～浄土曼荼羅\nＺＵＮ（太田）\nタイトルの曲\n曲は長いのに```(^^;"
+zh-hans = "东方封魔录　～净土曼荼罗\nＺＵＮ（太田）\n标题曲\n虽然曲子有点长```(^^;"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "OP.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "東方封魔録　～浄土曼荼羅　　　　　　　　　　　　　　　　ＺＵＮ"
+zh-hans = "东方封魔录　～净土曼荼罗　　　　　　　　　　　　　　　　ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "博麗　～Eastern Wind"
+zh-hans = "博丽　～Eastern Wind"
+en = "Hakurei ~ Eastern Wind"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "博丽　～Eastern Wind"
+page = "博丽　～Eastern Wind"
+
+[soundtrack-list.commentary]
+ja = "メインの先律<ref>可能是“旋律”的误写。</ref>は、かなり派手な入り方をします。\n実は、１、２、３面とも同じような流れを持っています。\n（静かな曲から、派手な曲へ）\nこれは、作曲者がこういう曲しかつくれな．．．\nモゴモゴもとい、こういう曲が好きだからです。\n後半部分はメロディを作り直してあります。\nどんな感じでしょう。"
+zh-hans = "主旋律一如既往的华丽，\n实际上前三面都是用了同样的编曲方式（从安静的曲子到华丽的曲子）\n是作曲者只会做这样的曲目吧．．．\n（咕咕哝哝），其实是因为喜欢啦。\n重做了后半部分的旋律。\n感觉如何。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "STAGE0.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "博麗　～Eastern Wind\nＺＵＮ（太田）\nＳＴＡＧＥ　１の曲\n作り直したら、多少暗くなちゃったかな。\nでもまだ、許せるレベルです。"
+zh-hans = "博丽　～Eastern Wind\nＺＵＮ（太田）\nＳＴＡＧＥ　１的曲子\n再做一次的话，就会多少有些黑暗了吧。\n不过现在还是能够容忍的范围。"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "STAGE0.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "博麗　　～Ｅａｓｔｅｒｎ　Ｗｉｎｄ　　　　　　　　　　　　ＺＵＮ"
+zh-hans = "博丽　　～Ｅａｓｔｅｒｎ　Ｗｉｎｄ　　　　　　　　　　　　ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "End of Daylight"
+zh-hans = "End of Daylight"
+en = "End of Daylight"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "End of Daylight"
+page = "End of Daylight"
+
+[soundtrack-list.commentary]
+ja = "夜なのに、鳥の鳴き声．．．\nやはりこの曲は明け方のイメージですね。\nやっぱりストリングメインです。\n私は激しい曲を作ってもあんまりギターを使わないんですよね。\nほんとならギュィィィィンって使いたいですが使えないので。"
+zh-hans = "虽是夜晚，却有鸟啼声……\n果然这首曲子有着黎明的印象呢，果然是以弦乐合奏为主。\n我即使制作激烈的曲子也不怎么使吉他。\n说真的这曲应该做出吉他拉弦的那种声音，但是因为不会作。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "STAGE1.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "End of Daylight\nＺＵＮ（太田）\nＳＴＡＧＥ　２の曲です。\nうーん、なんだろう (·_·?"
+zh-hans = "End of Daylight\nＺＵＮ（太田）\nＳＴＡＧＥ　２的曲子。\n嗯——，是什么吧(·_·?"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "STAGE1.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "End of Daylight                                         ＺＵＮ"
+zh-hans = "End of Daylight                                         ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻夢界"
+zh-hans = "幻梦界"
+en = "World of Fantasies"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻梦界"
+page = "幻梦界"
+
+[soundtrack-list.commentary]
+ja = "ＦＭ版に比べ、かなり派手になってます。\nでも、この曲は幻想的な方が、\nゲームの流れとしてはいいんですが．．．\nドラムパターンにＨａｎｄＣｒａｐを入れるのは好きです。\nはい。"
+zh-hans = "和FM版本比起来更加的华丽呢。\n但是，我感觉这首曲子做成幻想风格更适合游戏，不过．．．\n我喜欢在鼓点里加入掌声。\n是的。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "STAGE2.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "幻夢界\nＺＵＮ（太田）\nＳＴＡＧＥ　３の曲\nかなり暗いかな。(^_^;"
+zh-hans = "幻梦界\nＺＵＮ（太田）\nＳＴＡＧＥ　３的曲子\n相当地暗啊。(^_^;"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "STAGE2.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "幻夢界　　　　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ"
+zh-hans = "幻梦界　　　　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ひもろぎ、むらさきにもえ"
+zh-hans = "神篱，如紫色火焰般燃烧"
+en = "Himorogi, Burn in Violet"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "神篱，如紫色火焰般燃烧"
+page = "神篱，如紫色火焰般燃烧"
+
+[soundtrack-list.commentary]
+ja = "ＦＭ版で出来なかったことをいろいろやってます。\nええ。前半部分のメロディを新しく作り直しました。\nＭＩＤＩ版のサビに入る前の部分が好きです。\nなんかサビに向けていい感じじゃないですか。"
+zh-hans = "做了各种在FM版做不出来的事情。\n嗯，重新创作了前半部分的旋律。\n我喜欢ＭＩＤＩ版在进入高潮前的部分。\n不是有种面向高潮心情愉悦的感觉吗。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "STAGE3.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "ひもろぎ、むらさきにもえ\nＺＵＮ（太田）\nどこにつかおうかな～```"
+zh-hans = "神篱，如紫色火焰般燃烧\nＺＵＮ（太田）\n用在哪里吧～ ```"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "STAGE3.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "ひもろぎむらさきにもえ　　　　　　　　　　　　　　　　　ＺＵＮ"
+zh-hans = "神篱，如紫色火焰般燃烧　　　　　　　　　　　　　　　　　ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "東方封魔録　～幽幻乱舞"
+zh-hans = "东方封魔录　～幽幻乱舞"
+en = "Eastern Demon-Sealing Record ~ Spectral Boisterous Dance"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "最终面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "最终面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "东方封魔录　～幽幻乱舞"
+page = "东方封魔录　～幽幻乱舞"
+
+[soundtrack-list.commentary]
+ja = "難産です。はい。なにせ、ＦＭ版を作ったのが八カ月前。\nそのくらい前の曲はイメージが固定されてるから、\nベースを新しくかいたりするのが難しいのです。\nおかげで、３回ほど作り直しました。\n後半メロディを新しくしてますが、\n結構いい感じですよねぇ？　ねぇ？（汗）\nそういえばこの曲は、\n生楽器っぽい音が少ないのでゲームっぽくていいかも。"
+zh-hans = "难产了呀。是的。毕竟，创作FM版是在八个月前了。\n那么久以前的曲子，其印象已经固定了，\n重新写贝斯部分真是相当难。\n因此，我重写了3次之多。\n我重新制作了后半的旋律，\n感觉很不错？是吧？（汗）\n说起来这首曲子\n因为很少有真实乐器的声音，挺适合游戏的，感觉不错。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "STAGE4.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "東方封魔録　～幽幻乱舞\nＺＵＮ（太田）\n封魔録のテーマ曲　ＰＭＤでの練習のためにつくりました。\n‘東方’とは言い難いですよね(^_^;。"
+zh-hans = "东方封魔录　～幽幻乱舞\nＺＵＮ（太田）\n封魔录的主题曲　为练习使用ＰＭＤ而创作了。\n‘东方’这个词挺难读的呢(^_^;。"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "STAGE4.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "東方封魔録　～幽幻乱舞　　　　　　　　　　　　　　　　　　ＺＵＮ"
+zh-hans = "东方封魔录　～幽幻乱舞　　　　　　　　　　　　　　　　　　ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "She's in a temper!!"
+zh-hans = "She's in a temper!!"
+en = "She's in a temper!!"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "里香",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[里香]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "She's in a temper!!"
+page = "She's in a temper!!"
+
+[soundtrack-list.commentary]
+ja = "イントロ部分が短くなってます。\n何でかというと、サビのあとの部分を新しく自分の得意な\nパターンでかいたのがいい感じなので、\nゲーム中にそこまでまわる様にです。\nつまり、１面のボスがすぐに死んでしまうのがいけないんですね。"
+zh-hans = "前奏部分变短了。\n要说为什么的话，因为我用自己得意的样式将高潮以后的部分重写了，感觉不错，\n所以我将其做得在游戏中可以听到那部分，（从而将前奏变短了）。\n也就是说，１面的Boss不能死的那么快。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "BOSS1.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "She's in a temper!!\nＺＵＮ（太田）\n１、２面のボス\nいかにも弱そうでしょ"
+zh-hans = "She's in a temper!!\nＺＵＮ（太田）\n１、２面的boss\n的确很弱的啊"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "BOSS1.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "She's in a temper!!                                    ＺＵＮ"
+zh-hans = "She's in a temper!!                                    ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "やみのちから"
+zh-hans = "黑暗的力量"
+en = "Power of Darkness"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "明罗",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[明罗]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "黑暗的力量"
+page = "黑暗的力量"
+
+[soundtrack-list.commentary]
+ja = "こういう短いフレーズはいくらでも思い付くんですよね。\nまあ、ボスの曲だし短くても結構かなぁ。と。\n（コメントも短い）"
+zh-hans = "我想起了很多这种短小的乐句。\n嘛，因为是Boss的曲子，短点也足够了吧。\n（评论也很短）"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "BOSS4.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "やみのちから\nＺＵＮ（太田）\nどこにつかおうかな～"
+zh-hans = "黑暗的力量\nＺＵＮ（太田）\n用在哪里吧～"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "BOSS4.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "やみのちから　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ"
+zh-hans = "黑暗的力量　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "死を賭して"
+zh-hans = "以死相赌"
+en = "Bet on Death"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "以死相赌"
+page = "以死相赌"
+
+[soundtrack-list.commentary]
+ja = "珍しくメインの先律がギターです。\n正確にはギターの音色で音を出しているだけで、\nメロディがギターっぽくないです。\nこのメロディも、ＦＭ版と違います。\n作るの楽だった(^^;。"
+zh-hans = "非常难得的用吉他作为主乐器，\n正确地说只是用吉他的音色发出声音而已，\n所以旋律听起来就没有吉他味了。\n旋律和FM版本的有所差别。\n创作的快乐（^^;。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "BOSS2.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "死を賭して\nＺＵＮ（太田）\nＳＴＡＧＥ　３のボスの曲です。\nループ短い"
+zh-hans = "以死相赌\nＺＵＮ（太田）\nＳＴＡＧＥ　３的boss曲。\n一次循环很短"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "BOSS2.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "死を賭して　　　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ"
+zh-hans = "以死相赌　　　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "恋色マジック"
+zh-hans = "恋色Magic"
+en = "Love-Colored Magic"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "雾雨魔理沙（旧作角色）",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "[[雾雨魔理沙（旧作角色）|魔理沙]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "恋色Magic"
+page = "恋色Magic"
+
+[soundtrack-list.commentary]
+ja = "この曲は、全体的に少女のイメージをもたしてあります。\nイントロ部分ははかない感じですが、\n先律のなんか元気な感じ、さびの強そうな感じ、\nでもなんか東方な感じがするんですよね。\nといっても巫女さんには合いそうもないですが。\n（それいったら全部の曲がそう(^^;）"
+zh-hans = "我将这首曲子做成满溢少女风的曲子了。\n前奏部分感觉有点短，\n但旋律感觉很有活力，高潮感觉有点强，\n不管也有点东方的感觉呢。\n虽然这么说，却和巫女完全不搭。\n（这么说的话，全部的曲子都是这样(^^;)"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "BOSS3.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "恋色マジック\nＺＵＮ（太田）\n魔理沙のテーマ\n魔女っ娘です。でも、曲は、東洋風だったりしちゃったり。"
+zh-hans = "恋色Magic\nＺＵＮ（太田）\n魔理沙的主题曲\n是魔女一样的少女。不过，曲子有着东洋风，有点违和。"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "BOSS3.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "恋色マジック　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ"
+zh-hans = "恋色Magic　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Complete Darkness"
+zh-hans = "Complete Darkness"
+en = "Complete Darkness"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "魅魔",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "最终面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "最终面BOSS",
+    "[[魅魔]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Complete Darkness"
+page = "Complete Darkness"
+
+[soundtrack-list.commentary]
+ja = "なんか、テンポがめちゃくちゃです。\n速くなったり遅くなったり。\nでも、いかにもラストって感じがしませんか？\n混沌とした感じ、殺人的に速いベース、\nストリングとピアノとドラムオンリーのさび．．．\nでも、なんか、テンポがずれてくような．．．"
+zh-hans = "节奏有点杂乱无章。\n高速低速变化莫测。\n不过，的确有最终Boss的感觉吧？\n混沌的感觉，要命快速的贝斯，\n弦乐器，钢琴以及唯有鼓的高潮．．．\n不过感觉节奏好像失控了。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "MIMA.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Complete Darkness\nＺＵＮ（太田）\n魅魔のテーマ\nボスより先に、曲だけつくってやんの\nでも強そうでかっこいいでしょ"
+zh-hans = "Complete Darkness\nＺＵＮ（太田）\n魅魔的主题曲\n比创作boss更早的，就只有作曲\n不过好像很强所以刚刚好"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "MIMA.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "Complete Darkness                                        ＺＵＮ"
+zh-hans = "Complete Darkness                                        ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "遠野の森"
+zh-hans = "远野之森"
+en = "Forest of Tono"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "远野之森"
+page = "远野之森"
+
+[soundtrack-list.commentary]
+ja = "もしかして、ゲーム中一番場面に合わない曲かも知れない。\nそんなに悲しい曲じゃないんだけど、\nエンディングは全然暗くないので。"
+zh-hans = "本曲大概是整个游戏中最不切合场景的音乐也说不定。\n事实上没有那么感伤，结局也根本就不阴暗就是了。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "END1.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "遠野の森\nＺＵＮ（太田）\nばっどえんどのテーマ\nばっどえんどってこんなに暗くないんだけど```"
+zh-hans = "远野之森\nＺＵＮ（太田）\nbadend的主题曲\n是bad end，不过没有那么黑暗了```"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "END1.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "遠野の森　　　　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ"
+zh-hans = "远野之森　　　　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "昔話わんだーらんど"
+zh-hans = "传说中的仙境"
+en = "Legendary Wonderland"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "传说中的仙境"
+page = "传说中的仙境"
+
+[soundtrack-list.commentary]
+ja = "この曲だけ倍近くのパートを使ってます。\nだから音が深い。完全に自分の得意なパターンです。\nＦＭ版と違って、さびだけを繰り返さないでまた頭に戻ります。"
+zh-hans = "这是仅有的将往常的部分复用的曲子，\n所以给人厚重的感觉，而这也是我个人的得意之技。\n与FM版不同，并非只对高潮进行重复，而是又回到开头了。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "ENDING.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "青空越えて\nＺＵＮ（太田）\nえんでぃんぐのテーマ\n使えないかも```"
+zh-hans = "越过蓝天\nＺＵＮ（太田）\nending的主题曲\n说不定用不上```"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "ENDING.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "Ｗｏｎｄｅｒｌａｎｄ"
+zh-hans = "Ｗｏｎｄｅｒｌａｎｄ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "エキストララブ"
+zh-hans = "Extra Love"
+en = "Extra Love"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Extra Love"
+page = "Extra Love"
+
+[soundtrack-list.commentary]
+ja = "ＦＭ版に比べ、かなりグレードアップしてます。\nエレキピアノが、なんかラジオのような雰囲気をかもしだしていい感じです。\nＭＩＤＩ版のこのサビが、ちょっとお気に入り。\nこのステージは、弾が激しくてそれどころじゃないかもしれないけど．．．"
+zh-hans = "与FM版相比就像是升级版一般。\n电钢琴为曲子赋予了一种有若收音机般的气氛。\n我有点喜欢MIDI版的这个高潮。\n虽然这关弹幕很激烈，也许不是欣赏曲子的时候……"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "STAGE5.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "クレイジーマジック\nＺＵＮ（太田）\nエキストラステージのテーマ\nなんじゃこりゃ"
+zh-hans = "Crazy Magic\nＺＵＮ（太田）\nEX面的主题曲\n什么啊这是"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "STAGE5.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "エキストララブ　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ"
+zh-hans = "Extra Love　　　　　　　　　　　　　　　　　　　　　　ＺＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "戦車むすめのみるゆめ"
+zh-hans = "战车娘所做的梦"
+en = "The Tank Girl's Dream"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "里香",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "封魔录音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[里香]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "战车娘所做的梦"
+page = "战车娘所做的梦"
+
+[soundtrack-list.commentary]
+ja = "なんかＦＭ版に比べ、悲しげにきこえるのは何故でしょう。\n同じフレーズを繰り返してますが、ループまでかなり長いです。\n長いからゲーム中は最後まできけないかっていうと、\nこのボス、かなり長い（つまり強い）ので必ず最後まできけます。"
+zh-hans = "不知为何，与ＦＭ版比较的话，ＭＩＤＩ\n版听起来有些伤感，为什么呢。\n虽然是重复同一个乐段，但完成一个\n循环用时却颇长。如果担心要是这么长\n会不会在游戏中听不到最后，可以告诉你\n这个ＢＯＳＳ还是很持久的（即很强），\n所以一定能听到最后的。"
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "BOSS5.M",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "戦車娘がみるゆめ\nＺＵＮ（太田）\n里香のテーマ\nう～ん、うにゃにゃにゃにゃ、倒せるのか？里香ちゃん。"
+zh-hans = "战车娘所做的梦\nＺＵＮ（太田）\n里香的主题曲\n嗯——，呜喵喵喵喵，能打倒吗？里香酱。"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "BOSS5.MMD",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "戦車娘のみるゆめ　　　　　　　　　　　　　　　　　　　　　ＺＵＮ"
+zh-hans = "战车娘所做的梦　　　　　　　　　　　　　　　　　　　　　ＺＵＮ\n"
+
+[title]
+ja = "東方封魔録 〜 the Story of Eastern Wonderland."
+en = "Touhou Fuumaroku ~ Story of Eastern Wonderland"
+zh = "東方封魔錄 ～ the Story of Eastern Wonderland."
+zh-hans = "东方封魔录 ～ the Story of Eastern Wonderland."

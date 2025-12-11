@@ -1,0 +1,498 @@
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "稀翁玉　～ Fairy Dance"
+zh-hans = "稀翁玉　～ Fairy Dance"
+en = "Rare Venerable Orb ~ Fairy Dance"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "稀翁玉音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "稀翁玉　～ Fairy Dance"
+page = "稀翁玉　～ Fairy Dance"
+
+[soundtrack-list.commentary]
+ja = "タイトル曲です。今までになく凄く変な曲です。\n静止画面のタイトルって曲いらないような気もしましたが、寂しいのでいつも付けています。\nでもこの曲は、付いている方が寂しい感じがする(^^;"
+zh-hans = "标题画面曲。至今为止没有的很奇怪的曲子。\n虽然感觉静止的标题画面没有必要作曲，但那样太寂寞了，所以一直都加上了。\n但是这首曲子，感觉加上反而寂寞了(^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\kog_00（体验版）",
+    "MUSIC\\kog_00（正式版）",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "稀翁玉　～ Fairy Dance"
+zh-hans = "稀翁玉　～ Fairy Dance\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "天鵞絨少女戦　～ Velvet Battle"
+zh-hans = "天鹅绒少女战　～ Velvet Battle"
+en = "Velvet Maiden's War ~ Velvet Battle"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "VIVIT",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "稀翁玉音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[VIVIT]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "天鹅绒少女战　～ Velvet Battle"
+page = "天鹅绒少女战　～ Velvet Battle"
+
+[soundtrack-list.commentary]
+ja = "VIVIT のテーマです。\nメイドさんといえば、世間では日光に弱い眼鏡っ娘と相場が決まってますが、今回は私のメイドさんイメージで曲を創りました。というかいつも・・・\nなんて言うか、東洋風じゃないことだけは確かかと(^^;"
+zh-hans = "VIVIT 的主题曲。\n说到女仆小姐，一般来说都是怕阳光的眼镜女，但这次我是以自己的女仆形象来创作曲子的。话说一直都是・・・\n怎么说呢，只有不是东洋风这一点是确定的吧(^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\kog_01（体验版）",
+    "MUSIC\\kog_01（正式版）",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "天鵞絨少女戦　～ Velvet Battle"
+zh-hans = "天鹅绒少女战　～ Velvet Battle\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Castle Explorer -in the Sky-"
+zh-hans = "Castle Explorer -in the Sky-"
+en = "Castle Explorer -in the Sky-"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "盖茨",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "稀翁玉音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[盖茨]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Castle Explorer -in the Sky-"
+page = "Castle Explorer -in the Sky-"
+
+[soundtrack-list.commentary]
+ja = "ゲイツのテーマです。\n恐ろしいほどに乙女チックな曲です。\n全ては私の趣味です。ちょっと大人しくしすぎたかも(^^;"
+zh-hans = "盖茨的主题曲。\n惊人的少女般的曲子。\n一切都是因为我的爱好。也许有点过于安稳了(^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\kog_02",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "Castle Explorer  -in the Sky-"
+zh-hans = "Castle Explorer -in the Sky-\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "オルフェの詩　～ Pseudoclassic"
+zh-hans = "俄耳甫斯的诗　～ Pseudoclassic"
+en = "Orphic Poetry ~ Pseudoclassic"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "冥&舞",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "稀翁玉音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[冥&舞]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "俄耳甫斯的诗　～ Pseudoclassic"
+page = "俄耳甫斯的诗　～ Pseudoclassic"
+
+[soundtrack-list.commentary]
+ja = "めい＆まいのテーマ\nここに来て、大人っぽいなぁ(^^;\nなんとも覚えづらいサビのメロディは、ちょっとお気に入り"
+zh-hans = "冥＆舞的主题曲\n到此就有大人的感觉了呐(^^;\n我有点喜欢那怎么也记不住的高潮旋律。\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\kog_03",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "オルフェの詩　～ Pseudoclassic"
+zh-hans = "俄耳甫斯的诗　～ Pseudoclassic\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "新幻想　～ New Fantasy"
+zh-hans = "新幻想　～ New Fantasy"
+en = "New Illusion ~ New Fantasy"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "米莉亚",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "稀翁玉音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[米莉亚]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "新幻想　～ New Fantasy"
+page = "新幻想　～ New Fantasy"
+
+[soundtrack-list.commentary]
+ja = "ミリアのテーマ\nこの曲が一番昔に創った曲です。ちょうど１年前位に。\nほとんどがピアノで構成されてる曲、の割には、ピアノらしからぬノリなところがポイント（じゃない）"
+zh-hans = "米莉亚的主题曲\n这首曲子是最早创作的曲子。刚好１年前左右。\n这是首几乎都由钢琴构成的曲子，但与之相比不像钢琴的节奏部分才是要点（不是）\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\kog_04",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "新幻想　～ New Fantasy"
+zh-hans = "新幻想　～ New Fantasy\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "オルレアンの聖騎士"
+zh-hans = "奥尔良的圣骑士"
+en = "Holy Knight of Orléans"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "玛丽",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "稀翁玉音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[玛丽]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "奥尔良的圣骑士"
+page = "奥尔良的圣骑士"
+
+[soundtrack-list.commentary]
+ja = "マリーのテーマ\n一番ミスマッチかと思ってたけど、割とキャラにあった曲になったみたい。\n重厚そうで実はものすごく軽快なリズムの曲です。\n何とも言えない雰囲気が漂ってるなぁ(^^;"
+zh-hans = "玛丽的主题曲\n虽然我本以为这首曲子最不吻合，但最后好像意外地却和角色很合得来。\n似乎很庄重，但其实是首节奏非常轻快的曲子。\n洋溢着无法言说的气氛呐(^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\kog_05",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "オルレアンの聖騎士"
+zh-hans = "奥尔良的圣骑士\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "My Maid, Sweet Maid"
+zh-hans = "My Maid, Sweet Maid"
+en = "My Maid, Sweet Maid"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "埃利希",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "稀翁玉音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[埃利希]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "My Maid, Sweet Maid"
+page = "My Maid, Sweet Maid"
+
+[soundtrack-list.commentary]
+ja = "エーリッヒのテーマ\nあっはっは～、これは凄いね（笑）\n老人のイメージで創りたかったんだけど、老人どころか、どっちかつーと読書好きな\n大人しい少女ですね。そもそもＳＴＧの曲ではないな(^^;"
+zh-hans = "埃利希的主题曲\n啊哈哈～，这个很厉害呢（笑）\n虽然我想以老人的形象创作，但结果非但没有老人的感觉，要说的话，感觉像是喜欢读书的\n温顺的少女呢。说到底不是ＳＴＧ曲子呐(^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\kog_06",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "My Maid, Sweet Maid"
+zh-hans = "My Maid, Sweet Maid\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "桜花之恋塚　～ Flower of Japan"
+zh-hans = "樱花之恋塚　～ Flower of Japan"
+en = "Lovely Mound of Cherry Blossoms ~ Flower of Japan"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "幽香（西方）",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "稀翁玉音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[幽香（西方）|幽香]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "樱花之恋塚　～ Flower of Japan"
+page = "樱花之恋塚　～ Flower of Japan"
+
+[soundtrack-list.commentary]
+ja = "幽香のテーマ\n和風でござる。やっぱ一作品に一曲は無いと寂しい東洋曲（笑）\n私にしてはものすごく珍しく（いやほんとに）明るくて楽しい曲です。\nなんともお洒落（か？）"
+zh-hans = "幽香的主题曲\n和风。一个作品里要是没有这么一首东洋曲的话，果然会让人感到寂寞（笑）\n对我来说是很少有的（哎呀说真的）明快而又愉悦的曲子。\n怎么说呢，是时尚（吗？）\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\kog_07",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "桜花之恋塚　～ Flower of Japan"
+zh-hans = "樱花之恋塚　～ Flower of Japan\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "乙女戦士　～ Heart of Valkyrie"
+zh-hans = "少女战士　～ Heart of Valkyrie"
+en = "Warrior Maiden ~ Heart of Valkyrie"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "摩根",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "稀翁玉音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[摩根]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "少女战士　～ Heart of Valkyrie"
+page = "少女战士　～ Heart of Valkyrie"
+
+[soundtrack-list.commentary]
+ja = "モーガンのテーマ\nようやくボスらしい曲に。今回の曲の中でもっとも私らしい曲かも知れませんね。\n曲名で分かるように（分かりません）、何かイメージわかないかなぁと思いつつ、\n某ヴァルキリープロファイルの攻略本見ながら弾きました(^^;"
+zh-hans = "摩根的主题曲\n总算是首像Boss的曲子了。在这次的曲子里，这首曲子也许算是最像我的风格吧。\n从曲名就知道（不知道），在我想着“没有什么形象涌现吗”的时候，\n我一边看着某Valkyrie Profile的攻略本，一边弹奏着曲子(^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\kog_08",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "乙女戦士　～ Heart of Valkyrie"
+zh-hans = "少女战士　～ Heart of Valkyrie\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "エニグマティクドール　～ God Knows"
+zh-hans = "神秘的人偶　～ God Knows"
+en = "Enigmatic Doll ~ God Knows"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "缪斯",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "稀翁玉音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[缪斯]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "神秘的人偶　～ God Knows"
+page = "神秘的人偶　～ God Knows"
+
+[soundtrack-list.commentary]
+ja = "ミューズのテーマ\nラスボスらしい曲になった、かどうかは分からないですが、ずいぶんお洒落な雰囲気のラスボス曲です(^^;"
+zh-hans = "缪斯的主题曲\n有最终Boss感觉的曲子，虽然不知道是不是这样，但却是首感觉相当时尚的最终Boss曲(^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\kog_09",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "エニグマティックドール　～ God Knows"
+zh-hans = "神秘的人偶　～ God Knows\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ジングル"
+zh-hans = "Jingle"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "游戏载入画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "游戏载入画面",
+]
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\kog_sj（体验版）",
+    "MUSIC\\kog_sj（正式版）",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "ジングル"
+zh-hans = "Jingle\n"
+
+[title]
+zh-hans = "稀翁玉"

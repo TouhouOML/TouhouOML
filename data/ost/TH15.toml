@@ -1,0 +1,657 @@
+threlease = "TH15"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "宇宙巫女現る"
+zh-hans = "宇宙巫女现身"
+en = "The Space Shrine Maiden Appears"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "宇宙巫女现身"
+page = "宇宙巫女现身"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\nちょっとスペーシーで和風な曲になりました。\n今回のゲームは一筋縄ではいかないというテンションです。"
+zh-hans = "标题画面的主题曲。\n\n曲子有点太空感而且是和风。\n这次的游戏不好对付，是这样的情绪。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "忘れがたき、よすがの緑"
+zh-hans = "忘不了，那曾依藉的绿意"
+en = "Unforgettable, the Nostalgic Greenery"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "忘不了，那曾依藉的绿意"
+page = "忘不了，那曾依藉的绿意"
+
+[soundtrack-list.commentary]
+ja = "１面のテーマです。\n\n１面から若干長いです。\n今回は全体的にゲームが長いですからそれに合わせてです。\n\n暫く美しい緑の大地から離れる事を覚悟しているノリです。"
+zh-hans = "1面的主题曲。\n\n从1面开始就有点长了。\n这次整体上游戏就很长，所以是为了配合这一点。\n\n做好觉悟准备暂时离开美丽绿色的大地的节奏。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "兎は舞い降りた"
+zh-hans = "兔已着陆"
+en = "The Rabbit Has Landed"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "清兰",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[清兰]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "兔已着陆"
+page = "兔已着陆"
+
+[soundtrack-list.commentary]
+ja = "清蘭のテーマです。\n\nかるーく戦闘を楽しんでいる感じを出しました。\n兎には真剣さが足りないようです。\n\n見えないけど尻尾もあるんやで。"
+zh-hans = "清兰的主题曲。\n\n体现出了稍微有点享受战斗的感觉。\n兔子似乎缺少一种认真劲儿。\n\n虽然看不到，但她也有尾巴哦。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "湖は浄めの月光を映して"
+zh-hans = "湖上倒映着洁净的月光"
+en = "The Lake Reflects the Cleansed Moonlight"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "湖上倒映着洁净的月光"
+page = "湖上倒映着洁净的月光"
+
+[soundtrack-list.commentary]
+ja = "２面のテーマです。\n\n展開の早さに不穏さを覚えつつ、曲も後半でもおかしくない\n感じになりました。\n\n月から浴びせられてる波動は一部の者にしか見えていない様です。"
+zh-hans = "2面的主题曲。\n\n曲子让人对展开的快速有种不安的感觉，\n令这首曲子放在游戏后半部分也不奇怪。\n\n从月球散发的波动似乎只能被一部分人所看到。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "九月のパンプキン"
+zh-hans = "九月的南瓜"
+en = "September Pumpkin"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "铃瑚",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[铃瑚]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "九月的南瓜"
+page = "九月的南瓜"
+
+[soundtrack-list.commentary]
+ja = "鈴瑚のテーマです。\n\n同じ兎でもこっちは裏方系です、\n強敵である上に、戦う事が本当に正しいのか迷っているような\n感じの曲です。\nもちろん、団子はスタッフが美味しく頂きました。"
+zh-hans = "铃瑚的主题曲。\n\n同样都是兔子，这边却是幕后角色，\n虽然是强敌，但却对战斗这件事是否正确而迷茫，\n体现出了这种感觉的曲子。\n当然，团子最后由工作人员美味地享用了。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "宇宙を飛ぶ不思議な巫女"
+zh-hans = "飞翔于宇宙的不可思议巫女"
+en = "The Mysterious Shrine Maiden Flying Through Space"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "飞翔于宇宙的不可思议巫女"
+page = "飞翔于宇宙的不可思议巫女"
+
+[soundtrack-list.commentary]
+ja = "３面のテーマです。\n\n宇宙に見えて、実は精神世界という、ある種夢オチ。\nあそこにいる妖精や幽霊は、それぞれの夢なんですね。\n\n夢の中でも弾幕はっちゃうお茶目な輩です。"
+zh-hans = "3面的主题曲。\n\n看似宇宙，实际上却是精神世界，某种意义上一切都是一场梦。\n在那里的妖精和幽灵，其实都身处各自的梦境之中。\n\n就算做梦也要张开弹幕，一群爱搞怪的家伙。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "永遠の春夢"
+zh-hans = "永远的春梦"
+en = "Eternal Spring Dream"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "哆来咪·苏伊特",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[{{哆来咪}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "永远的春梦"
+page = "永远的春梦"
+
+[soundtrack-list.commentary]
+ja = "ドレミー・スイートのテーマです。\n\nかなりの強敵感を出してます。\nこれから先が思いやられて欲しい、悪夢にうなされて欲しい\nという思いで書きました。\nうなされても夢違えっちゃえば良いんです。ドレミーにお願いして。"
+zh-hans = "{{哆来咪}}的主题曲。\n\n有种强烈的强敌感。\n希望通过这首曲子能让人们预想到之后有多困难、能让人们被噩梦折磨，\n抱着这样的想法写了这首曲子。\n就算是被噩梦折磨，只要祈祷那不变成现实就好了。拜托哆来咪。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "凍り付いた永遠の都"
+zh-hans = "冻结的永远之都"
+en = "The Frozen Eternal Capital"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "冻结的永远之都"
+page = "冻结的永远之都"
+
+[soundtrack-list.commentary]
+ja = "４面のテーマです。\n\n月の都です。でもある理由でゴーストタウンと化しています。\n穏やかな雰囲気の曲が、逆に狂気をイメージさせます。\n\nＳＴＧよりはＲＰＧ終盤の様な曲ですね。まあ終盤ですし。"
+zh-hans = "4面的主题曲。\n\n月之都。但是因为某种理由变成了鬼城。\n平稳的氛围的曲子，反而让人联想到疯狂。\n\n和STG比起来更像是RPG终盘的曲子。不过确实是终盘了。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "逆転するホイールオブフォーチュン"
+zh-hans = "逆转的命运之轮"
+en = "Reversed Wheel of Fortune"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "稀神探女",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "[[稀神探女]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "逆转的命运之轮"
+page = "逆转的命运之轮"
+
+[soundtrack-list.commentary]
+ja = "稀神 サグメのテーマです。\n\n敵なのか味方なのか、神なのか鬼なのか、謎の人物のテーマです。\nミステリアスな雰囲気の曲になりました。\n\n実はこいつも天邪鬼の一種なんですけよね。まさかの天邪鬼二人目。"
+zh-hans = "稀神 探女的主题曲。\n\n是敌是友、是神是鬼，谜之人物的主题曲。\n曲子氛围很神秘。\n\n其实这家伙也是天邪鬼的一种啊。出乎意料的天邪鬼第二人。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "遥か３８万キロのボヤージュ"
+zh-hans = "遥遥38万公里的航程"
+en = "Faraway Voyage of 380,000 Kilometers"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "遥遥38万公里的航程"
+page = "遥遥38万公里的航程"
+
+[soundtrack-list.commentary]
+ja = "５面のテーマです。\n\nちょっと雰囲気を変えて、スピード感溢れるロマンチックな曲です。\n道中がテンポ良く進むような（しかも稼げる）気持ちいいステージ\nです。\n飛翔感と、遠くまで来た覚悟を感じてください。"
+zh-hans = "5面主题曲。\n\n稍微改了改气氛，曲子充满速度感又浪漫\n感觉是道中可以有节奏地前进（还能刷分）的舒服的一关。\n请大家用心感受飞翔感，以及来到如此遥远之地的觉悟。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "星条旗のピエロ"
+zh-hans = "星条旗的小丑"
+en = "Pierrot of the Star-Spangled Banner"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "克劳恩皮丝",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面BOSS",
+    "[[{{克劳恩}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "星条旗的小丑"
+page = "星条旗的小丑"
+
+[soundtrack-list.commentary]
+ja = "クラウンピースのテーマです。\n\n過去最狂レベルの妖精です。おつむの方は並の様ですが。\nゴシックとも和風ともスペーシーともとれる、奇妙な曲です。\n世の中にはピエロ恐怖症ってあるみたいですね。\nでもこの妖精ピエロはそんなに怖くない……よね？"
+zh-hans = "{{克劳恩}}的主题曲。\n\n迄今为止最疯狂级别的妖精。幼稚这点倒是不变。\n可以说是哥特风、和风，也可以说是太空风的奇妙的曲子。\n世上似乎还有小丑恐惧症。\n但是这个妖精小丑应该没那么可怕……吧？\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "故郷の星が映る海"
+zh-hans = "故乡之星倒映之海"
+en = "The Sea that Reflects One's Home Planet"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "故乡之星倒映之海"
+page = "故乡之星倒映之海"
+
+[soundtrack-list.commentary]
+ja = "６面のテーマです。\n\n海ですねぇ。夏ですねぇ。\n\nこの曲はラスボスの曲のサブセットです。\n海に行ってみたいですねぇ。海の家でビールかぁ。"
+zh-hans = "6面的主题曲。\n\n海啊。夏天啊。\n\n这首曲子是最终BOSS曲子的一部分。\n好想去海边啊。在海边的小店里喝啤酒啊。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ピュアヒューリーズ　～ 心の在処"
+zh-hans = "Pure Furies　～ 心之所在"
+en = "Pure Furies ~ Whereabouts of the Heart"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "纯狐",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面BOSS",
+    "[[纯狐]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Pure Furies　～ 心之所在"
+page = "Pure Furies　～ 心之所在"
+
+[soundtrack-list.commentary]
+ja = "純狐のテーマです。\n\nこれぞ、まごう事なき、ザ・ラスボスって曲だと思います。\n余り捻ったり、格好付けたり、考えすぎたりするのを止めました。\n\nシンプルに、ピュアーに弾幕を楽しんでくださいな。"
+zh-hans = "纯狐的主题曲。\n\n这首曲子给人一种，这才是、真正的、The Last Boss的感觉。\n我放弃了矫情、耍帅或是想得太多。\n\n请大家，简单、纯朴地享受弹幕吧。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "見た事も無い悪夢の世界"
+zh-hans = "前所未见的噩梦世界"
+en = "A World of Nightmares Never Seen Before"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "前所未见的噩梦世界"
+page = "前所未见的噩梦世界"
+
+[soundtrack-list.commentary]
+ja = "エキストラステージのテーマです。\n\n不気味なイントロから続いて、淡々と流れるいつもの東方っぽさ。\nいかにもエキストラって感じです。\nそれにしてもドレミーは敵なんでしょうか？\nそれとも味方なんでしょうか？"
+zh-hans = "EXTRA Stage的主题曲。\n\n从阴森的前奏开始，紧跟着的是淡淡流淌的一如既往的东方感。\n真的很有Extra的感觉。\n话说回来哆来咪到底是敌人呢？\n还是盟友呢？\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "パンデモニックプラネット"
+zh-hans = "Pandemonic Planet"
+en = "Pandemonic Planet"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "赫卡提亚·拉碧斯拉祖利",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[{{赫卡提亚}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Pandemonic Planet"
+page = "Pandemonic Planet"
+
+[soundtrack-list.commentary]
+ja = "ヘカーティア・ラピスラズリのテーマです。\n\n何とも悪魔的な曲です。\n本当はメタルっぽいものを考えてましたが、自分がそっちの造詣が\n深くないし、世界感に合わなさそうなので結果こんな感じに。\n地獄－＞死神－＞デス－＞デスメタル、という貧困な発想です。"
+zh-hans = "{{赫卡提亚}}的主题曲。\n\n实在是恶魔一般的曲子。\n实际上我是想用一些金属感觉的曲子的来着，但我没那方面的造诣，\n而且感觉又不符合世界观，结果就这样子了。\n地狱－＞死神－＞死亡－＞死亡金属，这种贫瘠的想法。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "神社から見える月"
+zh-hans = "从神社所见之月"
+en = "The Moon as Seen from the Shrine"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "从神社所见之月"
+page = "从神社所见之月"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n\nまあ、いつものテーマです。\n\nいつもアップテンポな曲ばっか作っているので\nノベルゲーの曲とか大変そうに思います。"
+zh-hans = "Ending的主题曲。\n\n不过也只是以往的那个主题而已。\n\n我总是在作一些快节奏的曲子，\n所以感觉让我作文字游戏的曲子会很困难。\n\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "宇宙巫女帰還する"
+zh-hans = "宇宙巫女归还"
+en = "The Space Shrine Maiden Returns Home"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绀珠传音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "宇宙巫女归还"
+page = "宇宙巫女归还"
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\n\nタイトル画面の別バージョンです。\n\nさらにスペーシーな雰囲気にしました。"
+zh-hans = "制作人员名单的主题曲。\n\n标题画面曲的另一个版本。\n\n让氛围更有了一种太空感。"
+
+[title]
+ja = "東方紺珠伝 〜 Legacy of Lunatic Kingdom."
+en = "Touhou Kanjuden ~ Legacy of Lunatic Kingdom"
+zh = "東方紺珠傳 ～ Legacy of Lunatic Kingdom."
+zh-hans = "东方绀珠传 ～ Legacy of Lunatic Kingdom."

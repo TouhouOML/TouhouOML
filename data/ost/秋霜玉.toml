@@ -1,0 +1,958 @@
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "秋霜玉　～ Clockworks"
+zh-hans = "秋霜玉　～ Clockworks"
+en = "Autumn Frost Orb ~ Clockworks"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "秋霜玉　～ Clockworks"
+page = "秋霜玉　～ Clockworks"
+
+[soundtrack-list.commentary]
+ja = "タイトル曲です\n\nど～も。ＺＵＮです。\n秋霜玉は久しぶりのゲーム曲ということで\n楽しく作らせてもらいました。\n\nでも、この曲は暗すぎだよね（笑）\nそれもいつも通り（^^;"
+zh-hans = "标题画面曲\n\n你～好。我是ＺＵＮ。\n秋霜玉是久违的游戏曲，\n我很高兴地进行了创作。\n\n但是，这首曲子太阴暗了呢（笑）\n一如既往（^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0000",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "秋霜玉　～ Clockworks"
+zh-hans = "秋霜玉　～ Clockworks\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "フォルスストロベリー"
+zh-hans = "False Strawberry"
+en = "False Strawberry"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "False Strawberry"
+page = "False Strawberry"
+
+[soundtrack-list.commentary]
+ja = "１面テーマです。\n\n西洋をイメージして創るつもりでしたが、\n結果はそんなでも···\n\nとりあえず１面っぼさは出てると思う（^^;\n\nサビのピアノは、東方の時ＦＭで表現出来\nながった事をやってみました。"
+zh-hans = "１面主题曲。\n\n虽然想以西洋为印象进行创作，\n结果即便那样···\n\n总之我觉得做出了１面的感觉（^^;\n\n高潮的钢琴在东方的时候用ＦＭ表现不出来，这次我试着将其做了出来。\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0000（体验版）",
+    "MUSIC\\DATA0001（正式版）",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "フォルス ストロベリー"
+zh-hans = "False Strawberry\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "プリムローズシヴァ"
+zh-hans = "Primrose Shiver"
+en = "Primrose Shiver"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "米莉亚",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面boss",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面boss",
+    "[[米莉亚]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Primrose Shiver"
+page = "Primrose Shiver"
+
+[soundtrack-list.commentary]
+ja = "1面ボス、ミリアのテーマです。\n\nいつも思う、１面ボス曲って難しい（^^;\n今回は暗くならないように注意して創りま\nした。そのかいあってが、そんなに暗くな\nしですね。\n\nサビのメロディは今までにないタイプだと\n思っています。"
+zh-hans = "1面Boss，米莉亚的主题曲\n\n我一直觉得，１面Boss曲很难做（^^;\n这次我注意不让曲子变得阴暗。\n我的苦心没有白费，总算没那么阴暗\n\n高潮的旋律是至今为止还没有的类型。\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0001（体验版）",
+    "MUSIC\\DATA0002（正式版）",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "プリムローズシヴァ"
+zh-hans = "Primrose Shiver\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻想帝都"
+zh-hans = "幻想帝都"
+en = "Fantastic Imperial Capital"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻想帝都"
+page = "幻想帝都"
+
+[soundtrack-list.commentary]
+ja = "２面テーマです。\n\n２面は都市面ということで、いままであま\nりやったことのない、近未来的なイメージ\nを重視してみました。いやするつもりでし\nた（^^;\n\nこの曲、珍しくデータ化する前に全て出来\nあがっていた曲です。おかげでスピーディ\nに仕上がりました（笑）"
+zh-hans = "２面主题曲。\n\n２面是都市面，至今为止很少做，\n强调了近期未来的印象。\n哎呀，我是想这么做的（^^;\n\n这首曲子很少见地在数据化前就全部做出来了。\n拜其所赐，快速地做完了（笑）\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0002（体验版）",
+    "MUSIC\\DATA0003（正式版）",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "幻想帝都"
+zh-hans = "幻想帝都\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ディザストラスジェミニ"
+zh-hans = "Disastrous Gemini"
+en = "Disastrous Gemini"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "冥&舞",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面boss",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面boss",
+    "[[冥&舞]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Disastrous Gemini"
+page = "Disastrous Gemini"
+
+[soundtrack-list.commentary]
+ja = "２面ボス、めい＆まいのテーマです。\n\nとにかく、子供っぼさが出ればいいなぁ的\n感覚で書きました。\n\n制作前のイメージとかけ離れた曲になった\nけど、結果オーライですね。\n\n思う存分少女っぼい曲ですが、結局今まで\nの曲もみんなそうだったかも（笑）"
+zh-hans = "２面Boss、冥＆舞的主题曲。\n\n总之，做出孩子的感觉就好了，我就是这么写这首曲子的。\n\n虽然和制作前的印象相差悬殊，\n但从结果来说是All Right。\n\n感觉这是首很有少女味的曲子，但结果实际上至今为止的曲子好像都是那样的（笑）\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0003（体验版）",
+    "MUSIC\\DATA0004（正式版）",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "ディザストラスジェミニ"
+zh-hans = "Disastrous Gemini\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "華の幻想　紅夢の宙"
+zh-hans = "华之幻想 红梦之宙"
+en = "Illusion of Flowers, Sky of Scarlet Dreams"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "华之幻想 红梦之宙"
+page = "华之幻想 红梦之宙"
+
+[soundtrack-list.commentary]
+ja = "3面テーマです。\n\nなんていうか、自分的に珍しい曲かも。\nはてしない雰囲気でも出せればいいかな、\nとか考えて創ったのですが。\n\n珍しくポップな雰囲気が珍しくて、珍しく\nです。ゲームとしてはアクセントとなって\nいいかと思ってますが。\n\nでも、ポップか？（笑）"
+zh-hans = "3面主题曲。\n\n怎么说呢，也许是对我来说很少有的曲子。\n做出无边无际的氛围就好了呐，\n我就是这么想并且进行了创作。\n\n少有的流行音乐的气氛真是少有，真是少有。\n我在想，对游戏来说将其作为强调之处好吗。\n\n但是，是流行音乐吗？（笑）\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0004（体验版）",
+    "MUSIC\\DATA0005（正式版）",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "華の幻想  紅夢の宙"
+zh-hans = "华之幻想  红梦之宙\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "天空アーミー"
+zh-hans = "天空军团"
+en = "Firmament Army"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "盖茨",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面boss",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面boss",
+    "[[盖茨]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "天空军团"
+page = "天空军团"
+
+[soundtrack-list.commentary]
+ja = "３面ボス、ゲイツのテーマです。\n男キャラって事で、今まで創った事のない\nテーマでちょっと戸惑いましたが（^^;\nしかも軍人、ミリタリのイメージに非常に\n乏しい私としても謎が多すぎる。\n\nで、結局、いつも通りでいきますした（^^;\n精一杯頑張ったつもりなんですけどね～\n\n魔法チックな少女の曲っていっても通用し\nそう（汗）"
+zh-hans = "３面Boss，盖茨的主题曲。\n他是男性角色，至今为止我还没做过这种主题曲，\n有点困惑（^^;\n而且他还是军人，对我这个缺乏军人印象的人来说，\n谜团太多了。\n\n那么，结果，做得和以前一样了（^^;\n虽然我认为自己竭尽全力努力创作了～\n\n说成是魔法般的少女曲子似乎也行（汗）\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0005（体验版）",
+    "MUSIC\\DATA0006（正式版）",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "天空アーミー"
+zh-hans = "天空军团\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "スプートニク幻夜"
+zh-hans = "斯普特尼克幻夜"
+en = "Illusionary Sputnik Night"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "斯普特尼克幻夜"
+page = "斯普特尼克幻夜"
+
+[soundtrack-list.commentary]
+ja = "4面テーマです。\n\n宇宙、やや戸惑い（笑）\n出だしから不協和音のあたりが宇宙（違）\n\nやや古めのゲームミュージックの感じがで\nるようにしてるのですが…\n\nこれもポップな感じがして、東方の時あん\nなに暗い曲ばかりだったのに不思議な感じ\nがします。\n（え？これも明るくない？（汗））"
+zh-hans = "4面主题曲。\n\n宇宙，有点困惑（笑）\n从开头不协和音部分就是宇宙（误）\n\n我想将其做成有点旧的游戏音乐的感觉…\n\n但这首曲子也有流行音乐的感觉，明明东方的时候都是些那么阴暗的曲子，\n真令人不可思议。\n（咦？这个也不明快？（汗））\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0007",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "スプートニク幻夜"
+zh-hans = "Sputnik幻夜\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "機械サーカス　～ Reverie"
+zh-hans = "机械马戏团　～ Reverie"
+en = "Mechanical Circus ~ Reverie"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "玛丽",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面boss",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面boss",
+    "[[玛丽]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "机械马戏团　～ Reverie"
+page = "机械马戏团　～ Reverie"
+
+[soundtrack-list.commentary]
+ja = "４面ボス、マリーのテーマです。\n\nでたな～、とか思う方がいそうな感じ。\n東方の頃からなんも変わらない雰囲気の曲\n調です。\n\nとにかく、突っ走り過ぎなく、格好いい曲\nになって満足であります。\n\nそれにしても、単純で覚えやすいメロディ\nですね。ボス戦中に頭に残ってしまうかも"
+zh-hans = "４面Boss，玛丽的主题曲。\n\n“做出来了～”，感觉这是这么首曲子。\n从东方那时候开始气氛就没有变化的曲调。\n\n总之，没有冲过头，是首帅气的曲子，\n我很满足。\n\n尽管如此，旋律很简单容易记住呢。\n也许在Boss战中会留在脑中\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0008",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "機械サーカス ～ Reverie"
+zh-hans = "机械马戏团 ～ Reverie\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "カナベラルの夢幻少女"
+zh-hans = "卡纳维拉尔角的梦幻少女"
+en = "Illusionary Girl from Canaveral"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "卡纳维拉尔角的梦幻少女"
+page = "卡纳维拉尔角的梦幻少女"
+
+[soundtrack-list.commentary]
+ja = "５面テーマです。\n\n面データが出来る前に先行して創ったので\nもう、ここから好き勝手やりまくったりし\nてます（笑）\n\nとりあえず、メイドさんなんだから西洋風\nに西洋風に、やっばり西洋風に。\n\nゲーム中はループまで聞けないと思うけど\nサビ後半はあんま西洋風でもないです（^^;"
+zh-hans = "５面主题曲。\n\n在关卡资料出来前，我就先行创作了，\n从这开始，我都随自己喜欢地进行创作了（笑）\n\n总之，女仆小姐的话，就是要做成西洋风\n西洋风，果然还得是西洋风。\n\n虽然我觉得在游戏中听不到循环了，\n但高潮后半并不是那么西洋风（^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0009",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "カナベラルの夢幻少女"
+zh-hans = "卡纳维拉尔角的梦幻少女\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔法少女十字軍"
+zh-hans = "魔法少女十字军"
+en = "Magical Girl's Crusade"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "埃利希",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面boss",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面boss",
+    "[[埃利希]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔法少女十字军"
+page = "魔法少女十字军"
+
+[soundtrack-list.commentary]
+ja = "5面ボス、エーリッヒのテーマです。\n\nもう！格好良さのみを重視しました。\nもちろん、ファンタジックに格好良く。\n\nここらまで来ると、東方の曲と差別化がほ\nとんど出来ていない（笑）\n\nこんな曲ばっかで東方ってなんだったんで\nしょう（^^;"
+zh-hans = "5面Boss，埃利希的主题曲。\n\n真是的！我只强调了帅气。\n当然，是幻想般的帅气。\n\n到此的话，和东方曲子就几乎没差别了（笑）\n\n尽是这些曲子，东方到底是怎么回事啊（^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0010",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "魔法少女十字軍"
+zh-hans = "魔法少女十字军\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "アンティークテラー"
+zh-hans = "Antique Terror"
+en = "Antique Terror"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "最终面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "最终面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Antique Terror"
+page = "Antique Terror"
+
+[soundtrack-list.commentary]
+ja = "６面テーマです。\n\nいままで最終面テーマはスローテンポの物\nばっかりだったけど、今回はミディアムな\n物にしました。\n\nテーマは闘うメイド。\n\nって、じゃ、他の曲はなんあの？"
+zh-hans = "６面主题曲。\n\n虽然至今为止最终面主题曲都是慢节奏的东西，\n但这次我将其做成了中速的。\n\n主题是战斗女仆。\n\n话说，这样的话，其他曲子是什么呢？\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0011",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "アンティークテラー"
+zh-hans = "Antique Terror\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "夢機械　～ Innocent Power"
+zh-hans = "梦机械　～ Innocent Power"
+en = "Dream Machine ~ Innocent Power"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "ビビット（VIVIT）",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "最终面boss",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "最终面boss",
+    "[[ビビット（VIVIT）|ビビット]]的主题曲1",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "梦机械　～ Innocent Power"
+page = "梦机械　～ Innocent Power"
+
+[soundtrack-list.commentary]
+ja = "最終ボス、ビビットのテーマ１です。\n\n終盤っぼく、ラストっぼくなくをテーマに\n創りました。\n\nラスボスイントロって感じですよね。\n\n微妙にＳＴＧっぼくない（笑）\n\nこの曲のサビはタイトル画面用に作成した\nメロディだったんですが、ここで使用。\nだから、妙にデモっぼい曲なんですね（ぉ"
+zh-hans = "最终Boss，VIVIT的主题曲１。\n\n我不想将其做得有终盘和最终的感觉。\n\n而是最终Boss前奏的感觉。\n\n微妙地不像ＳＴＧ（笑）\n\n这首曲子的高潮本来是用在标题画面上的\n旋律，但用在了这里。\n所以，这首曲子很奇怪地有种演示录像的感觉（喂\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0012",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "夢機械　～ Innocent Power"
+zh-hans = "梦机械　～ Innocent Power\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻想科学　～ Doll's Phantom"
+zh-hans = "幻想科学　～ Doll's Phantom"
+en = "Fantasy Science ~ Doll's Phantom"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "ビビット（VIVIT）",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "最终面boss",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "最终面boss",
+    "[[ビビット（VIVIT）|ビビット]]的主题曲2",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻想科学　～ Doll's Phantom"
+page = "幻想科学　～ Doll's Phantom"
+
+[soundtrack-list.commentary]
+ja = "最終ボス、ビビットのテーマ２。\n\n幻想テクノ調に仕上げました（謎）\nいわゆる中継ぎの曲なので、自己主張が出\nないように気を付けました。\nこの曲は、自分的に結構珍しいタイプの曲\nでややお気に入りであります。\n\n実はこの曲、ドラムメインに仕上げるつも\nりだったんですが、そういう曲あんま聴か\nないせいか、大変な曲になったので、いろ\nいろメロディを付けました。"
+zh-hans = "最终Boss，VIVIT的主题曲２。\n\n将其做成了幻想铁克诺调（谜）\n因为是所谓的过渡曲，所以我注意将其做得不那么强调。\n这首曲子对我来说是少有的曲子，\n我很喜欢。\n\n其实这首曲子，我本想将其做成主要是鼓点的曲子，\n但我没怎么听过这种曲子，\n曲子做得很糟糕，所以我加入了很多旋律。\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0013",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "幻想科学 ～ Doll's Phantom"
+zh-hans = "幻想科学 ～ Doll's Phantom\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "少女神性　～ Pandora's Box"
+zh-hans = "少女神性　～ Pandora's Box"
+en = "Girl's Divinity ~ Pandora's Box"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "ビビット（VIVIT）",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "最终面boss",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "最终面boss",
+    "[[ビビット（VIVIT）|ビビット]]的主题曲3",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "少女神性　～ Pandora's Box"
+page = "少女神性　～ Pandora's Box"
+
+[soundtrack-list.commentary]
+ja = "最終ボス、ビビットのテーマ３です。\n\nこれはラストらしさを全面に押しだそうと\nした曲ですね。\n\n西洋風って楽しいな～。とか、感じてしま\nう様に創りました（微謎）\n\n全部の曲、こんな感じ創りたかったです\nね。（おいおい）"
+zh-hans = "最终Boss，VIVIT的主题曲３。\n\n这是首全面做出了最终感的曲子。\n\n“西洋风真令人高兴呐～。”我就是将其做成了这种感觉（微谜）\n\n我本想将全部的曲子都做成这种感觉。（喂喂）\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0014",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "少女神性 ～ Pandora's Box"
+zh-hans = "少女神性 ～ Pandora's Box\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "シルクロードアリス"
+zh-hans = "Silk Road Alice"
+en = "Silk Road Alice"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "EX面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "EX面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Silk Road Alice"
+page = "Silk Road Alice"
+
+[soundtrack-list.commentary]
+ja = "エキストラステージのテーマです。\n\nうって変わって東方な曲を目指しました。\n和風ニューエイジチックに、和風な楽器も\n使っています。\n\n和製楽器とピアノって異常にマッチします\nよね。篳篥とピアノ（東儀秀樹）とか..\n\nとにかく、楽器もジルクロードを通って来\nたのかと思うと色々と幻想してしまう。\nメイドさんもシルクロードを通っ（略）"
+zh-hans = "Extra Stage的主题曲。\n\n与之前截然不同，我是以东方的曲子为目标的。\n将其做成了和风New Age风格，使用了和风乐器。\n\n日本式乐器和钢琴异常合得来。\n筚篥和钢琴（东仪秀树）之类..\n\n总之，乐器也是通过丝绸之路来的吗，\n我幻想了很多。\n女仆小姐也是通过丝绸之路（略）\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0015",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "シルクロードアリス"
+zh-hans = "Silk Road Alice\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔女達の舞踏会　～ Magus"
+zh-hans = "魔女们的舞会　～ Magus"
+en = "The Witches' Ball ~ Magus"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "雾雨魔理沙（西方）",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "EX面boss",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "EX面boss",
+    "[[雾雨魔理沙（西方）|雾雨魔理沙]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔女们的舞会　～ Magus"
+page = "魔女们的舞会　～ Magus"
+
+[soundtrack-list.commentary]
+ja = "エキストラボス１、霧雨魔理沙のテーマ\n\nテーマは魔女。っ娘が付かない奴（笑）\n異樣に悪役な感じの曲です。\n\nつーか、ボスなんだから悪役ですが（^^;\n\n<br />かわいさより知性を感じさせるように創り\nたかったのですが、感じてもらえたでしょ\nうか？"
+zh-hans = "Extra Boss１，雾雨魔理沙的主题曲\n\n主题是魔女。不能这么说她（笑）\n这曲子异样地有反派角色的感觉。\n\n话说，正因为是Boss，所以是反派角色（^^;\n\n<br />虽然比起可爱，我更想让人感到智慧，但能感觉到吗？\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0016",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "魔女達の舞踏会　～ Magus"
+zh-hans = "魔女们的舞会　～ Magus\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "二色蓮花蝶　～ Ancients"
+zh-hans = "二色莲花蝶　～ Ancients"
+en = "Dichromatic Lotus Butterfly ~ Ancients"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "博丽灵梦（西方）",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "EX面boss",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    18,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "EX面boss",
+    "[[博丽灵梦（西方）|博丽灵梦]]的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "二色莲花蝶　～ Ancients"
+page = "二色莲花蝶　～ Ancients"
+
+[soundtrack-list.commentary]
+ja = "エキストラボス２、博麗霊夢のテーマ\n\n最凶最悪の攻撃力を誇る巫女さんです。\nテーマは巫女。ってどう聴いても違う（^^;\n\nも～最後だから、スピード感ありーのなん\nでもあり？って感じ～（笑）\n\n巫女さんにしては知性が感じれない曲なの\nは残念。でも、とりあえず格好良く弾が避\nけれる様に…"
+zh-hans = "Extra Boss２，博丽灵梦的主题曲\n\n以最凶最恶的攻击力自豪的巫女小姐。\n主题是巫女。话说，怎么听都不对（^^;\n\n因为已经是最后了，所以有速度感，还有其他什么？～（笑）\n\n就巫女小姐而言，却是感觉不到智慧的曲子，\n真是遗憾。但是，总之，我将其做得能帅气地避弹…\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0017",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "二色蓮花蝶  ～ Ancients"
+zh-hans = "二色莲花蝶  ～ Ancients\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ハーセルヴズ"
+zh-hans = "Herselves"
+en = "Herselves"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "结尾画面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    19,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "结尾画面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Herselves"
+page = "Herselves"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマ。\n\n哀しげ～希望～勇敢～再び哀しげ…\nという曲に仕上げるのに苦労しました。\n\n一分半程の間に目まぐるしく曲調が変化す\nるので、聴く方も大変かも。\nイントロは、エロゲーライクに（違）\nメインメロディは元気が出るように（謎）\nサビは騎兵隊ライクに（それも違う）\n最後は、時計仕掛けをテーマに（本当）\n苦労したけど短い曲だな～（^^;"
+zh-hans = "Ending主题曲。\n\n悲伤～希望～勇敢～再次悲伤…\n我将其做成了这样的曲子，但很辛苦。\n\n在一分半左右的时间里，曲调瞬息万变，\n听的话也许很够受的。\n前奏听起来像黄油（误）\n主旋律做得有精神（谜）\n高潮像骑兵队（那也不对）\n最终将钟表装置做成主题（真的）\n虽然很辛苦，但却是首短曲呐～（^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0018",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "ハーセルヴズ"
+zh-hans = "Herselves\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "タイトルドメイド"
+zh-hans = "Titled Maid"
+en = "Titled Maid"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "得分画面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "秋霜玉音乐名",
+    20,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "得分画面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Titled Maid"
+page = "Titled Maid"
+
+[soundtrack-list.commentary]
+ja = "ネームレジストのテーマ。\n\nゲームオーバーのテーマでもありますが、\nなんか、もう一度プレイしようって気を\nこさせない位ダークだ（笑）\n\nせっかくプレイして頂いたのに、こんなに\n暗い曲流してすみません\n\nこの暗さは、哀愁とか懐古とかじゃなくて\nしいて言えば、絶望？（^^;"
+zh-hans = "得分登记的主题曲。\n\n虽然也是Game Over的主题曲，\n但总觉得阴暗到让人不想再玩一次（笑）\n\n难得玩了，播放的却是这么\n阴暗的曲子，真是对不起。\n\n这种阴暗并不是哀愁和怀古之类，\n硬要说的话，是绝望？（^^;\n"
+
+[soundtrack-list.source.data]
+file-list = [
+    "MUSIC\\DATA0019",
+]
+
+[soundtrack-list.source.data.file_metadata]
+ja = "タイトルドメイド"
+zh-hans = "Titled Maid\n"
+
+[title]
+zh-hans = "秋霜玉"

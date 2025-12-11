@@ -1,0 +1,377 @@
+threlease = "TH18.5"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "コレクターの憂鬱な午後"
+zh-hans = "收藏家的忧郁午后"
+en = "The Collector's Melancholy Afternoon"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面的主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "弹幕狂音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "收藏家的忧郁午后"
+page = "收藏家的忧郁午后"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\n戦いに行くぞー！\nという感じではなくゴロゴロしている日常をイメージしました。\n少し雨っぽい感じがしますね。"
+zh-hans = "标题画面的主题曲。\n\n去战斗吧——！\n这支曲子倒没有那种激昂，而是着重表现了慵懒的日常感。\n听起来稍微有点雨天的风味呢。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ワクワクする見慣れた幻想郷"
+zh-hans = "令人心跳的司空见惯幻想乡"
+en = "An Exciting and Familiar Gensokyo"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "前期关卡的主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "弹幕狂音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "前期关卡的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "令人心跳的司空见惯幻想乡"
+page = "令人心跳的司空见惯幻想乡"
+
+[soundtrack-list.commentary]
+ja = "序盤ステージのテーマです。\n\nとにかく明るく楽しげに作りました。\n異変に対して重い腰を上げて出撃、と言うわけではなく、\nとにかく首を突っ込みたくて突っ込んでいる魔理沙を\nイメージしました。"
+zh-hans = "前期关卡的主题曲。\n\n总之写成了明快欢乐的风格。\n魔理沙并非不情不愿地起身解决异变，\n而是什么都想掺一脚事实上也真的去掺了，\n大约是这么一个感觉。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖怪フックオン"
+zh-hans = "妖怪上钩"
+en = "Youkai Hook On"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "前期BOSS的主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "弹幕狂音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "前期BOSS的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖怪上钩"
+page = "妖怪上钩"
+
+[soundtrack-list.commentary]
+ja = "前半ボスのテーマです。\n\nとにかく楽しげで跳ねるような妖怪をイメージして作りました。\nこのゲームの曲はキャラと結びつけていないのですが、\n最初にチュートリアルでミケと対峙する時に流れるので、\n大分ミケの猫っぽいイメージに引きずられている気もします。"
+zh-hans = "前期BOSS的主题曲。\n\n总而言之是按照蹦蹦跳跳的快活妖怪的印象写的。\n这个游戏的曲子并没有和角色一一对应，\n但这支曲子是在最开头的教程阶段中和三花战斗的时候播放，\n所以总觉得印象被三花的猫属性带歪了不少。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "闇市場は場所を選ばない"
+zh-hans = "黑市无处不在"
+en = "Black Markets Can Happen Anywhere, Anytime"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "中期关卡的主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "弹幕狂音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "中期关卡的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "黑市无处不在"
+page = "黑市无处不在"
+
+[soundtrack-list.commentary]
+ja = "中盤ステージのテーマです。\n\n賽の河原で使われているのでちょっと重そうな感じで始まりますが、\n全体的にはスピード感抜群の気持ちいい曲です。\nどんな場所でも気軽に楽しんでいる魔理沙をイメージしています。\n今回は随所にエキゾチックなメロディが散りばめられています。"
+zh-hans = "中期关卡的主题曲。\n\n因为是在赛之河原播放所以开头稍显沉重，\n但总体来说这是支速度感一流的爽快曲子。\n它所描绘的是无论在什么地方都能随遇而安的魔理沙的印象。\n曲子各处都点缀着异国风情的旋律。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "弾幕を持て、バレットフィリア達よ"
+zh-hans = "拿起弹幕吧，弹幕狂们"
+en = "Take Thy Danmaku In Hand, O Bulletphiles"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "强敌的主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "弹幕狂音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "强敌的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "拿起弹幕吧，弹幕狂们"
+page = "拿起弹幕吧，弹幕狂们"
+
+[soundtrack-list.commentary]
+ja = "強敵のテーマです。\n\n人間も妖怪も混じって色んな敵に使われているので、単純な\n感情に支配されない、不思議な曲にしました。\n幻想郷の皆は、闇市場を楽しんでいる姿を見せる事が格好良い事だ、\nと思っているのでしょう。なので戦闘曲も何処か楽しげです。"
+zh-hans = "强敌的主题曲。\n\n无论人类还是妖怪，各式各样的敌人都会使用这支曲子，\n所以我把它写成了不会被单一情感支配的不可思议之曲。\n幻想乡的居民们，应该会觉得表现出在黑市混得开的样子很酷吧。\n所以战斗曲也莫名有种乐在其中的感觉。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "１００回目のブラックマーケット"
+zh-hans = "第100次黑市"
+en = "The Hundredth Black Market"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "后期关卡的主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "弹幕狂音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "后期关卡的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "第100次黑市"
+page = "第100次黑市"
+
+[soundtrack-list.commentary]
+ja = "終盤ステージのテーマです。\n\nちょっとお洒落だけど力強い曲を目指して作りました。\n今回は曲がキャラやステージに結びついていないので、\n全体的に”いかにも東方Project！”って感じの曲にしています。\n思いっきり好きなことをするって、健康的ですよね。"
+zh-hans = "后期关卡的主题曲。\n\n我想写支略带潇洒但却强而有力的曲子。\n本作的曲子并没有和具体的角色或关卡对应，\n所以我写成了总体上“一听就是东方Project！”的感觉。\n全身心投入自己喜欢的事，对健康很有好处呢。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ルナティックドリーマー"
+zh-hans = "Lunatic Dreamer"
+en = "Lunatic Dreamer"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "主题曲1",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "弹幕狂音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "主题曲1",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Lunatic Dreamer"
+page = "Lunatic Dreamer"
+
+[soundtrack-list.commentary]
+ja = "『秘封ナイトメアダイアリー』からの再収録です。\n\n\nパイロット版で使っていたら余りにもマッチしてしまったので、\nチュートリアルにそのまま使いました（笑）"
+zh-hans = "再录自《秘封噩梦日记》。\n\n\n我在游戏的测试版本里用了这支曲子结果发现简直浑然一体，\n所以就直接沿用到正式版的教程里了（笑）"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ルナレインボー"
+zh-hans = "Lunar Rainbow"
+en = "Lunar Rainbow"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "主题曲2",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "弹幕狂音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "主题曲2",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Lunar Rainbow"
+page = "Lunar Rainbow"
+
+[soundtrack-list.commentary]
+ja = "『東方虹龍洞』からの再収録です。"
+zh-hans = "再录自《东方虹龙洞》。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "あの賑やかな市場は今どこに　～ Immemorial Marketeers"
+zh-hans = "熙攘市场今何在　～ Immemorial Marketeers"
+en = "Where Is That Bustling Marketplace Now ~ Immemorial Marketeers"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "主题曲3",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "弹幕狂音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "主题曲3",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "熙攘市场今何在　～ Immemorial Marketeers"
+page = "熙攘市场今何在　～ Immemorial Marketeers"
+
+[soundtrack-list.commentary]
+ja = "『東方虹龍洞』からの再収録です。"
+zh-hans = "再录自《东方虹龙洞》。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "虹色の世界"
+zh-hans = "虹色的世界"
+en = "A Rainbow-Colored World"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "主题曲4",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "弹幕狂音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "主题曲4",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "虹色的世界"
+page = "虹色的世界"
+
+[soundtrack-list.commentary]
+ja = "『東方虹龍洞』からの再収録です。"
+zh-hans = "再录自《东方虹龙洞》。"
+
+[title]
+ja = "バレットフィリア達の闇市場 〜 100th Black Market."
+en = "Barettofiriatachi no Yami-Ichiba ~ 100th Black Market"
+zh = "弹幕狂们的黑市 ～ 100th Black Market."
+zh-hans = "弹幕狂们的黑市 ～ 100th Black Market."

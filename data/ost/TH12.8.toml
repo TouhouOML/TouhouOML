@@ -1,0 +1,380 @@
+threlease = "TH12.8"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "春の氷精"
+zh-hans = "春之冰精"
+en = "An Ice Fairy in Spring"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "大战争音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "春之冰精"
+page = "春之冰精"
+
+[soundtrack-list.commentary]
+ja = "タイトルの画面のテーマです。\n\n脳天気でぽわぽわした感じになりました。\n大した緊張感も無く、いつも通りのメロディに、\n人間とは異なる妖精分を多めって感じで。"
+zh-hans = "标题画面的主题曲。\n\n变得轻佻又温暖的感觉了。\n在与以往相同，没有多少紧张感的旋律上，\n多添了点异于人类的妖精的成分。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "可愛い大戦争のリフレーン"
+zh-hans = "可爱的大战争叠奏曲"
+en = "The Refrain of the Lovely Great War"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "大战争音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "可爱的大战争叠奏曲"
+page = "可爱的大战争叠奏曲"
+
+[soundtrack-list.commentary]
+ja = "一面のテーマです。\nこの曲は東方三月精単行本収録曲です。\n最初から一面に使う予定で作った曲でしたので、その願いが\n叶えられてこの曲も本望でしょう。\nゲームミュージックはゲームプレイしながら聞く事で完成です。\nＣＤで聞いたときと違う印象を持つ人もいるでしょう。"
+zh-hans = "一面的主题曲。\n同时收录在东方三月精的单行本里。\n起初就是打算用在一面的，如今能够实现\n此曲也算是得尝所愿吧。\n游戏的乐曲要在游戏中听才美。\n因而会有人感到跟ＣＤ中的印象不同吧。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "いたずらに命をかけて"
+zh-hans = "赌上性命去恶作剧"
+en = "Staking Your Life on a Prank"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "1&2面BOSS角色曲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "大战争音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1&2面BOSS角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "赌上性命去恶作剧"
+page = "赌上性命去恶作剧"
+
+[soundtrack-list.commentary]
+ja = "１、２面ボスのテーマです。\n\n三月精と戦う時のテーマです。\nいかにもボスって感じですが、かるーい感じを多めにしています。\n小さな喧嘩って感じで敵の攻撃と共に、かわいらしさが出ているのかな。"
+zh-hans = "一、二面ＢＯＳＳ的主题曲。\n\n与三妖精战斗时的曲子。\n确实有ＢＯＳＳ的样子，但多添了些轻快的元素。\n好像小打小闹一般，除敌人的攻击外，还显出了可爱的感觉吧。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "年中夢中の好奇心"
+zh-hans = "时刻旺盛的好奇心"
+en = "Year-Round Absorbed Curiosity"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "大战争音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "时刻旺盛的好奇心"
+page = "时刻旺盛的好奇心"
+
+[soundtrack-list.commentary]
+ja = "二面のテーマです。\n\n一面とは雰囲気を変えて、夕方風に。\nタイトル画面のメロディが使われています。\nなんか妖しさと懐かしさが強くなっていると思います。\n夕方っていうと妖しくも懐かしいですからね。"
+zh-hans = "二面的主题曲。\n\n与一面的氛围不同，这回是傍晚哦。\n使用了标题画面的旋律。\n感觉增强了妖异度与怀旧度吧。\n一提到傍晚便令人感到妖异和怀旧嘛。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "真夜中のフェアリーダンス"
+zh-hans = "午夜的妖精舞会"
+en = "A Midnight Fairy Dance"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "大战争音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "午夜的妖精舞会"
+page = "午夜的妖精舞会"
+
+[soundtrack-list.commentary]
+ja = "三面のテーマです。\n\nちょっとだけジャズィでアダルティなメロディにしました。\n夜といえば大人の時間。もしくは妖怪の時間。\nよい子はおねむの時間、夜更かしすると妖怪が出ますよ。\nもしくは大人が出ます。そりゃもう出ます。"
+zh-hans = "三面的主题曲。\n\n搞成稍带爵士与成熟感的旋律了。\n夜晚是大人们的时间。或者是妖怪们的时间。\n好孩子该去睡觉了，熬夜的话会引来妖怪哦。\n或者会引来大人呢。简直是一定的。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖精大戦争　～ Fairy Wars"
+zh-hans = "妖精大战争　～ Fairy Wars"
+en = "Great Fairy Wars ~ Fairy Wars"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "3面BOSS角色曲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "大战争音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖精大战争　～ Fairy Wars"
+page = "妖精大战争　～ Fairy Wars"
+
+[soundtrack-list.commentary]
+ja = "三面ボスのテーマです。\n一応ラスボス戦ですが、すぐに到達してしまうので曲の重さを\nどの位にするかが難しいところ。\nいきなりＭＡＸパワーでも疲れるので、序盤はゆっくり楽しげに、\n終盤はハイスピードで熱い感じにしました。\n音色は妖精風だけど結構熱い曲です。"
+zh-hans = "三面ＢＯＳＳ的主题曲。\n虽说是终ＢＯＳＳ战，但因为马上就能到达，\n所以难以把握曲调的轻重。\n突然力道满满的话会令人疲劳吧，于是序盘缓慢愉快，\n终盘高速而又热血。\n音色是妖精风格但也相当热血哦。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ルーズレイン"
+zh-hans = "Loose Rain"
+en = "Loose Rain"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "大战争音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Loose Rain"
+page = "Loose Rain"
+
+[soundtrack-list.commentary]
+ja = "ＥＸＴＲＡのテーマです。\n\nイントロで無駄に急かされている感じが出てしまいましたが、\n全体的にはいたずら感が出ていてＥＸっぽいです。\n桜吹雪の中を飛ぶイメージです。\n（作曲時、スケジュール的に急かされていたのは言うまでもない）"
+zh-hans = "ＥＸＴＲＡ的主题曲。\n\n虽在序奏时表现出无谓的催促感，\n但整体表达出的淘气感，像是ＥＸ曲呢。\n飞翔在樱吹雪中的印象。\n（作曲时，日程催紧这点无需多言）\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "メイガスナイト"
+zh-hans = "Magus Night"
+en = "Magus Night"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "雾雨魔理沙",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "大战争音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[雾雨魔理沙]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Magus Night"
+page = "Magus Night"
+
+[soundtrack-list.commentary]
+ja = "ＥＸＴＲＡボスのテーマです。\n\n魔女達の舞踏会のアレンジのつもりで作り始めました。\n心の奥底に残るイメージだけで書いたため全く別の曲に……\n作曲者本人がアレンジするとアレンジにならないとはこの事か。\nま、格好いい曲ですよねー。曲さえ良ければ何でもいいや。"
+zh-hans = "ＥＸＴＲＡＢＯＳＳ的主题曲。\n\n以改编魔女们的舞会为本开始做的曲子。\n只凭借残留在心底的印象结果完全变成了别的曲子……\n作曲者本人来改编的话不构成改编，原来是这么一回事么。\n不过，很帅气的曲子吧—。只要曲子好就得了。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "春の氷精　- 静 -"
+zh-hans = "春之冰精　- 静 -"
+en = "An Ice Fairy in Spring - Still -"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "大战争音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "春之冰精　- 静 -"
+page = "春之冰精　- 静 -"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n\nオープニングの別バージョンです。\n少し大人っぽくなりました。\n\n大人になっても妖精さん妖精さん言ってるようじゃもう駄目ね。"
+zh-hans = "ＥＮＤＩＮＧ的主题曲。\n\nＯＰＥＮＩＮＧ的另一版本。\n稍稍变得成熟点了。\n\n都变成大人了还口口声声妖精妖精的真算是完蛋了。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "プレイヤーズスコア"
+zh-hans = "Player's Score"
+en = "Player's Score"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "得分画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "大战争音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "得分画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Player's Score"
+page = "Player's Score"
+
+[soundtrack-list.commentary]
+ja = "ネームレジストのテーマです。\n\nこれもゲームに合わせて少しだけかるーくしました。"
+zh-hans = "记分画面的主题曲。\n\n这首也借着游戏弄得轻快了点。\n"
+
+[title]
+ja = "妖精大戦争 〜 東方三月精"
+en = "Yousei Daisensou ~ Touhou Sangetsusei"
+zh = "妖精大戰爭 ～ 東方三月精"
+zh-hans = "妖精大战争 ～ 东方三月精"

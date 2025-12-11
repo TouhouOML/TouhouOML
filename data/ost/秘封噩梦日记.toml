@@ -1,0 +1,298 @@
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "悪夢日記"
+zh-hans = "噩梦日记"
+en = "Nightmare Journal"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "噩梦日记音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "噩梦日记"
+page = "噩梦日记"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\n夢がテーマになると大体ホラー展開になりがちな気がします。\n行きすぎない程度にホラー風味を入れてみました。"
+zh-hans = "标题画面的主题曲。\n\n以梦为主题的话剧情似乎往往都是恐怖的展开。\n我以不过分的程度加入了一点恐怖味道。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ルーシッドドリーマー"
+zh-hans = "Lucid Dreamer"
+en = "Lucid Dreamer"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第一周的主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "噩梦日记音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第一周的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Lucid Dreamer"
+page = "Lucid Dreamer"
+
+[soundtrack-list.commentary]
+ja = "一週目のテーマです。\n\n空を飛ぶ夢を見る事ってあります？\n僕は定期的に急斜面を飛ぶようにスキーで滑る夢を見ます。\nそれを見たときは、大体調子の良いときですね。"
+zh-hans = "第一周的主题曲。\n\n做过在空中翱翔的梦吗？\n我定期会做像飞一样在陡坡滑雪的梦。\n做这种梦的时候，基本上都是我状态非常好的时候。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ルナティックドリーマー"
+zh-hans = "Lunatic Dreamer"
+en = "Lunatic Dreamer"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第二周的主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "噩梦日记音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第二周的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Lunatic Dreamer"
+page = "Lunatic Dreamer"
+
+[soundtrack-list.commentary]
+ja = "二週目のテーマです。\n\n夢の内容が現実味が無くなって、ただ単に疲労感だけが残る\nそういった焦るような夢をイメージしました。\nたまに見ますよね。何があったか忘れたけど疲れる夢。"
+zh-hans = "第二周的主题曲。\n\n梦的内容逐渐远离现实，单单只剩下疲劳感\n我作曲时以这种令人焦躁的梦为印象。\n偶尔会做这种梦吧。忘了发生了什么却累得不行的梦。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ナイトメアダイアリー"
+zh-hans = "Nightmare Diary"
+en = "Nightmare Diary"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第三周的主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "噩梦日记音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第三周的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Nightmare Diary"
+page = "Nightmare Diary"
+
+[soundtrack-list.commentary]
+ja = "三週目のテーマです。\n\nいつもの東方っぽい感じで曲を作りました。\n放って置けば延々と続きそうな終盤ってイメージです。\nホラーな夢って、最高に気持ちいいのは自分だけ？\nいつもホラーな妄想をしながら寝ますが、たまにしか見られません。"
+zh-hans = "第三周的主题曲。\n\n我以一如既往的东方的感觉作了曲。\n放着不管就会永远持续下去的最终阶段的感觉。\n做恐怖的梦，只有我会觉得最为舒服吗？\n我总是妄想着恐怖的事情入睡，却偶尔才能做到恐怖的梦。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "バー・オールドアダム"
+zh-hans = "Bar·Old Adam"
+en = "\"Old Adam\" Bar"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "剧情主题曲1",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "噩梦日记音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "剧情主题曲1",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Bar·Old Adam"
+page = "Bar·Old Adam"
+
+[soundtrack-list.commentary]
+ja = "ストーリーのテーマ１です。\n\n＊旧約酒場　～ Dateless Bar \"Old Adam\" より"
+zh-hans = "剧情主题曲其1。\n\n＊选自 旧约酒馆　～ Dateless Bar \"Old Adam\""
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "燕石博物誌が連れてきた闇"
+zh-hans = "燕石博物志所带来的黑暗"
+en = "The Darkness Brought In by Swallowstone Naturalis Historia"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "剧情主题曲2",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "噩梦日记音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "剧情主题曲2",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "燕石博物志所带来的黑暗"
+page = "燕石博物志所带来的黑暗"
+
+[soundtrack-list.commentary]
+ja = "ストーリーのテーマ２です。\n\n＊旧約酒場　～ Dateless Bar \"Old Adam\" より"
+zh-hans = "剧情主题曲其2。\n\n＊选自 旧约酒馆　～ Dateless Bar \"Old Adam\""
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "永遠の春夢"
+zh-hans = "永远的春梦"
+en = "Eternal Spring Dream"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "剧情主题曲3",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "噩梦日记音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "剧情主题曲3",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "永远的春梦"
+page = "永远的春梦"
+
+[soundtrack-list.commentary]
+ja = "ストーリーのテーマ３です。\n\n東方紺珠伝より"
+zh-hans = "剧情主题曲其3。\n\n选自 东方绀珠传"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "秘匿されたフォーシーズンズ"
+zh-hans = "被秘匿的四个季节"
+en = "The Concealed Four Seasons"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "剧情主题曲4",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "噩梦日记音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "剧情主题曲4",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "被秘匿的四个季节"
+page = "被秘匿的四个季节"
+
+[soundtrack-list.commentary]
+ja = "ストーリーのテーマ４です。\n\n東方天空璋より"
+zh-hans = "剧情主题曲其4。\n\n选自 东方天空璋"
+
+[title]
+zh-hans = "秘封噩梦日记"

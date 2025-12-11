@@ -1,0 +1,783 @@
+threlease = "TH7"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖々夢　～ Snow or Cherry Petal"
+zh-hans = "妖妖梦　～ Snow or Cherry Petal"
+en = "Ghostly Dream ~ Snow or Cherry Petal"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖妖梦　～ Snow or Cherry Petal"
+page = "妖妖梦　～ Snow or Cherry Petal"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面テーマです。\n前作のタイトル曲のイメージを引きずりつつ、和風に和風に。\nこの曲、「これから弾幕の嵐！」って雰囲気を完全に削ぎます。\n正直、あっても無くても良さそうな曲だったりするんですが、\n高揚する弾幕魂をここでなだめる役割を果たしています（笑）"
+zh-hans = "标题画面的主题曲。\n受到前作标题画面曲风的影响，完全是和风中的和风。\n这首曲子，把“接下来就是弹幕的暴风雨了！”的氛围给完全削弱了。\n老实说，虽然这是首有也好没有也好的曲子，\n不过它总算是达成了把高扬的弹幕之魂给平息下去的任务。（笑）"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "無何有の郷　～ Deep Mountain"
+zh-hans = "无何有之乡　～ Deep Mountain"
+en = "Paradise ~ Deep Mountain"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "无何有之乡　～ Deep Mountain"
+page = "无何有之乡　～ Deep Mountain"
+
+[soundtrack-list.commentary]
+ja = "１面テーマです。\n曲名（何か有るという事が無い）通り、手付かずの自然をイメージ\nしてあります。でもそこはそれ、個人的に異様に癒し系だったりす\nるのも嫌ですので、小気味良い程度の軽快さに仕上げました。\nでも、爽やかさは皆無です(^^;"
+zh-hans = "第一面的主题曲。\n就像曲名（好像没有什么东西）所写的那样，给人一种未经开发的自然之\n感。虽然如此，但是个人异样地讨厌治愈系，所以\n在完成的时候稍稍给里面加入了一些轻快的成分。\n但是，完全没有飒爽的感觉呢(^^;"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th07_02.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 無何有の郷　～ Deep Mountain 】妖々夢 for 88P Comp.ZUN"
+zh-hans = "【 无何有之乡　～ Deep Mountain 】妖妖梦 for 88P Comp.ZUN"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "クリスタライズシルバー"
+zh-hans = "Crystallize Silver"
+en = "Crystallized Silver"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "蕾蒂·霍瓦特洛克",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[{{蕾蒂}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Crystallize Silver"
+page = "Crystallize Silver"
+
+[soundtrack-list.commentary]
+ja = "レティ・ホワイトロックのテーマです。\n（この曲に限らず）私の曲は露骨でない和洋折衷を目指しています\n１面ボスなのですんごく短い曲ですが、この世界観の入り口として\n思うがままに表現してみました。\nストレートな曲なのに、どのジャンルにも当てはならない不思議な\n曲です"
+zh-hans = "{{蕾蒂}}的主题曲。\n（不光是这首曲子）我作曲的目标一直都希望有一种不露骨的和洋折衷的\n风格。作为第一面的BOSS使用的虽然是这么短的曲子，但把它作为这个世\n界观的入口，尝试着把它表现成我所想的样子。\n是一首分明很直率，却不像以往任何一种流派的不可思议的曲子。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "遠野幻想物語"
+zh-hans = "远野幻想物语"
+en = "The Fantastic Tales from Tono"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "远野幻想物语"
+page = "远野幻想物语"
+
+[soundtrack-list.commentary]
+ja = "２面テーマです。\nこれはー、変な曲です。はい。\n民族色高い曲を創る予定だったのですが、落ち着きすぎて中途半端に\n民族風。曲名通り、遠野郷をイメージしています。\n昔は日本にもこんな所が存在したんだなぁ、程度にレトロなメロディ\nにしてみたつもりです。"
+zh-hans = "第2面的主题曲。\n这个是─，很奇怪的曲子。是的。\n原本预定是一首很有民族风味的曲子，但因为太过安宁了结果变成了\n不完全的民族风味。就像曲名所写的那样，是以远野乡为印象的。\n原来以前的日本也存在有这样的地方啊，这首曲子就是用怀\n旧的旋律给人这种程度的感觉。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ティアオイエツォン(withered leaf)"
+zh-hans = "凋叶棕（withered leaf）"
+en = "Diao Ye Zong (withered leaf)"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "橙",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[橙]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "凋叶棕（withered leaf）"
+page = "凋叶棕（withered leaf）"
+
+[soundtrack-list.commentary]
+ja = "橙（チェン）のテーマです。\n元気な妖怪少女のイメージで作曲しました。何の迷いも無くアドリブ\n的に作曲した曲です。あんまひねった事すると、狙いすぎておかしく\nなる事が良くわかったので(汗)、即興的に弾いたメロディで創ってみ\nました。それはもうお酒を大量に嗜んで...\nこれはこれで自分に素直な曲です(^^;"
+zh-hans = "橙的主题曲。\n以一个开朗的妖怪少女为印象作的曲。在没有任何犹豫的情况下即兴做出\n的曲子。因为我清楚的知道要是太拘泥于什么的话，给人感觉就会好像刻\n意去追求什么而使曲子变得奇怪了（汗），尝试用即兴弹奏的旋律去创作\n的。要做到那样还真得喝不少酒…\n这样诞生的曲子是自己最真实的曲子(^^;"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ブクレシュティの人形師"
+zh-hans = "布加勒斯特的人偶师"
+en = "The Doll Maker of Bucuresti"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "布加勒斯特的人偶师"
+page = "布加勒斯特的人偶师"
+
+[soundtrack-list.commentary]
+ja = "３面テーマです。いきなりもう終盤か？と感じさせる曲ですね。\n実は、今回体験版を先行発表するので、中途半端な体験版にしない為\nにゲームの１回目の節目を３面に持って来る事にしました。\nなので、若干シリアス目な曲を目指してみました。\nとはいいつつ、実は最も昔の私っぽい曲です。その為、多分そう感じ\nるのは私だけでしょうが、懐かしさを覚えます。"
+zh-hans = "第3面的主题曲。突然就到终盘了吗？给人以这种感觉的曲子呢。\n实际上，因为这次先发表了体验版，为了不让它成为一个半吊子的体验版，\n而把游戏第一回的转折点放到了第3面。\n因此，也需要一些相对能让人认真的曲子。\n虽然这么说，实际上这个是最像我以前风格的曲子。因此，估计能\n有那种感受的应该也只有我自己而已吧，有种很怀念的感觉。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "人形裁判　～ 人の形弄びし少女"
+zh-hans = "人偶裁判　～ 玩弄人形的少女"
+en = "Doll Judgement ~ The Girl Who Played with People's Shapes"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "爱丽丝·玛格特洛依德",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[{{爱丽丝}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "人偶裁判　～ 玩弄人形的少女"
+page = "人偶裁判　～ 玩弄人形的少女"
+
+[soundtrack-list.commentary]
+ja = "アリス・マーガトロイドのテーマです。\nアリスはシリーズ的にちょっと特別なキャラなので、気合入れて作曲\nしました（て言うと、他の曲は手を抜いてるみたいですが）\n戦闘の切羽詰まった感の中にも、お互い心に余裕が見える程度な曲を\n目指しています。この心の余裕こそが彼女達の美徳なのです。\n・・・（美徳は）ゴスロリ、じゃないですよ（笑）"
+zh-hans = "{{爱丽丝}}的主题曲。\n因为爱丽丝对于这个系列来说算的上是有点特别的角色，所以自然很卖力\n地为她作曲（但这么说的话，会给人感觉好像其他曲子都不用心的样子）\n目标是要做成一首感觉在战斗中既有被逼得走投无路之感，又好像互相都\n能看到彼此心中的从容程度的曲子。这份心中的从容也正是她们的美德。\n……（说到美德）可不是什么哥特萝莉哦（笑）"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "天空の花の都"
+zh-hans = "天空的花都"
+en = "The Capital City of Flowers in the Sky"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "天空的花都"
+page = "天空的花都"
+
+[soundtrack-list.commentary]
+ja = "４面テーマです。和風より中華風。過激で素敵な雲の上です。\n４面から、ようやく本当の妖々夢の始まりとなっている為、４面だけ\n圧倒的に長いステージになっています。\nかつて、こんなに激しくも切ない曲で成層圏（そんなに高くありませ\nん）突入があっただろうか。\n西遊記をイメージして作曲しています。全然関係無いけど。"
+zh-hans = "第4面的主题曲。比起和风来更像中国风。在过激而又美丽的云上。\n因为从第4面起，真正的妖妖梦终于要开始了，所以只有第4面的\n关卡是压倒性地长。\n在过去，发生过用如此激烈而悲伤的曲子突入平流层（其实也没那么高）的事情吗。\n以西游记为印象作的曲。虽然完全没关系。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幽霊楽団　～ Phantom Ensemble"
+zh-hans = "幽灵乐团　～ Phantom Ensemble"
+en = "Phantom Band ~ Phantom Ensemble"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "普莉兹姆利巴",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "{{虹川}}三姐妹角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幽灵乐团　～ Phantom Ensemble"
+page = "幽灵乐团　～ Phantom Ensemble"
+
+[soundtrack-list.commentary]
+ja = "プリズムリバー三姉妹のテーマです。\nとにかく、明るく楽しく演奏している様な曲を創ったつもりです。\nお祭りや騒がしい事が大好きな、能天気な三姉妹の勢いに任せた演奏\nのつもり。サビはヴァイオリン、トランペット、キーボードと三人が、\n思うが侭に演奏しています。ごった煮。"
+zh-hans = "{{虹川}}三姐妹的主题曲。\n总之，我认为创作出了一首仿佛在明快欢乐地演奏般的曲子。\n这是喜欢祭典和热闹，大大咧咧的三姐妹趁着劲头进行的演奏。高潮是三人用小提琴，小号，键盘，按照自己的想法进行演奏。大杂烩。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "東方妖々夢　～ Ancient Temple"
+zh-hans = "东方妖妖梦　～ Ancient Temple"
+en = "Eastern Ghostly Dream ~ Ancient Temple"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "东方妖妖梦　～ Ancient Temple"
+page = "东方妖妖梦　～ Ancient Temple"
+
+[soundtrack-list.commentary]
+ja = "５面テーマです。\n精一杯の日本人に根付く懐かしさと、ほんの一寸の何者かが迫り来る\n焦燥感を出してみました。\n遠くに聞こえる笙の様な音と鐘の音が、なんとなくあの世をイメージ\nします。私だけ？"
+zh-hans = "第5面的主题曲。\n试图表现出在努力的日本人心中扎了根的思念之情和有什么人步步紧\n逼的焦躁感。\n从遥远的地方传来的笙一般的声音和钟声，不由自主给人\n彼世的印象。能感觉到的只有我？"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "広有射怪鳥事　～ Till When?"
+zh-hans = "广有射怪鸟事　～ Till When?"
+en = "Hiroari Shoots a Strange Bird ~ Till When?"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "魂魄妖梦",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面BOSS",
+    "[[魂魄妖梦]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "广有射怪鸟事　～ Till When?"
+page = "广有射怪鸟事　～ Till When?"
+
+[soundtrack-list.commentary]
+ja = "魂魄 妖夢（こんぱく ようむ）のテーマです。\n強敵＋幼さを曲で表現してみたつもりです。一番ボスっぽい曲かも。\nギターを使いつつも、はなから、ロックを諦めています（笑）\nこのサビのメロディは妖怪を彷彿させます。"
+zh-hans = "魂魄 妖梦的主题曲。\n用曲子表现出了强敌+幼小的感觉。也许是最像BOSS战曲子的曲子。\n使用吉他，但从一开始就放弃了摇滚（笑）\n这个高潮的旋律让人想起妖怪。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "アルティメットトゥルース"
+zh-hans = "Ultimate Truth"
+en = "Ultimate Truth"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Ultimate Truth"
+page = "Ultimate Truth"
+
+[soundtrack-list.commentary]
+ja = "最終面のテーマです。\n最終面はボスを中心にするために、道中はただのつなぎです。\n曲もえらく短い曲ですが、割と爽やかで気持ちいい曲です（多分）\nステージは、桜の海の上を高速で駆け抜けるイメージを想定していま\nしたが、曲の方もそんな感じになったでしょうか？"
+zh-hans = "最终面的主题曲。\n因为最终面要以BOSS为中心，所以道中仅仅只是走个过场。\n曲子也是非常短的曲子，不过，是给人以清爽感觉的曲子（也许）\n关卡预计给人以在樱花的海上面高速奔跑的感觉，不过，曲子也给人那种感觉了吗？"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幽雅に咲かせ、墨染の桜　～ Border of Life"
+zh-hans = "幽雅地绽放吧，墨染的樱花　～ Border of Life"
+en = "Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "西行寺幽幽子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面BOSS",
+    "[[西行寺幽幽子]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幽雅地绽放吧，墨染的樱花　～ Border of Life"
+page = "幽雅地绽放吧，墨染的樱花　～ Border of Life"
+
+[soundtrack-list.commentary]
+ja = "西行寺 幽々子（さいぎょうじ ゆゆこ）のテーマです。\nとにかく、東洋風でメロディアスでラストらしい曲を目指しました。\nとかなんとかいっちゃって、どう聴いてもいつもの曲です（笑）\n激しくも優雅で、力強くも儚げに、色々感じ取れる曲になったかなと"
+zh-hans = "西行寺 幽幽子的主题曲。\n总之，我是以作出东洋风格、旋律优美而且有最终感觉的曲子为目标的。\n虽然我这么说，但怎么听都是一如既往的曲子（笑）\n我想这是一首激烈而优雅，强力而虚幻，可以感受到很多的曲子"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ボーダーオブライフ"
+zh-hans = "Border of Life"
+en = "Border of Life"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "西行寺幽幽子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面BOSS",
+    "[[西行寺幽幽子]]另一首角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Border of Life"
+page = "Border of Life"
+
+[soundtrack-list.commentary]
+ja = "？？？のテーマです。\n幽々子のテーマの別バージョンです。\nちょっとミステリアスな雰囲気が強調されています。\n曲自体は、疲れるほどにハードです（笑）"
+zh-hans = "？？？的主题曲。\n幽幽子的主题曲的另一版本。\n强调了有些神秘的氛围。\n曲子本身的紧张使人觉得很累吧（笑）"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖々跋扈"
+zh-hans = "妖妖跋扈"
+en = "Spiritual Domination"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖妖跋扈"
+page = "妖妖跋扈"
+
+[soundtrack-list.commentary]
+ja = "エクストラステージのテーマです。\n東方に珍しい疾走感の強い曲（か？）です。\nステージを見れば分りますが、テンポとノリが重要なイメージになっ\nています。\n途中で曲調が１１２°程変換されますが、そこからがエクストラの始\nまりだと思ってください（笑）"
+zh-hans = "EXTRA面的主题曲。\n东方里少见的疾驰感强的曲子（吗？）。\n虽然看关卡就能明白的，不过还是得说拍子和旋律是重要的印象。\n途中曲调112°转换，请把那之后才当成是EX关的开始（笑）"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "少女幻葬　～ Necro-Fantasy"
+zh-hans = "少女幻葬　～ Necro-Fantasy"
+en = "A Maiden's Illusionary Funeral ~ Necro-Fantasy"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "八云蓝",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[八云蓝]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "少女幻葬　～ Necro-Fantasy"
+page = "少女幻葬　～ Necro-Fantasy"
+
+[soundtrack-list.commentary]
+ja = "八雲 藍（やくも らん）のテーマです。\n幻想より幻惑的なイメージで作曲しました。\n曲自体から、活きの良い妖怪を感じてもらえればいいかなと。\nシューティングで長期戦になるところは、繰り返しが多くて一定の調\n子の方がいい感じだと思うので、そんな感じな曲に。"
+zh-hans = "八云蓝的主题曲。\n比起幻想，我更多的是以幻惑的印象来创作这首曲子。\n曲子本身，要是可以感受到充满活力的妖怪的感觉就好了。\n我认为射击游戏如果到了长期战的地方，旋律重复多，形成一定的节奏比较好，\n所以这首曲子有了那种感觉。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖々跋扈　～ Who done it!"
+zh-hans = "妖妖跋扈　～ Who done it!"
+en = "Spiritual Domination ~ Who done it!"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Phantasm面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Phantasm面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖妖跋扈　～ Who done it!"
+page = "妖妖跋扈　～ Who done it!"
+
+[soundtrack-list.commentary]
+ja = "妖々跋扈の裏バージョンです。\n曲は殆ど変化はありませんが・・・"
+zh-hans = "妖妖跋扈的里版本。\n曲子几乎没有变化……"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ネクロファンタジア"
+zh-hans = "Necro-Fantasia"
+en = "Necrofantasia"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "八云紫",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Phantasm面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    18,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Phantasm面BOSS",
+    "[[八云紫]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Necro-Fantasia"
+page = "Necro-Fantasia"
+
+[soundtrack-list.commentary]
+ja = "八雲 紫（やくも ゆかり）のテーマです。\n藍のテーマの編曲のつもりだったけど、割と別の曲に。\nこっちの方は、禍々しい感じが少し混じっています。\nというか、キャラ自体が禍々しさの塊みたいなもんです。今までのキ\nャラの中でも、胡散臭い風貌、信用できない性格、非常識な弾幕。\nそういうキャラの曲なので、とても胡散臭い（笑）"
+zh-hans = "八云紫的主题曲。\n本来打算将蓝的曲子重新编排下，不过，变成了不同风格的曲子。\n这首稍微搀杂着不吉的感觉。\n或者说，角色本身就极端不吉。\n即使在现在为止的角色当中，她也算是拥有形迹可疑的样子，无法信任的性格，非常识的弹幕。因为是那样的角色的曲子，所以曲子本身也非常形迹可疑(笑)"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "春風の夢"
+zh-hans = "春风之梦"
+en = "Dream of a Spring Breeze"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    19,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "春风之梦"
+page = "春风之梦"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n・・・だから、暗いってばさ。\n\nいたって平和な日常ですよ"
+zh-hans = "ENDING的主题曲\n……所以，有点阴暗。\n\n虽然这么说但却是和平的日常哟"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "さくらさくら　～ Japanize Dream..."
+zh-hans = "樱花樱花　～ Japanize Dream..."
+en = "Sakura, Sakura ~ Japanize Dream..."
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "妖妖梦音乐名",
+    20,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "樱花樱花　～ Japanize Dream..."
+page = "樱花樱花　～ Japanize Dream..."
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\n童謡「さくらさくら」をイメージした曲です。\n割とすっきりする曲だったりします。"
+zh-hans = "职员表时的主题曲。\n以童谣「SAKURA SAKURA」为印象的曲子。\n意外爽快的曲子。"
+
+[title]
+ja = "東方妖々夢 〜 Perfect Cherry Blossom."
+en = "Touhou Youyoumu ~ Perfect Cherry Blossom"
+zh = "東方妖妖夢 ～ Perfect Cherry Blossom."
+zh-hans = "东方妖妖梦 ～ Perfect Cherry Blossom."

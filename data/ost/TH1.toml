@@ -1,0 +1,693 @@
+threlease = "TH1"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "A Sacred Lot"
+zh-hans = "A Sacred Lot"
+en = "A Sacred Lot"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "A Sacred Lot"
+page = "A Sacred Lot"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "REIMU.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "A Sacred Lot     　　　　　　　　　　　　　                Composer  ZUN"
+zh-hans = "A Sacred Lot     　　　　　　　　　　　　　                Composer  ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "風の神社"
+zh-hans = "风之神社"
+en = "Shrine of the Wind"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "未使用曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "未使用曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "风之神社"
+page = "风之神社"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "ZIPANGU.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "風の神社     　　　　　　　　　　　　　                Composer  ZUN"
+zh-hans = "风之神社     　　　　　　　　　　　　　                Composer  ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "永遠の巫女"
+zh-hans = "永远之巫女"
+en = "Eternal Shrine Maiden"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1至4面",
+    "地狱16至19面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1至4面",
+    "地狱16至19面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "永远之巫女"
+page = "永远之巫女"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "ST0.MDT",
+    "ST6.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "永遠の巫女     　　　　　　　　　　　　　                Composer  ZUN"
+zh-hans = "永远之巫女     　　　　　　　　　　　　　                Composer  ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Highly Responsive to Prayers"
+zh-hans = "Highly Responsive to Prayers"
+en = "Highly Responsive to Prayers"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "魔界6至9面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "魔界6至9面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Highly Responsive to Prayers"
+page = "Highly Responsive to Prayers"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "ST1.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "神へ捧げる魂　　～Highly Responsive to Prayers     　　　　　　　　　　　　　                                                               Composer  ZUN"
+zh-hans = "献给神明之魂　　～Highly Responsive to Prayers     　　　　　　　　　　　　　                                                               Composer  ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "東方怪奇談"
+zh-hans = "东方怪奇谈"
+en = "Eastern Strange Discourse"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "地狱6至9面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "地狱6至9面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "东方怪奇谈"
+page = "东方怪奇谈"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "ST2.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "東方怪奇談                              composer ZUN"
+zh-hans = "东方怪奇谈                              composer ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Oriental Magician"
+zh-hans = "Oriental Magician"
+en = "Oriental Magician"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "魔界11至14面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "魔界11至14面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Oriental Magician"
+page = "Oriental Magician"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "ST3.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Ｏｒｉｅｎｔａｌ　Ｍａｇｉｃｉａｎ　　　　　　　　　Composer  ZUN"
+zh-hans = "Ｏｒｉｅｎｔａｌ　Ｍａｇｉｃｉａｎ　　　　　　　　　Composer  ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "破邪の小太刀"
+zh-hans = "破邪的小太刀"
+en = "Blade of Banishment"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "地狱11至14面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "地狱11至14面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "破邪的小太刀"
+page = "破邪的小太刀"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "ST4.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "破邪の小太刀 　　　　                                      composer ZUN"
+zh-hans = "破邪的小太刀 　　　　                                      composer ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "The Legend of KAGE"
+zh-hans = "The Legend of KAGE"
+en = "The Legend of KAGE"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "魔界16至19面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "魔界16至19面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "The Legend of KAGE"
+page = "The Legend of KAGE"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "ST5.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "The Legend of KAGE                                             ZUN"
+zh-hans = "The Legend of KAGE                                             ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "Positive and Negative"
+zh-hans = "Positive and Negative"
+en = "Positive and Negative"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "神玉",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+    "[[神玉]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Positive and Negative"
+page = "Positive and Negative"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "POSITIVE.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "陰陽　 -The Positive and Negative　　　　　　　　　　　　　Composer  ZUN"
+zh-hans = "阴阳　 -The Positive and Negative　　　　　　　　　　　　　Composer  ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "天使伝説"
+zh-hans = "天使传说"
+en = "Angel's Legend"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "幽幻魔眼",
+    "魅魔",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "10面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "10面主题曲",
+    "[[幽幻魔眼]]和[[魅魔]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "天使传说"
+page = "天使传说"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "LEGEND.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "天使伝説　　　　　　　　　　　　　　　　　　                 Composer  ZUN"
+zh-hans = "天使传说　　　　　　　　　　　　　　　　　　                 Composer  ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔鏡"
+zh-hans = "魔镜"
+en = "Magic Mirror"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "依莉斯",
+    "菊理",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "15面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "15面主题曲",
+    "[[依莉斯]]和[[菊理]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔镜"
+page = "魔镜"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "KAMI.MDT",
+    "KAMI2.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "魔鏡　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ZUN"
+zh-hans = "魔镜　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "いざ、倒れ逝くその時まで"
+zh-hans = "来吧，直到倒地死去的那一刻"
+en = "Now, Until the Moment You Die"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "萨丽爱尔",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "魔界最终面主题曲1",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "魔界最终面主题曲1",
+    "[[萨丽爱尔]]角色曲1",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "来吧，直到倒地死去的那一刻"
+page = "来吧，直到倒地死去的那一刻"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "TENSI.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "いざ、倒れ逝くその時まで．．．　　　　　　　　　　　　　　　ZUN"
+zh-hans = "来吧，直到倒地死去的那一刻．．．　　　　　　　　　　　　　　　ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "死なばもろとも"
+zh-hans = "同归于尽"
+en = "We Shall Die Together"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "萨丽爱尔",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "魔界最终面主题曲2",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "魔界最终面主题曲2",
+    "[[萨丽爱尔]]角色曲2",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "同归于尽"
+page = "同归于尽"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "SHUGEN.MDT",
+    "SYUGEN.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Theme of 地獄めくり                                               ZUN"
+zh-hans = "Theme of 地狱巡回                                               ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "星幽剣士"
+zh-hans = "星幽剑士"
+en = "Swordsman of a Distant Star"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "矜羯罗",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "地狱最终面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "地狱最终面主题曲",
+    "[[矜羯罗]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "星幽剑士"
+page = "星幽剑士"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "ALICE.MDT",
+    "INIT.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "星幽天使\n\n\n\n～　Ｔｈｅ  ”★ＡｌｉｃｅｰｉｎｰＷｏｎｄｅｒｌａｎｄ”　Ａｎｇｅｌ\n\n\n\nComposer 　ＺＵＮ (^ ^)/~"
+zh-hans = "星幽天使\n\n\n\n～　Ｔｈｅ  ”★ＡｌｉｃｅｰｉｎｰＷｏｎｄｅｒｌａｎｄ”　Ａｎｇｅｌ\n\n\n\nComposer 　ＺＵＮ (^ ^)/~\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "アイリス"
+zh-hans = "鸢尾花"
+en = "Iris"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "灵异传音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "鸢尾花"
+page = "鸢尾花"
+
+[soundtrack-list.commentary]
+
+[soundtrack-list.source.fm86]
+file-list = [
+    "IRIS.MDT",
+]
+
+[soundtrack-list.source.fm86.file_metadata]
+ja = "Composer  ZUN"
+zh-hans = "Composer  ZUN\n"
+
+[title]
+ja = "東方靈異伝 〜 Highly Responsive to Prayers."
+en = "Touhou Reiiden ~ Highly Responsive to Prayers"
+zh = "東方靈異傳 ～ Highly Responsive to Prayers."
+zh-hans = "东方灵异传 ～ Highly Responsive to Prayers."

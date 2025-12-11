@@ -1,0 +1,900 @@
+threlease = "TH19"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "獣の知性"
+zh-hans = "兽之智慧"
+en = "A Beast's Intelligence"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "兽之智慧"
+page = "兽之智慧"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\n獣っぽく力強いタイトル画面にしました。\n重厚さと儚さ、力強さと無力さ、そういった矛盾する要素が\n同居した獣の知性を表現しています。"
+zh-hans = "标题画面主题曲。\n\n本次采用了颇具兽性、充满力量感的标题画面。\n厚重与纤弱、强大与无力，\n这些相互矛盾的特征表现着集群而居的兽类的智慧。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "世界は可愛く出来ている"
+zh-hans = "世间万物皆可爱"
+en = "The World Is Made in an Adorable Way"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "博丽灵梦",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "剧情模式前期主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[博丽灵梦]]",
+    "剧情模式前期主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "世间万物皆可爱"
+page = "世间万物皆可爱"
+
+[soundtrack-list.commentary]
+ja = "博麗 霊夢 ＆ ストーリーモード序盤のテーマです。\n\n霊夢のイメージに寄せつつ、このゲームの雰囲気を\n決定する曲です。\n軽快で楽しく可愛い、この世がこんな世界だったら良いなぁ、\nという思いで作りました。"
+zh-hans = "博丽灵梦&剧情模式前期主题曲。\n\n这支曲子较为贴近灵梦的印象，\n同时也决定了整个游戏的基调。\n轻快、活泼又可爱，要是这个世界也是这样就好啦。\n我是抱着这种心情去作曲的。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔獣スクランブル"
+zh-hans = "魔兽紧急升空"
+en = "Magical Beast Scramble"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "雾雨魔理沙",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "剧情模式中期主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[雾雨魔理沙]]",
+    "剧情模式中期主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔兽紧急升空"
+page = "魔兽紧急升空"
+
+[soundtrack-list.commentary]
+ja = "霧雨 魔理沙 ＆ ストーリーモード中盤のテーマです。\n\n疾走感を持ちつつ、怪しい感じの曲にしました。\n魔理沙のイメージを保ちつつ、どんなキャラでもあう様に\nなってると思います。\nちょっと不気味なくらいがこのゲームっぽいです。"
+zh-hans = "雾雨魔理沙&剧情模式中期主题曲。\n\n这支曲子充满疾驰感而又有些古怪。\n我觉得这支曲子维持了魔理沙的既有印象，\n同时也和任何角色都很搭配。\n略带诡异的感觉很有本作的风格。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "鬼は悠久の山に"
+zh-hans = "悠久山上鬼"
+en = "The Oni Go to the Perpetual Mountain"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "伊吹萃香",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "剧情模式后期主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[伊吹萃香]]",
+    "剧情模式后期主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "悠久山上鬼"
+page = "悠久山上鬼"
+
+[soundtrack-list.commentary]
+ja = "伊吹 萃香 ＆ ストーリーモード終盤のテーマです。\n\n山を登るイメージで作りました。\n別に山を登るゲームでは無いんですけどね。\n当初は東風谷早苗のテーマにしようと思って作ったけど\n余りにもキャラのイメージに合わなくて……（笑）"
+zh-hans = "伊吹萃香&剧情模式后期主题曲。\n\n这支曲子是基于登山的印象创作的。\n虽然这也不是个登山游戏啦。\n我写这支曲子本来是为了给东风谷早苗当主题曲，\n可是成品和角色印象实在差太远了……（笑）"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "タイニーシャングリラ"
+zh-hans = "Tiny Shangri-La"
+en = "Tiny Shangri-La"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "孙美天",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[孙美天]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Tiny Shangri-La"
+page = "Tiny Shangri-La"
+
+[soundtrack-list.commentary]
+ja = "孫 美天のテーマです。\n\n自分の事を孫悟空の生まれ変わりだと思っている猿です。\n定期的に西遊記のようなファンタジーに憧れます。\nこのゲームの世界観をあえて無視して、西遊記をイメージして\n作りました。曲は大変美しく出来て満足です。"
+zh-hans = "孙美天的主题曲。\n\n她是只猿猴，坚信自己是孙悟空转世。\n我会定期对西游记那个类型的幻想故事心生憧憬。\n这支曲子是有意无视了游戏的世界观，基于西游记的印象创作的。\n成曲优美动人，我很满意。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "勇敢で有閑な妖獣"
+zh-hans = "勇敢又慵懒的妖兽"
+en = "A Brave and Leisurely Beast"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "三头慧之子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{三头}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "勇敢又慵懒的妖兽"
+page = "勇敢又慵懒的妖兽"
+
+[soundtrack-list.commentary]
+ja = "三頭 慧ノ子のテーマです。\n\n力強さと切なさを持った曲になりました。\n後半ちょっとニヒルな感じも相まって、何ともカッコいい\nと思ってます。それが慧ノ子のイメージに合っているかというと、\nなんとも言えませんが……"
+zh-hans = "三头慧之子的主题曲。\n\n这是支强劲与悲哀交织的曲子。\n再加上后半段略带虚无的感觉，总觉得很帅气。\n但是要问曲子和慧之子的印象相不相符，\n这就不好说了……"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "吸血怪獣チュパカブラ"
+zh-hans = "吸血怪兽卓柏卡布拉"
+en = "Vampiric Cryptid Chupacabra"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "天火人血枪",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{天火人}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "吸血怪兽卓柏卡布拉"
+page = "吸血怪兽卓柏卡布拉"
+
+[soundtrack-list.commentary]
+ja = "天火人ちやりのテーマです。\n\n彼女はチュパカブラではありません。ありませんが、完全に\nチュパカブラをイメージして曲を作りました。\nチュパカブラって、滑稽な響きと愛らしい（？）見た目が憎めない\n良い妖怪ですよね。彼女はチュパカブラではありませんが。"
+zh-hans = "天火人血枪的主题曲。\n\n她并不是卓柏卡布拉。虽然她不是卓柏卡布拉，\n但曲子完全是依照卓柏卡布拉的印象写的。\n卓柏卡布拉这种妖怪，名字滑稽、外表又可爱（？），\n让人讨厌不起来呢。虽然她并不是卓柏卡布拉。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "振り向かない黄泉の道"
+zh-hans = "不回首的黄泉路"
+en = "The Path to Yomi Where None Turn Back"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "豫母都日狭美",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[豫母都日狭美]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "不回首的黄泉路"
+page = "不回首的黄泉路"
+
+[soundtrack-list.commentary]
+ja = "豫母都 日狭美のテーマです。\n\n変拍子がずいずいっと背中を押して、気付いたら\n引き返せない所まで行ってしまいそうな曲です。\n不気味さが美しく、そして儚い曲になりました。\n判りやすく言うと、イメージとしては５面道中ですね（笑）。"
+zh-hans = "豫母都日狭美的主题曲。\n\n这支曲子有种一路被变拍子推着走，\n恍过神来已经没有回头路的感觉。\n这是支诡异、优美又飘渺无常的曲子。\n简单来说，就是5面道中的印象啦（笑）。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "逸脱者達の無礙光　～ Kingdom of Nothingness."
+zh-hans = "越轨者们的无碍光　～ Kingdom of Nothingness."
+en = "The Deviants' Unobstructed Light ~ Kingdom of Nothingness."
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "日白残无",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[日白残无]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "越轨者们的无碍光　～ Kingdom of Nothingness."
+page = "越轨者们的无碍光　～ Kingdom of Nothingness."
+
+[soundtrack-list.commentary]
+ja = "日白 残無のテーマです。\n\nかっこよさと不思議さをエキゾチックに味付けしました。\n同じ強いフレーズを何度も繰り返しているうちに、感情が\nコロコロと変わってく面白い曲です。\nそれは見え方がコロコロと変わる彼女の魅力でもあります。"
+zh-hans = "日白残无的主题曲。\n\n在潇洒帅气和不可思议之上佐以异国风情的曲子。\n在强力的乐句一次次反复的过程中，\n感情也在不断变化，非常有趣。\n这也体现着她立场和形象千变万化的魅力。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "少女が見た日本の原風景"
+zh-hans = "少女曾见的日本原风景"
+en = "Faith is for the Transient People"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "东风谷早苗",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[东风谷早苗]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "少女曾见的日本原风景"
+page = "少女曾见的日本原风景"
+
+[soundtrack-list.commentary]
+ja = "東風谷 早苗のテーマです。\n\n風神録の曲のアレンジです。"
+zh-hans = "东风谷早苗的主题曲。\n\n重编自风神录曲目。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖々跋扈　～ Who done it!"
+zh-hans = "妖妖跋扈　～ Who done it!"
+en = "Spiritual Domination ~ Who done it!"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "八云蓝",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[八云蓝]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "{{兽王园音乐名|1|11}}"
+page = "妖妖跋扈"
+
+[soundtrack-list.commentary]
+ja = "八雲 藍のテーマです。\n\n妖々夢の曲のアレンジです。"
+zh-hans = "八云蓝的主题曲。\n\n重编自妖妖梦曲目。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "一対の神獣"
+zh-hans = "成对的神兽"
+en = "A Pair of Divine Beasts"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "高丽野阿吽",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[高丽野阿吽]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "成对的神兽"
+page = "成对的神兽"
+
+[soundtrack-list.commentary]
+ja = "高麗野あうんのテーマです。\n\n天空璋の曲のアレンジです。"
+zh-hans = "高丽野阿吽的主题曲。\n\n重编自天空璋曲目。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "春の湊に"
+zh-hans = "春之港湾"
+en = "At the Harbor of Spring"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "娜兹玲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{Naz}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "春之港湾"
+page = "春之港湾"
+
+[soundtrack-list.commentary]
+ja = "ナズーリンのテーマです。\n\n星蓮船の曲のアレンジです。"
+zh-hans = "{{Naz}}的主题曲。\n\n重编自星莲船曲目。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "忘れがたき、よすがの緑"
+zh-hans = "忘不了，那曾依藉的绿意"
+en = "Unforgettable, the Nostalgic Greenery"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "清兰",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[清兰]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "忘不了，那曾依藉的绿意"
+page = "忘不了，那曾依藉的绿意"
+
+[soundtrack-list.commentary]
+ja = "清蘭のテーマです。\n\n紺珠伝の曲のアレンジです。"
+zh-hans = "清兰的主题曲。\n\n重编自绀珠传曲目。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "死体旅行　～ Be of good cheer!"
+zh-hans = "尸体旅行　～ Be of good cheer!"
+en = "Corpse Voyage ~ Be of good cheer!"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "火焰猫燐",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[火焰猫燐]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "尸体旅行　～ Be of good cheer!"
+page = "尸体旅行　～ Be of good cheer!"
+
+[soundtrack-list.commentary]
+ja = "火焔猫 燐のテーマです。\n\n地霊殿の曲のアレンジです。"
+zh-hans = "火焰猫燐的主题曲。\n\n重编自地灵殿曲目。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "待ちわびた逢魔が時"
+zh-hans = "渴盼已久的逢魔之刻"
+en = "The Long-Awaited Oumagatoki"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "菅牧典",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[菅牧典]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "渴盼已久的逢魔之刻"
+page = "渴盼已久的逢魔之刻"
+
+[soundtrack-list.commentary]
+ja = "菅牧 典のテーマです。\n\n虹龍洞の曲のアレンジです。"
+zh-hans = "菅牧典的主题曲。\n\n重编自虹龙洞曲目。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "佐渡の二ッ岩"
+zh-hans = "佐渡的二岩"
+en = "Futatsuiwa from Sado"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "二岩猯藏",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{二岩}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "佐渡的二岩"
+page = "佐渡的二岩"
+
+[soundtrack-list.commentary]
+ja = "二ッ岩マミゾウのテーマです。\n\n神霊廟の曲のアレンジです。"
+zh-hans = "{{二岩}}的主题曲。\n\n重编自神灵庙曲目。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "トータスドラゴン　～ 幸運と不運"
+zh-hans = "Tortoise Dragon　～ 幸运与不幸"
+en = "Tortoise Dragon ~ Fortune and Misfortune"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "吉吊八千慧",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    18,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[吉吊八千慧]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Tortoise Dragon　～ 幸运与不幸"
+page = "Tortoise Dragon　～ 幸运与不幸"
+
+[soundtrack-list.commentary]
+ja = "吉弔 八千慧のテーマです。\n\n鬼形獣の曲のアレンジです。"
+zh-hans = "吉吊八千慧的主题曲。\n\n重编自鬼形兽曲目。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "聖徳太子のペガサス　～ Dark Pegasus"
+zh-hans = "圣德太子的天马　～ Dark Pegasus"
+en = "Prince Shoutoku's Pegasus ~ Dark Pegasus"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "骊驹早鬼",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    19,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[骊驹早鬼]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "圣德太子的天马　～ Dark Pegasus"
+page = "圣德太子的天马　～ Dark Pegasus"
+
+[soundtrack-list.commentary]
+ja = "驪駒 早鬼のテーマです。\n\n鬼形獣の曲のアレンジです。"
+zh-hans = "骊驹早鬼的主题曲。\n\n重编自鬼形兽曲目。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "強欲な獣のメメント"
+zh-hans = "贪欲之兽的记忆"
+en = "Memento of the Avaricious Beast"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "饕餮尤魔",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    20,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[饕餮尤魔]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "贪欲之兽的记忆"
+page = "贪欲之兽的记忆"
+
+[soundtrack-list.commentary]
+ja = "饕餮 尤魔のテーマです。\n\n剛欲異聞の曲のアレンジです。"
+zh-hans = "饕餮尤魔的主题曲。\n\n重编自刚欲异闻曲目。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "獣王達の休息"
+zh-hans = "兽王们的小憩"
+en = "Beast Kings' Rest"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    21,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "兽王们的小憩"
+page = "兽王们的小憩"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n\nまあ、いつもの感じです。\nちょっと心落ち着きます。"
+zh-hans = "结局的主题曲。\n\n哎呀，就是一如既往的那个感觉。\n可以稍微安抚心神。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "獣に知性はあるか"
+zh-hans = "野兽有智慧吗"
+en = "Do Beasts Have Intelligence?"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    22,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "野兽有智慧吗"
+page = "野兽有智慧吗"
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\n\nタイトル画面のアレンジです。\nここで言う獣って開発スタッフのことですね。"
+zh-hans = "制作人员名单的主题曲。\n\n重编自标题画面曲。\n这里所说的野兽就是指制作人员了吧。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "戦闘前会話1"
+zh-hans = "战斗前会话1"
+en = "Pre-Battle Conversation theme 1"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话用曲1",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    23,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话用曲1",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "战斗前会话1"
+page = "战斗前会话1"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "戦闘前会話2"
+zh-hans = "战斗前会话2"
+en = "Pre-Battle Conversation theme 2"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话用曲2",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "兽王园音乐名",
+    24,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话用曲2",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "战斗前会话2"
+page = "战斗前会话2"
+
+[soundtrack-list.commentary]
+
+[title]
+ja = "東方獣王園 〜 Unfinished Dream of All Living Ghost."
+en = "Touhou Juuouen ~ Unfinished Dream of All Living Ghost"
+zh = "東方獸王園 ～ Unfinished Dream of All Living Ghost."
+zh-hans = "东方兽王园 ～ Unfinished Dream of All Living Ghost."

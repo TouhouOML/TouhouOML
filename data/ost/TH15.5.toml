@@ -1,0 +1,2155 @@
+threlease = "TH15.5"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "二色蓮花蝶　～ Red and White"
+zh-hans = "二色莲花蝶　～ Red and White"
+en = "Dichromatic Lotus Butterfly ~ Red and White"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "博丽灵梦",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "博丽神社",
+]
+
+[soundtrack-list.composer]
+ja = "コンプ([[豚乙女]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = コンプ，コンプ，パプリカ|乐器 = Guitar，Bass，Piano}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[博丽灵梦]]角色曲",
+    "[[博丽神社]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "二色莲花蝶　～ Red and White"
+page = "二色莲花蝶　～ Red and White"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "恋色マスタースパーク"
+zh-hans = "恋色Master spark"
+en = "Love-Colored Master Spark"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "雾雨魔理沙",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "香霖堂",
+]
+
+[soundtrack-list.composer]
+ja = "oiko([[SOUNDOT]])"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[雾雨魔理沙]]角色曲",
+    "[[香霖堂]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "恋色Master spark"
+page = "恋色Master spark"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "時代親父とハイカラ少女"
+zh-hans = "守旧老爹与前卫少女"
+en = "The Traditional Old Man and the Stylish Girl"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "云居一轮",
+    "云山",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "圣辇船",
+]
+
+[soundtrack-list.composer]
+ja = "しゃばだば([[Sound CYCLONE]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = しゃばだば，sou，HearTribe|乐器 = Guitar，Bass，Piano}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[云居一轮]]&[[云山]]角色曲",
+    "[[圣辇船|云上的宝船]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "守旧老爹与前卫少女"
+page = "守旧老爹与前卫少女"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "感情の摩天楼　～ Cosmic Mind"
+zh-hans = "感情的摩天楼　～ Cosmic Mind"
+en = "Emotional Skyscraper ~ Cosmic Mind"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "圣白莲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "命莲寺",
+]
+
+[soundtrack-list.composer]
+ja = "NYO([[Silver Forest]])\n<small>{{乐器演奏列表|演奏 = NYO|乐器 = Guitar}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[圣白莲]]角色曲",
+    "[[命莲寺]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "感情的摩天楼　～ Cosmic Mind"
+page = "感情的摩天楼　～ Cosmic Mind"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "大神神話伝"
+zh-hans = "大神神话传"
+en = "Omiwa Legend"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "物部布都",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "梦殿大祀庙（场景）",
+]
+
+[soundtrack-list.composer]
+ja = "鯛の小骨([[Azure&Sands]])"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[物部布都]]角色曲",
+    "[[梦殿大祀庙（场景）|梦殿大祀庙]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "大神神话传"
+page = "大神神话传"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "聖徳伝説　～ True Administrator"
+zh-hans = "圣德传说　～ True Administrator"
+en = "Shoutoku Legend ~ True Administrator"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "丰聪耳神子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "神灵庙（场景）",
+]
+
+[soundtrack-list.composer]
+ja = "鷹([[CROW'SCLAW]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = 鷹，鷹|乐器 = Guitar，Bass}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[丰聪耳神子]]角色曲",
+    "[[神灵庙（场景）|神灵庙]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "圣德传说　～ True Administrator"
+page = "圣德传说　～ True Administrator"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "芥川龍之介の河童　～ Candid Friend"
+zh-hans = "芥川龙之介的河童　～ Candid Friend"
+en = "Akutagawa Ryuunosuke's \"Kappa\" ~ Candid Friend"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "河城荷取",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "玄武之泽",
+]
+
+[soundtrack-list.composer]
+ja = "ゆうゆ([[ゆや。]])"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[河城荷取]]角色曲",
+    "[[玄武之泽]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "芥川龙之介的河童　～ Candid Friend"
+page = "芥川龙之介的河童　～ Candid Friend"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ハルトマンの妖怪少女"
+zh-hans = "哈德曼的妖怪少女"
+en = "Hartmann's Youkai Girl"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "古明地恋",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "地灵殿（场景）",
+]
+
+[soundtrack-list.composer]
+ja = "岸田([[岸田教団]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = 岸田，岸田|乐器 = Guitar，Bass}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[古明地恋]]角色曲",
+    "[[地灵殿（场景）|地灵殿]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "哈德曼的妖怪少女"
+page = "哈德曼的妖怪少女"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻想郷の二ッ岩"
+zh-hans = "幻想乡的二岩"
+en = "Futatsuiwa from Gensokyo"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "二岩猯藏",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "妖怪狸森林",
+]
+
+[soundtrack-list.composer]
+ja = "秀三([[石鹸屋]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = 秀三，秀三|乐器 = Guitar，Bass}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{二岩}}]]角色曲",
+    "[[妖怪狸森林]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻想乡的二岩"
+page = "幻想乡的二岩"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "亡失のエモーション"
+zh-hans = "亡失的情感"
+en = "The Lost Emotion"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "秦心",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "人类村落",
+]
+
+[soundtrack-list.composer]
+ja = "どぶウサギ([[dBu music]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = わさもん，JUN|乐器 = Guitar，Violin}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[秦心]]角色曲",
+    "[[人类村落]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "亡失的情感"
+page = "亡失的情感"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "月まで届け、不死の煙"
+zh-hans = "飘上月球，不死之烟"
+en = "Reach for the Moon, Immortal Smoke"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "藤原妹红",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "迷途竹林",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7([[SOUNDOT]])"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[藤原妹红]]角色曲",
+    "[[迷途竹林]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "飘上月球，不死之烟"
+page = "飘上月球，不死之烟"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "輝く針の小人族　～ Little Princess"
+zh-hans = "辉光之针的小人族　～ Little Princess"
+en = "Inchlings of the Shining Needle ~ Little Princess"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "少名针妙丸",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "辉针城",
+]
+
+[soundtrack-list.composer]
+ja = "ぴずや([[ぴずやの独房]]/[[Pizuya's Cell]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = テラ(少女理論観測所)，pizuya|乐器 = Guitar，Bass}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[少名针妙丸]]角色曲",
+    "[[辉针城]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "辉光之针的小人族　～ Little Princess"
+page = "辉光之针的小人族　～ Little Princess"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "華狭間のバトルフィールド"
+zh-hans = "华狭间的战场"
+en = "Battlefield of the Flower Threshold"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "茨木华扇",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "华扇的仙界",
+]
+
+[soundtrack-list.composer]
+ja = "Kou Ogata([[k-waves LAB]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = Kou Ogata，Kou Ogata，Kou Ogata，Kou Ogata|乐器 = Wistles，Concertina，Flat Mandolin，Irish Bouzouki}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[茨木华扇]]角色曲",
+    "[[华扇的仙界]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "华狭间的战场"
+page = "华狭间的战场"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ラストオカルティズム　～ 現し世の秘術師"
+zh-hans = "Last Occultism　～ 现世的秘术师"
+en = "Last Occultism ~ Esotericist of the Present World"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "宇佐见堇子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "外界",
+]
+
+[soundtrack-list.composer]
+ja = "ARM([[IOSYS]])"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[宇佐见堇子]]角色曲",
+    "[[外界]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Last Occultism　～ 现世的秘术师"
+page = "Last Occultism　～ 现世的秘术师"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "狂気の瞳　～ Invisible Full Moon"
+zh-hans = "狂气之瞳　～ Invisible Full Moon"
+en = "Lunatic Eyes ~ Invisible Full Moon"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "铃仙·优昙华院·因幡",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "永远亭",
+]
+
+[soundtrack-list.composer]
+ja = "ビートまりお([[COOL&CREATE ]])"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{铃仙}}]]角色曲",
+    "[[永远亭]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "狂气之瞳　～ Invisible Full Moon"
+page = "狂气之瞳　～ Invisible Full Moon"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "永遠の春夢"
+zh-hans = "永远的春梦"
+en = "Eternal Spring Dream"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "哆来咪·苏伊特",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "梦境世界",
+]
+
+[soundtrack-list.composer]
+ja = "狐夢想([[狐夢想屋]])"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{哆来咪}}]]角色曲",
+    "[[梦境世界]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "永远的春梦"
+page = "永远的春梦"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "有頂天変　～ Wonderful Heaven"
+zh-hans = "有顶天变　～ Wonderful Heaven"
+en = "Catastrophe in Bhavaagra ~ Wonderful Heaven"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "比那名居天子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "天界",
+]
+
+[soundtrack-list.composer]
+ja = "紅い流星([[東京アクティブNEETs]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = 紅い流星，蒼い刹那，紫曹長，ショボン，山石本薫，ヒロコマン|乐器 = Piano，Bass，Guitar，Drum，Sax，Trumpet}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[比那名居天子]]角色曲",
+    "[[天界]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "有顶天变　～ Wonderful Heaven"
+page = "有顶天变　～ Wonderful Heaven"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "夜が降りてくる　～ Evening Star"
+zh-hans = "夜幕降临　～ Evening Star"
+en = "Night Falls ~ Evening Star"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "八云紫",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "博丽神社",
+]
+
+[soundtrack-list.composer]
+ja = "ELEMENTAS([[A-One]])"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    18,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[八云紫]]角色曲",
+    "[[博丽神社|异变的神社]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "夜幕降临　～ Evening Star"
+page = "夜幕降临　～ Evening Star"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "地の色は黄色　～ Primrose"
+zh-hans = "地之色乃黄色　～ Primrose"
+en = "The Ground's Color is Yellow ~ Primrose"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "博丽神社",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに\n<small>{{乐器演奏列表|演奏 = にいむ|乐器 = Guitar}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    19,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[博丽神社]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "地之色乃黄色　～ Primrose"
+page = "地之色乃黄色　～ Primrose"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "マッシュルーム・ワルツ"
+zh-hans = "Mushroom·Waltz"
+en = "Mushroom Waltz"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "香霖堂",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    20,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[香霖堂]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Mushroom·Waltz"
+page = "Mushroom·Waltz"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "聖輦船空を往く"
+zh-hans = "圣辇船飞向天空"
+en = "The Palanquin Ship Flies in the Sky"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "圣辇船",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    21,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[圣辇船|云上的宝船]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "圣辇船飞向天空"
+page = "圣辇船飞向天空"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "法力の下の平等"
+zh-hans = "法力之下的平等"
+en = "Equality Under the Law of Dharma"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "命莲寺",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    22,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[命莲寺]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "法力之下的平等"
+page = "法力之下的平等"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "恒常不変の参廟祀"
+zh-hans = "恒常不变的参庙祀"
+en = "Constant and Unchanging Temple of Worship"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "梦殿大祀庙",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに\n<small>{{乐器演奏列表|演奏 = 荒井英里也|乐器 = Cello}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    23,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[梦殿大祀庙]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "恒常不变的参庙祀"
+page = "恒常不变的参庙祀"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "光輝く天球儀"
+zh-hans = "光辉的天球仪"
+en = "Shining Armillary Sphere"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "神灵庙（场景）",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに\n<small>{{乐器演奏列表|演奏 = にいむ|乐器 = Guitar}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    24,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[神灵庙（场景）|神灵庙]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "光辉的天球仪"
+page = "光辉的天球仪"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "沢の河童の技術力"
+zh-hans = "泽之河童的技术力"
+en = "The Ravine Kappa's Technological Prowess"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "玄武之泽",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    25,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[玄武之泽]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "泽之河童的技术力"
+page = "泽之河童的技术力"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "地底に咲く薔薇"
+zh-hans = "地底绽放的蔷薇"
+en = "A Rose Blooming in the Underworld"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "地灵殿（场景）",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに\n<small>{{乐器演奏列表|演奏 = JUN|乐器 = Violin}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    26,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[地灵殿（场景）|地灵殿]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "地底绽放的蔷薇"
+page = "地底绽放的蔷薇"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "深緑の狸森にて"
+zh-hans = "在深绿的狸森里"
+en = "In the Deep-Green Tanuki Forest"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "妖怪狸森林",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    27,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[妖怪狸森林]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "在深绿的狸森里"
+page = "在深绿的狸森里"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "心綺楼演舞"
+zh-hans = "心绮楼演舞"
+en = "Shinkirou Theatrical"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "人类村落",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    28,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[人类村落]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "心绮楼演舞"
+page = "心绮楼演舞"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "不滅のレッドソウル"
+zh-hans = "不灭的赤魂"
+en = "Immortal Red Soul"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "迷途竹林",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに\n<small>{{乐器演奏列表|演奏 = にいむ|乐器 = Guitar}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    29,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[迷途竹林]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "不灭的赤魂"
+page = "不灭的赤魂"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "落日に映える逆さ城"
+zh-hans = "落日映照下的逆城"
+en = "The Inverted Castle Lit by the Setting Sun"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "辉针城（场景）",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    30,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[辉针城（场景）|辉针城]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "落日映照下的逆城"
+page = "落日映照下的逆城"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "千の試練を超えて"
+zh-hans = "克服万千之试炼"
+en = "Overcome a Thousand Trials"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "华扇的仙界",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    31,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[华扇的仙界]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "克服万千之试炼"
+page = "克服万千之试炼"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "夢世界フォークロア"
+zh-hans = "梦世界民俗"
+en = "Dream World Folklore"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "外界",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    32,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[外界]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "梦世界民俗"
+page = "梦世界民俗"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "永遠に続く回廊"
+zh-hans = "永远延续的回廊"
+en = "Corridor Stretching to Eternity"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "永远亭",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    33,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[永远亭]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "永远延续的回廊"
+page = "永远延续的回廊"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "スリープシープ・パレード"
+zh-hans = "Sleep Sheep·Parade"
+en = "Sleep Sheep Parade"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "梦境世界",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    34,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[梦境世界]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Sleep Sheep·Parade"
+page = "Sleep Sheep·Parade"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "至る有頂天"
+zh-hans = "到达有顶天"
+en = "Bhavaagra as Far as the Eye Can See"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "天界",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    35,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+    "[[天界]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "到达有顶天"
+page = "到达有顶天"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "憑坐は夢と現の間に　～ Necro-Fantasia"
+zh-hans = "凭坐挟于梦境与现实之间　～ Necro-Fantasia"
+en = "Yorimashi Between Dreams and Reality ~ Necro-Fantasia"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "八云紫",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+    "博丽神社",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    36,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[八云紫]]角色曲",
+    "故事模式战斗曲",
+    "[[博丽神社|异变的神社]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "凭坐挟于梦境与现实之间　～ Necro-Fantasia"
+page = "凭坐挟于梦境与现实之间　～ Necro-Fantasia"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers."
+zh-hans = "今宵是飘逸的利己主义者(Live ver)　～ Egoistic Flowers."
+en = "Tonight Stars an Easygoing Egoist (Live ver.) ~ Egoistic Flowers."
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "依神紫苑",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "依神女苑",
+    "&",
+    "故事模式战斗曲",
+    "太阳花田",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    37,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[依神女苑]] & [[依神紫苑]]角色曲",
+    "故事模式战斗曲",
+    "[[太阳花田|太阳花田的演奏舞台]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "今宵是飘逸的利己主义者(Live ver)　～ Egoistic Flowers."
+page = "今宵是飘逸的利己主义者(Live ver)　～ Egoistic Flowers."
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "オカルトアトラクト"
+zh-hans = "Occult Attract"
+en = "Occult Attract"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに\n<small>{{乐器演奏列表|演奏 = にいむ|乐器 = Guitar}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    38,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Occult Attract"
+page = "Occult Attract"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ネオ竹林インフレイム"
+zh-hans = "新竹林大火"
+en = "Neo Bamboo Forest in Flames"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに\n<small>{{乐器演奏列表|演奏 = にいむ|乐器 = Guitar}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    39,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "新竹林大火"
+page = "新竹林大火"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "億万劫の鐘"
+zh-hans = "亿万劫之钟"
+en = "Bell of So Many Aeons"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    40,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "亿万劫之钟"
+page = "亿万劫之钟"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "アンノウンX　～ Occultly Madness"
+zh-hans = "未知物X　～ Occultly Madness"
+en = "Unknown X ~ Occultly Madness"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式最终战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    41,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式最终战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "未知物X　～ Occultly Madness"
+page = "未知物X　～ Occultly Madness"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "憑依投合"
+zh-hans = "凭投依合"
+en = "Being Things Eye To Eye"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    42,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "凭投依合"
+page = "凭投依合"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "連帯責人"
+zh-hans = "连带责人"
+en = "The One Jointly Responsible"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    43,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "连带责人"
+page = "连带责人"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "合縁奇縁"
+zh-hans = "合缘奇缘"
+en = "An Odd Couple"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    44,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "合缘奇缘"
+page = "合缘奇缘"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "異心同体"
+zh-hans = "异心同体"
+en = "Two Minds of One Body"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    45,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "异心同体"
+page = "异心同体"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "壮言大語"
+zh-hans = "豪言壮语"
+en = "Grandiloquence"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    46,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "豪言壮语"
+page = "豪言壮语"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "知略縦横"
+zh-hans = "智略纵横"
+en = "Scheming Outside the Box"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    47,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "智略纵横"
+page = "智略纵横"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "意気揚々"
+zh-hans = "意气洋洋"
+en = "In High Spirits"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    48,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "意气洋洋"
+page = "意气洋洋"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "開演間近"
+zh-hans = "开演在即"
+en = "The Curtain Shall Rise Soon"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    49,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "开演在即"
+page = "开演在即"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "天衣無縫　～ Yellow Lily"
+zh-hans = "天衣无缝　～ Yellow Lily"
+en = "Flawless as Clothing of the Celestials ~ Yellow Lily"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    50,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "天衣无缝　～ Yellow Lily"
+page = "天衣无缝　～ Yellow Lily"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "行雲流水"
+zh-hans = "行云流水"
+en = "Floating with the Tide"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    51,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "行云流水"
+page = "行云流水"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "異変の種子"
+zh-hans = "异变的种子"
+en = "Seeds of the Incident"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    52,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "异变的种子"
+page = "异变的种子"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "疑惑の芽生え"
+zh-hans = "疑惑的萌芽"
+en = "Sprouts of Suspicion"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    53,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "疑惑的萌芽"
+page = "疑惑的萌芽"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "未だ蕾む憑依華"
+zh-hans = "含苞待放的凭依华"
+en = "Possession Flowers Yet to Bud"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに \n<small>{{乐器演奏列表|演奏 = 荒井英里也|乐器 = Cello}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    54,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "含苞待放的凭依华"
+page = "含苞待放的凭依华"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "真相へ繋がる枝葉"
+zh-hans = "通往真相的枝叶"
+en = "Branches Reaching to the Truth"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに\n<small>{{乐器演奏列表|演奏 = JUN|乐器 = Violin}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    55,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "通往真相的枝叶"
+page = "通往真相的枝叶"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "咲き誇る憑依華"
+zh-hans = "争奇斗艳的凭依华"
+en = "Possession Flowers in Full Bloom"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに \n<small>{{乐器演奏列表|演奏 = JUN|乐器 = Violin}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    56,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "争奇斗艳的凭依华"
+page = "争奇斗艳的凭依华"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "舞い散る憑依華吹雪"
+zh-hans = "飞舞飘散的凭依华吹雪"
+en = "Blizzard of Scattering Possession Flowers"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに\n<small>{{乐器演奏列表|演奏 = JUN|乐器 = Violin}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    57,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "飞舞飘散的凭依华吹雪"
+page = "飞舞飘散的凭依华吹雪"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "悠久の蒸気機関"
+zh-hans = "悠久的蒸汽机关"
+en = "The Eternal Steam Engine"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面曲",
+]
+
+[soundtrack-list.composer]
+ja = "Kou Ogata([[k-waves LAB]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = Kou Ogata，Kou Ogata，Kou Ogata，Kou Ogata|乐器 = Tin Wistle，Low Wistle，Concertina，Flat Mandolin}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "凭依华音乐名",
+    58,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "悠久的蒸汽机关"
+page = "悠久的蒸汽机关"
+
+[soundtrack-list.commentary]
+
+[title]
+ja = "東方憑依華 〜 Antinomy of Common Flowers."
+en = "Touhou Hyouibana ~ Antinomy of Common Flowers"
+zh = "東方憑依華 ～ Antinomy of Common Flowers."
+zh-hans = "东方凭依华 ～ Antinomy of Common Flowers."

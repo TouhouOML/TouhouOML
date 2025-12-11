@@ -1,0 +1,744 @@
+threlease = "TH13.5"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "春色小径　～ Colorful Path"
+zh-hans = "春色小径　～ Colorful Path"
+en = "Spring Lane ~ Colorful Path"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "博丽灵梦",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "博丽神社",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[博丽灵梦]]角色曲",
+    "[[博丽神社]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "春色小径　～ Colorful Path"
+page = "春色小径　～ Colorful Path"
+
+[soundtrack-list.commentary]
+ja = "この手のアレンジは、がんばってベースとか色々動かしちゃうとそれっぽくなら\nないので、演奏の力に頼って編曲自体はあんまりがんばらない方向で。\n――がんばったのはそう、過去最多のクラッシュシンバル数。 　　　{{lang|zh|Gt.}}にいむ"
+zh-hans = "这种编曲如果一个劲地使用贝斯之类的话就感觉不像是应有的风格了，所以主要依\n赖于演奏的力量，编曲本身没有进行太大的努力。\n——努力的是，没错，有史以来最多的吊镲数。　　　　　　　　　吉他. にいむ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "メイガスナイト"
+zh-hans = "Magus Night"
+en = "Magus Night"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "雾雨魔理沙",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "人类村落",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[雾雨魔理沙]]角色曲",
+    "[[人类村落]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Magus Night"
+page = "Magus Night"
+
+[soundtrack-list.commentary]
+ja = "今回一番やる気だった曲。でもスウィングの比率の手動変更とか、生音の編集と\nか、面倒な作業が多くて大変。曲のコメント書くのはもっと大変。コメントが無\nかったら、なんとキャラクターカラーの種類が増えるくらい大変。　　　{{lang|zh|Vn.JUN}}"
+zh-hans = "这次最有干劲的曲子。不过swing比例的手动变更，录制音乐的编辑之类的，麻烦\n的工作太多了，很辛苦。写曲子的评论更辛苦。如果不写曲评估计角色的颜色样式\n还会更多，就是这么麻烦。　　　　　　　　　　　　　　　　　小提琴. ＪＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "時代親父とハイカラ少女"
+zh-hans = "守旧老爹与前卫少女"
+en = "The Traditional Old Man and the Stylish Girl"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "云居一轮",
+    "云山",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "云上的宝船",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[云居一轮]]&[[云山]]角色曲",
+    "[[云上的宝船]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "守旧老爹与前卫少女"
+page = "守旧老爹与前卫少女"
+
+[soundtrack-list.commentary]
+ja = "イントロからして方向性がすぐ決まったので割とあっさりと。今回は全体的に弦\n楽器の演奏に配慮して＃系の調が多いけど、自分は金管出身なのでどうも＃は使\nいづらい。この曲もつらい。HとかFisとか。なぜこの調にしてしまったのか。"
+zh-hans = "从前奏就已经决定好方向性了，所以意外地很轻松。这次在整体上考虑了弦乐器的\n演奏所以＃系的调子比较多，但因为自己是铜管乐出身所以无论如何＃都很难用。\n这首曲子也很难。H还有Fis之类的。为什么要弄成这个调子呢。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "感情の摩天楼　～ Cosmic Mind"
+zh-hans = "感情的摩天楼　～ Cosmic Mind"
+en = "Emotional Skyscraper ~ Cosmic Mind"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "圣白莲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "命莲寺",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[圣白莲]]角色曲",
+    "[[命莲寺]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "感情的摩天楼　～ Cosmic Mind"
+page = "感情的摩天楼　～ Cosmic Mind"
+
+[soundtrack-list.commentary]
+ja = "作りやすい楽器で作ったら、どういうジャンルのアレンジか分からないことに。\nゲーム音楽らしいと言えばそうかもしれない。フレーズも多くてアレンジしやす\nいはずなのに、最後の方に作ったのでちょっとネタ切れ気味。　　　 {{lang|zh|Gt.}}にいむ"
+zh-hans = "利用易于制作的乐器制作之后，就搞不懂这个到底是什么体裁的编曲了。所谓的游\n戏音乐或许就是这样子。明明乐句很多编曲应该很容易，但是因为是最后制作的所\n以感觉灵感有些耗尽了。　　　　　　　　　　　　　　　　　　　吉他. にいむ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "大神神話伝"
+zh-hans = "大神神话传"
+en = "Omiwa Legend"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "物部布都",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "梦殿大祀庙",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[物部布都]]角色曲",
+    "[[梦殿大祀庙]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "大神神话传"
+page = "大神神话传"
+
+[soundtrack-list.commentary]
+ja = "今回のまったりゆっくり枠。そうするつもりは無かったのに、アコーディオンの\nせいだろうか。この曲、意外と元フレーズが少なくて困る。書くことも無くて困\nる。布都ちゃんはかわいいって書いて埋めるしかない。埋まった。 　{{lang|zh|Gt.}}にいむ"
+zh-hans = "这次是悠闲安稳的BGM。原本是不想做成这样的，可能是手风琴的原因吧。这个曲\n子，意外地没有多少乐句，很令人困扰。想写的东西也没有多少，很令人困扰。只\n能写布都好可爱这样的话凑字数了。凑上了。　　　　　　　　　　吉他. にいむ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "聖徳伝説　～ True Administrator"
+zh-hans = "圣德传说　～ True Administrator"
+en = "Shoutoku Legend ~ True Administrator"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "丰聪耳神子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "神灵庙",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[丰聪耳神子]]角色曲",
+    "[[神灵庙]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "圣德传说　～ True Administrator"
+page = "圣德传说　～ True Administrator"
+
+[soundtrack-list.commentary]
+ja = "当初予定してた演出を断念したため、楽器編成がちょっと歪な感じに。基本的に\n使う楽器は少ない方がいいね。てきとうにパッドを和音で鳴らすとか甘えだね！\n短３度上の転調とか甘えだね！！　時間が無いと甘えるよ！！！　　 {{lang|zh|Gt.}}にいむ"
+zh-hans = "因为放弃了当初预定的特效，所以感觉乐器编组有点走形了。基本上乐器使用得还\n是越少越好呢。适当地用合成背景音色演奏和音只是撒娇而已！小三度上的转调也\n是撒娇！！　没有时间我就会撒娇！！！　　　　　　　　　　　　吉他. にいむ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "芥川龍之介の河童　～ Candid Friend"
+zh-hans = "芥川龙之介的河童　～ Candid Friend"
+en = "Akutagawa Ryuunosuke's \"Kappa\" ~ Candid Friend"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "河城荷取",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "玄武涧",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[河城荷取]]角色曲",
+    "[[玄武涧]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "芥川龙之介的河童　～ Candid Friend"
+page = "芥川龙之介的河童　～ Candid Friend"
+
+[soundtrack-list.commentary]
+ja = "アレンジした中で、一番最初に作って一番最後にできた曲がこちらになります。\n結構速くて運指が大変かと思ってたら意外といけてて、ブレスの位置の方が問題\nだったという。木管奏者への配慮が足りない。　　　　　　　 {{lang|zh|Fl. tmy Cl. ryo}}"
+zh-hans = "在改编的曲子中，最先开始制作而最后完成的曲子就是这首。原本觉得因为特别快\n所以感觉运指会很困难，但是意外地很不错，倒是换气的位置好像有些问题。果然\n我对木管演奏者考虑得太少了。　　　　　　　　长笛. ｔｍｙ　单簧管. ｒｙｏ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ハルトマンの妖怪少女"
+zh-hans = "哈德曼的妖怪少女"
+en = "Hartmann's Youkai Girl"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "古明地恋",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "地灵殿",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[古明地恋]]角色曲",
+    "[[地灵殿]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "哈德曼的妖怪少女"
+page = "哈德曼的妖怪少女"
+
+[soundtrack-list.commentary]
+ja = "元曲フレーズ少ないのほんと勘弁なー。バイオリンさんは色々無茶言ってもなぜ\nか弾いてくれちゃうので特に配慮しないけど。でも今回はスウィングとか変拍子\nとか大変だったらしい。がんばってくれた！　曲数も多いしね。　　　　{{lang|zh|Vn.JUN}}"
+zh-hans = "原曲的乐句太少真是太令人困扰了～。拉小提琴的人不知道为什么提出什么样的无\n理要求都会拉出来，所以没什么太多要担心的。只是这次好像swing和变拍子特别\n麻烦。真是辛苦了！　曲数也很多啊。　　　　　　　　　　　　小提琴. ＪＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "佐渡の二ッ岩"
+zh-hans = "佐渡的二岩"
+en = "Futatsuiwa from Sado"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "二岩猯藏",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "妖怪狸森林",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{二岩}}]]角色曲",
+    "[[妖怪狸森林]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "佐渡的二岩"
+page = "佐渡的二岩"
+
+[soundtrack-list.commentary]
+ja = "イントロが俺にサンバにしろと囁いていたため、このようなアレンジに。\n実際の作業に取り掛かるまで、ずっと頭の中で反芻してたのですぐできた！\nいつもこうだと楽なんだけどね！"
+zh-hans = "因为前奏告诉我一定要做成桑巴，所以就成了这样的编曲。\n因为在开始实际的工作之前就已经在脑中反刍过好几遍了，所以立刻完成了！\n如果总能这样就轻松了！\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻想郷の二ッ岩"
+zh-hans = "幻想乡的二岩"
+en = "Futatsuiwa from Gensokyo"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "二岩猯藏",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "妖怪狸森林",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{二岩}}]]角色曲",
+    "[[妖怪狸森林]]（夜）",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻想乡的二岩"
+page = "幻想乡的二岩"
+
+[soundtrack-list.commentary]
+ja = "何か判った風で偉そうにしているマミゾウ。\nでもその実体は面白そうな事につい顔を出してしまうだけの妖怪です。\n曲にはストーリーとほぼ無関係であるというイメージを持たせました。"
+zh-hans = "看起来像是知道了什么而洋洋得意的猯藏。\n但是实质上就是一个见到有趣的事情就要插一脚的妖怪而已。\n曲子给人一种和故事基本无关的印象。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "亡失のエモーション"
+zh-hans = "亡失的情感"
+en = "The Lost Emotion"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "秦心",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "人类村落",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[秦心]]角色曲",
+    "[[人类村落]]（夜）",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "亡失的情感"
+page = "亡失的情感"
+
+[soundtrack-list.commentary]
+ja = "感情が失われた丑三つ時。無表情の人間が里を徘徊する。\nラストはちょっぴりホラー展開ですが、曲はノリノリになりました。\n絶望って程じゃ無いよねぇ、色々と。"
+zh-hans = "丢失了情感的丑时三刻。面无表情的人类在村庄中徘徊。\n虽然最后来说是有点恐怖向的开展，但是曲子还是很轻快的。\n绝对称不上是绝望吧，各种意义上。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "塵界不変のペシミズム"
+zh-hans = "尘世不变的悲观主义"
+en = "This Dull World's Unchanging Pessimism"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "OP主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "OP主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "尘世不变的悲观主义"
+page = "尘世不变的悲观主义"
+
+[soundtrack-list.commentary]
+ja = "おのけい先生の絵巻物スクロール演出とセットで作った曲。リアル巻物は例大祭\nで展示しているはずですがご覧頂けましたでしょうか？　自分はまだ巻物になっ\nた状態を見てないけど、きっと作ってくれているはず。　　　　　　　　{{lang|zh|Vn.JUN}}"
+zh-hans = "和おのけい老师的绘卷滚动演出相搭配的曲子。真正的卷轴应该在例大祭的时候展\n示了，不知道大家有没有看到呢？　我自己虽然还没看到卷轴是什么样子，但是肯\n定是制作了的。　　　　　　　　　　　　　　　　　　　　　　小提琴. ＪＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "心綺楼囃子"
+zh-hans = "心绮楼囃子"
+en = "Shinkirou Orchestra"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "心绮楼囃子"
+page = "心绮楼囃子"
+
+[soundtrack-list.commentary]
+ja = "メインテーマと見せかけて、他に一曲しかこのフレーズを使ってない謎曲。\n曲的に囃子じゃないけどそう言い張る構え。和太鼓入ってるしね！この曲はタ\nイトル以外で使ってる場所が、本来の用途かもしれない。　　　　　　　{{lang|zh|Vn.JUN}}"
+zh-hans = "看起来是个主题曲，但是除此之外只有一首曲子使用了这个乐句的谜曲。\n曲子上来说虽然不是囃子但是就这么说了。毕竟里面可是有和太鼓的！ 这首曲子\n除了标题之外使用的地方或许才是它原本的用途。　　　　　　　小提琴. ＪＵＮ\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "人気のある場所"
+zh-hans = "有人气的场所"
+en = "A Popular Location"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲1",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲1",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "有人气的场所"
+page = "有人气的场所"
+
+[soundtrack-list.commentary]
+ja = "汎用的な曲として作ったら、なんか使い勝手がよすぎて他に曲がいらなくなって\nしまった。飽きるかもしれないけど勘弁な！　密かにちゃんとＡＢサビ的なとこ\nろまで作ってあるけど、そこまで聞かれることはあんまり無い会話曲の宿命。"
+zh-hans = "本来是作为泛用的曲子来制作的，结果因为太好用了不再需要别的曲子了。虽然大\n家可能厌倦了不过请多多谅解！我虽然有悄悄的制作了AB段副歌段，但是应该很少\n有人能听到那里，这就是对话曲的宿命。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "人気のない場所"
+zh-hans = "无人气的场所"
+en = "An Unpopular Location"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲2",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲2",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "无人气的场所"
+page = "无人气的场所"
+
+[soundtrack-list.commentary]
+ja = "違った感じのところ用なので、三拍子にしてちょっと違った感じを演出。\n曲名の「人気」の読み方は「にんき」「ひとけ」どちらでも。"
+zh-hans = "因为是用在气氛不太一样的地方，所以通过变为三拍子演出了不同的感觉。\n曲名中「人气」既可以理解成「受欢迎程度」也可以认为是「人的气息」。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "丑三つ時の里"
+zh-hans = "丑时三刻的村落"
+en = "The Village in the Dead of Night"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "秦心",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "与[[秦心]]战斗前的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "丑时三刻的村落"
+page = "丑时三刻的村落"
+
+[soundtrack-list.commentary]
+ja = "今回は気持ち悪い感じで、あんまり盛り上げないボス前曲。どこからボス曲に切\nり替わっても、そこそこ大丈夫なように作っておいたのに、結局無音が曲の間に\n挟まれたので、別にそういう配慮はいらなかったという悲しい思い出。"
+zh-hans = "这次是通过诡异的气氛，让人无法激动起来的BOSS前曲子。本来是设计成了无论什\n么时候切换成BOSS曲都没什么问题的曲子，但最终衔接两首曲子的是一段静寂，这\n种顾虑根本不需要，真是令人悲伤的回忆。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "本日の一面記事"
+zh-hans = "本日的头版头条"
+en = "Today's Front-Page Headline"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "获胜的主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "获胜的主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "本日的头版头条"
+page = "本日的头版头条"
+
+[soundtrack-list.commentary]
+ja = "ＶＳモード時に表示される新聞の見出しは、ランダムでそこそこ種類あるから、\n全部見るのは大変だぞ！　表示された後、キャラが出てきて見にくくなるので、\nいい感じのタイミングでがんばってスクリーンショットを撮って確認しよう！"
+zh-hans = "在对战模式中显示的新闻标题，因为是随机的而且有不少种类，想要看全是非常难\n的！在报纸显示以后角色就会出现挡住标题，所以在恰当的时机努力进行截图来确\n认吧！\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "暁雲"
+zh-hans = "晓云"
+en = "Morning Clouds"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    18,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "晓云"
+page = "晓云"
+
+[soundtrack-list.commentary]
+ja = "いつもの通りの系統の素直なエンディング曲。\nポジション的に、ゲーム全体の盛り上がり曲線の谷に当たる場所。\n遅いテンポの曲は演奏してもらうと効果が大きい。おいしい。　{{lang|zh|Vc.}} 荒井英理也"
+zh-hans = "和以往风格相同的率直结尾曲。\n在位置上，是游戏整体的高潮曲线那相对低谷的地方。\n节奏很慢的曲子被演奏出来之后效果都很不错。美味。　　　大提琴. 荒井英理也\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "官板黄昏新聞"
+zh-hans = "官板黄昏新闻"
+en = "Officially-Sanctioned Twilight Newspaper"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "心绮楼音乐名",
+    19,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "官板黄昏新闻"
+page = "官板黄昏新闻"
+
+[soundtrack-list.commentary]
+ja = "五拍子たのしい！　スタッフロール演出たのしい！　曲よりも画像作る方が大変\nだった気もするけど満足。こちらの新聞にランダム要素はありません。でも３秒\nくらいしか表示されないので、中身が気になる人はいい感じのタ　      {{lang|zh|Vn.JUN}}"
+zh-hans = "五拍子好有趣！　制作人员名单特效好有趣！虽然感觉和曲子比起来制作图像要麻\n烦得多但还是很满足。在这个新闻中没有随机要素。但因为只会显示3秒左右，所\n以感兴趣的人就在恰当的时机（ry　　　　　　　　　　　　　　小提琴. ＪＵＮ"
+
+[title]
+ja = "東方心綺楼 〜 Hopeless Masquerade."
+en = "Touhou Shinkirou ~ Hopeless Masquerade"
+zh = "東方心綺樓 ～ Hopeless Masquerade."
+zh-hans = "东方心绮楼 ～ Hopeless Masquerade."

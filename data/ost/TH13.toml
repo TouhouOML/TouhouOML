@@ -1,0 +1,657 @@
+threlease = "TH13"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "欲深き霊魂"
+zh-hans = "欲望深重的灵魂"
+en = "Spirit of Avarice"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "欲望深重的灵魂"
+page = "欲望深重的灵魂"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\nいつものメロディです。今回はダーク色多めでお送りします。\nＳＴＧはポップな世界観よりダークな方が好まれる傾向にある\n気がします。\nこのゲームは全く持ってダークじゃないんですけどね。"
+zh-hans = "这是标题画面的主题曲。\n\n一如既往的旋律。这次送给大家的是更浓的黑暗色彩。\n我总有感觉比起通俗的世界观来，黑暗色彩的ＳＴＧ\n会更受到好评。\n不过本游戏倒是一点也不黑暗就是了。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "死霊の夜桜"
+zh-hans = "死灵的夜樱"
+en = "Night Sakura of Dead Spirits"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "死灵的夜樱"
+page = "死灵的夜樱"
+
+[soundtrack-list.commentary]
+ja = "１面のテーマです。\n\n久々の冥界入りですね。今回のテーマは妖々夢と星蓮船の世界、\n両方に関わってくるのでやはり冥界を外せませんでした。\nメロディアスな曲ですが、一面の曲と言う事を忘れないように\nリズミカルに刻んでみました。"
+zh-hans = "１面的主题曲。\n\n阔别了好久的冥界呢。本次的主题是妖妖梦和星莲船的世界，\n因为和两边都有关系所以冥界肯定是不能不提的。\n虽然是一首旋律优美的曲子，但为了让人不要忘记是一面曲\n所以试着加重了节奏感。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ゴーストリード"
+zh-hans = "Ghost Lead"
+en = "Ghost Lead"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "西行寺幽幽子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[西行寺幽幽子]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Ghost Lead"
+page = "Ghost Lead"
+
+[soundtrack-list.commentary]
+ja = "西行寺 幽々子のテーマです。\n\nとにかく立ち位置の難しい曲でした。\nゲーム的に一面ボスらしさを出さないといけないので、前の曲の\nアレンジとかそういう方向は止めました。\n今回は主人公達にヒントを与える、ただの町人Ａになっています。"
+zh-hans = "西行寺幽幽子的主题曲。\n\n总之是个定位很难处理的曲子。\n就游戏方面来说必须得突出一面BOSS的感觉，所以首先就\n放弃了以前曲子的混音版本。\n这次是为了给主人公们一些提示，就是个单纯的路人甲。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖怪寺へようこそ"
+zh-hans = "欢迎来到妖怪寺"
+en = "Welcome to Youkai Temple"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "欢迎来到妖怪寺"
+page = "欢迎来到妖怪寺"
+
+[soundtrack-list.commentary]
+ja = "２面のテーマです。\n\n朝のお寺って静かで良いんですけどね。\nでも妖怪の住まうお寺は、夜から明け方の方が騒がしいのです。\nお寺に妖怪なんて色々イメージが湧きますよね。\nそのイメージを生かして、自分なりの和風曲に仕上げました。"
+zh-hans = "２面的主题曲。\n\n早晨的寺庙无比寂静真是好啊。\n不过妖怪们居住的寺庙，从夜晚到凌晨的时段却最热闹。\n说到寺庙里住着妖怪就让人浮想联翩呢。\n善用那些心中的印象，就做成了有自己风格的和风的曲子。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "門前の妖怪小娘"
+zh-hans = "寺门前的妖怪小姑娘"
+en = "Youkai Girl at the Gate"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "幽谷响子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[幽谷响子]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "寺门前的妖怪小姑娘"
+page = "寺门前的妖怪小姑娘"
+
+[soundtrack-list.commentary]
+ja = "幽谷 響子のテーマです。\n\n今の人でも山に行ってヤッホーって言いますかね？\n意外と恥ずかしくて大声出せなかったりしませんか？\n山彦も暇でしょうねぇ。そりゃ仏門にも入りますよ。\nちなみに海に行ってバカヤローとか叫ぶと漁師さんが驚きます。"
+zh-hans = "幽谷响子的主题曲。\n\n现在的人们就算去爬山还会不会再大喊Yahoo——了呢？\n会不会因为害羞而没办法放声大喊了呢？\n山彦也闲得发慌了啊。那可不是要皈依佛门去了嘛。\n顺便一提我去海边的时候大喊“混帐东西”把渔夫先生吓了一跳。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "素敵な墓場で暮しましょ"
+zh-hans = "在美妙的墓地里住下吧"
+en = "Let's Live in a Lovely Cemetery"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "在美妙的墓地里住下吧"
+page = "在美妙的墓地里住下吧"
+
+[soundtrack-list.commentary]
+ja = "３面のテーマです。\n\nゲームに出てくる墓場って言うと、ホラーじゃない限りコミカルな\n物を想像してしまいます。あんまり重くなり過ぎてもアレですしね。\nですので出来るだけコミカルな感じに仕上げました。\n懐かしい感じがたまりません（個人的にも）"
+zh-hans = "３面的主题曲。\n\n说到在游戏里登场的墓地，只要不是恐怖游戏基本上内容都会\n让人产生很多喜感的想象。要是搞得太沉重了也确实挺那个的呢。\n因此本曲就做得尽可能喜感了。\n怀旧之感让人感到情不自禁啊（就个人而言也是）\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "リジッドパラダイス"
+zh-hans = "Rigid Paradise"
+en = "Rigid Paradise"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "宫古芳香",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[宫古芳香]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Rigid Paradise"
+page = "Rigid Paradise"
+
+[soundtrack-list.commentary]
+ja = "宮古 芳香のテーマです。\n\nキョンシーといえど、基本はゾンビなのでそれっぽいエキゾチック\nなイントロにしてみました。しかしこの曲を書いていて途中で気付\nいたのですが、イントロはピラミッド風って感じですよね。\nそれってゾンビじゃなくてミイラなんじゃないかと……"
+zh-hans = "宫古芳香的主题曲。\n\n说起僵尸，基本来说都让人想到丧尸所以就试着加入了\n异域风格的前奏。不过这曲子写到一半的时候我突然就\n注意到一件事，这前奏给人一种金字塔风格的感觉呢。\n那不就不是丧尸而变成了木乃伊了吗……\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "デザイアドライブ"
+zh-hans = "Desire Drive"
+en = "Desire Drive"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Desire Drive"
+page = "Desire Drive"
+
+[soundtrack-list.commentary]
+ja = "４面のテーマです。\n\n前半面とうって変わって流れる様な曲にしました。\n狭い空間を猛スピードでかけるのは気持ちいいですよね。\nでも洞窟では良いけど、学校や会社では走らないように。\n洞窟って良いね。（鍾乳洞でも走ってはいけません）"
+zh-hans = "４面的主题曲。\n\n这首曲子跟前半面截然不同,有着像是\"唰的一下就过去了\"的流畅感。\n在狭窄的空间中超高速疾驰的感觉真是非常舒服呢。\n不过虽然洞窟内无所谓，但在学校和公司内可不要奔跑。\n洞窟真好呢。（在钟乳洞内也不能够奔跑）\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "古きユアンシェン"
+zh-hans = "古老的元神"
+en = "Old Yuanxian"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "霍青娥",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "[[霍青娥]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "古老的元神"
+page = "古老的元神"
+
+[soundtrack-list.commentary]
+ja = "霍 青娥のテーマです。\n\n邪仙です。色んな術を使う手品師みたいなもんです。\nそんな処から怪しくて何が飛び出すのか判らない様な曲にしました。\n壁抜けの能力は逃げるのには便利そうですけど、余り直接戦闘向き\nじゃないですね。ぬりかべにはクリティカルですけどね。"
+zh-hans = "霍青娥的主题曲。\n\n她是个邪仙。使用各种法术就像个魔术师一样。\n这首曲子我就做成了那种无比妖异而且不知道从她那里会冒出什么的感觉。\n穿墙的能力虽然在逃跑的时候非常方便，不过很不适合\n直接战斗呢。虽然对涂壁妖怪会造成会心一击。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "夢殿大祀廟"
+zh-hans = "梦殿大祀庙"
+en = "The Hall of Dreams' Great Mausoleum"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "梦殿大祀庙"
+page = "梦殿大祀庙"
+
+[soundtrack-list.commentary]
+ja = "５面のテーマです。\n\n狭い洞窟を駆け抜けてきたので、今度は対照的に空間的に広がりを\n感じる曲にしました。\n地底に大空間があったりすると興奮しますよね。\nそんな人間の高揚感を感じられるといいなあと思って作りました。"
+zh-hans = "５面的主题曲。\n\n因为已经穿过了狭窄的洞窟，所以这次就做成了空间感相对宽敞\n风格的曲子。\n如果地底有个大空间就会让人感觉很兴奋呢。\n想着大家要是能自发地感受到那种人类的兴奋感就好了一边做完了曲子。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "大神神話伝"
+zh-hans = "大神神话传"
+en = "Omiwa Legend"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "物部布都",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面BOSS",
+    "[[物部布都]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "大神神话传"
+page = "大神神话传"
+
+[soundtrack-list.commentary]
+ja = "物部 布都のテーマです。\n\n物部さんですから曲の読み方は「おおみわしんわでん」です。\n時代物でも、古墳時代から飛鳥時代をテーマにしたゲームって少な\nい気がします。イメージが湧かないからかな？\nこの曲は、飛鳥っていう響きだけでイメージしました。あすかー！"
+zh-hans = "物部布都的主题曲。\n\n因为是物部的曲子所以读法就应该是「Oomiwashinwaden」。\n就算是时代故事，我也总感觉以古坟时代到飞鸟时代为主题的\n游戏相当稀少啊。是因为难以产生想象吗？\n这首曲子，光飞鸟这个读音就让我产生想象了。Asuka——！\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "小さな欲望の星空"
+zh-hans = "小小欲望的星空"
+en = "Starry Sky of Small Desires"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "小小欲望的星空"
+page = "小小欲望的星空"
+
+[soundtrack-list.commentary]
+ja = "６面のテーマです。\n\n大体６面まで来るとヘトヘトなのでここは繋ぎの曲で。\n位置的に何処にいるのかさっぱり不明ですが、きっと夢殿大祀廟の\n中なんでしょう。あの不思議空間。"
+zh-hans = "６面的主题曲。\n\n一般打到６面之后都已经精疲力尽所以这里是个过渡用的曲子。\n虽然就位置来说完全搞不清楚具体在哪里，但一定是在梦殿大祀庙\n当中不会错吧。那个不可思议的空间。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "聖徳伝説　～ True Administrator"
+zh-hans = "圣德传说　～ True Administrator"
+en = "Shoutoku Legend ~ True Administrator"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "丰聪耳神子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面BOSS",
+    "[[丰聪耳神子]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "圣德传说　～ True Administrator"
+page = "圣德传说　～ True Administrator"
+
+[soundtrack-list.commentary]
+ja = "豊聡耳の神子のテーマです。\n\n知らない人はいない歴史上の偉人がモチーフになっています。\n曲は力強く、そして格好良くなければ失礼だと思ったのでこんな感じに。\n最近になって急に架空の人物にされかかっていますが、そんな事も\nあって幻想郷にお引っ越しして頂きました。ありがたやー"
+zh-hans = "丰聪耳神子的主题曲。\n\n无人不知无人不晓的历史伟人就是这个角色的原型。\n曲子方面，我觉得不做得又强劲又帅气会很失礼所以就变成这种感觉。\n最近突然开始被人们认为是个架空的人物，既然如此那我就\n请他搬家来到幻想乡中了。神明保佑啊——\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖怪裏参道"
+zh-hans = "后院的妖怪参拜道"
+en = "Youkai Back Shrine Road"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "后院的妖怪参拜道"
+page = "后院的妖怪参拜道"
+
+[soundtrack-list.commentary]
+ja = "エキストラステージのテーマです。\n\n如何にもレトロな妖怪が出そうな参道というイメージで。\n妖怪達はどんな時も楽しそうですよね。\nそれは妖怪の存在意義がハッキリしていて迷いが無いからでしょう。\nならば、楽しく生きる方法は一つ。今のままを受け入れるのじゃ。"
+zh-hans = "ExtraStage的主题曲。\n\n这首给人一种绝对会有复古的妖怪出现的参拜之道的印象。\n妖怪们不管什么时候都感觉很快乐呢。\n那是因为妖怪自身的存在意义非常明确所以没有迷惘的缘故吧。\n那么，要快乐的生活方法只有一个。那就是接受目前的现状。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "佐渡の二ッ岩"
+zh-hans = "佐渡的二岩"
+en = "Futatsuiwa from Sado"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "二岩猯藏",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[{{二岩}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "佐渡的二岩"
+page = "佐渡的二岩"
+
+[soundtrack-list.commentary]
+ja = "二ッ岩 マミゾウのテーマです。\n\n狸感たっぷりに仕上げました。\n狸も狐も人を化かすイメージで被りますが、狸の方がのんびりして\nいるイメージなんですよね。だから弾幕戦闘には向かないかと思い\nましたが、案の定、弾幕は何か別の物に変化して……。"
+zh-hans = "{{二岩}}的主题曲。\n\n做得非常有狸猫的感觉。\n虽然在变成人这一点上狸猫和狐狸感觉重复了，但狸猫更给人一\n种悠闲自得的感觉呢。虽然说我觉得会不会因此而太适应弹幕战\n斗的方式，果不其然，弹幕开始变化成了其他的东西……。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "神社の新しい風"
+zh-hans = "神社的新风"
+en = "A New Wind at the Shrine"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "神社的新风"
+page = "神社的新风"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n\nかるーくエンディングです。\nそれにしても最近異変解決していないね、霊夢達。"
+zh-hans = "Ending的主题曲。\n\n轻轻松松的Ending。\n不过话说回来最近都没怎么解决异变呢，灵梦她们。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "デザイアドリーム"
+zh-hans = "Desire Dream"
+en = "Desire Dream"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "神灵庙音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Desire Dream"
+page = "Desire Dream"
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\n\nデザイアドライブの別バージョンです。\nスビード感は少なくなったけど、浮遊感が生まれているかな。\n最近、スタッフロールの存在意義が危ぶまれています。"
+zh-hans = "职员表的主题曲。\n\n这是Desire Drive的另一个版本。\n虽然速度感降低了，不过却产生浮游感了吧。\n最近，职员表的存在意义已经产生了严重的危机。\n"
+
+[title]
+ja = "東方神霊廟 〜 Ten Desires."
+en = "Touhou Shinreibyou ~ Ten Desires"
+zh = "東方神靈廟 ～ Ten Desires."
+zh-hans = "东方神灵庙 ～ Ten Desires."

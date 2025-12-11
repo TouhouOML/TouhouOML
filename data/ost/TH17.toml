@@ -1,0 +1,657 @@
+threlease = "TH17"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "物言わぬ獣の霊"
+zh-hans = "沉默的兽灵"
+en = "Silent Beast Spirits"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "沉默的兽灵"
+page = "沉默的兽灵"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\nダークさとミステリアスさを入れたタイトル画面です。\n行き先が地獄だと言われているので、先が思いやられる感じです。"
+zh-hans = "标题画面的主题曲。\n\n加入了黑暗与神秘氛围的标题画面。\n毕竟说了目的地是地狱，所以有种前途多舛的感觉。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "地蔵だけが知る哀嘆"
+zh-hans = "只有地藏知晓的哀叹"
+en = "The Lamentations Known Only by Jizo"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "只有地藏知晓的哀叹"
+page = "只有地藏知晓的哀叹"
+
+[soundtrack-list.commentary]
+ja = "１面のテーマです。\n\n子供の霊イジメで有名な賽の河原の曲です。\n今まで１面というと明るめの曲が多かったのですが、今回は\nどちらかというと哀愁を感じるようなメロディにしてみました。\n東方らしい死生観が出ているかと思います。\n"
+zh-hans = "1面的主题曲。\n\n以欺负小孩子的灵闻名的赛之河原的曲子。\n迄今为止说到1面很多都是较为欢快的曲子，但这次\n反其道而行之，使用了让人能够感到哀愁的旋律。\n我认为这首歌表现出了有东方风格的生死观。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ジェリーストーン"
+zh-hans = "Jelly Stone"
+en = "Jelly Stone"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "戎璎花",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[戎璎花]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Jelly Stone"
+page = "Jelly Stone"
+
+[soundtrack-list.commentary]
+ja = "戎 瓔花（えびす えいか）のテーマです。\n\n石を積むのがとても得意な水子の曲です。\nダークなイントロから、子供らしい軽快なメロディへと続ける\nかわいらしい曲です。\nクラゲらしいホワホワ感も入れてみています。"
+zh-hans = "戎璎花的主题曲。\n\n是非常擅长垒石头的水子的曲子。\n从黑暗的前奏开始，继而成为如小孩子一般轻快的旋律，\n是一首惹人怜爱的曲子。\n我也加入了水母一般的轻飘飘的感觉。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ロストリバー"
+zh-hans = "Lost River"
+en = "Lost River"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Lost River"
+page = "Lost River"
+
+[soundtrack-list.commentary]
+ja = "２面のテーマです。\n\nみんな大好き三途の河のテーマです。\n河と言うよりは海での戦闘をイメージして作りました。\n住んでいる魚も、絶滅した古代魚や、首長竜なんかもいるかも\nしれません。夢が膨らみます。"
+zh-hans = "2面的主题曲。\n\n人见人爱三途河的主题曲。\n比起河，不如说是以海上的战斗为印象创作了这首曲子。\n栖息在水中的鱼类，可能也包含已经灭绝的古代鱼，\n甚至是蛇颈龙。真是让人浮想联翩。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "石の赤子と水中の牛"
+zh-hans = "石之婴儿与水中牛"
+en = "The Stone Baby and the Submerged Bovine"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "牛崎润美",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[牛崎润美]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "石之婴儿与水中牛"
+page = "石之婴儿与水中牛"
+
+[soundtrack-list.commentary]
+ja = "牛崎 潤美（うしざき うるみ)のテーマです。\n\nホラーにならないダークさを目指した曲です。\n彼女は見た感じお姉さんキャラなので、ほんの少しだけ落ち着いた\n感じを入れてみました。\nこのゲームらしい曲になったと思います。"
+zh-hans = "牛崎润美的主题曲。\n\n以不到恐怖程度的黑暗为目标创作的曲子。\n她看起来是个姐姐属性的角色，所以稍稍\n加入了一些沉着感。\n我认为这是一首符合这部游戏的曲子。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "不朽の曼珠沙華"
+zh-hans = "不朽的曼珠沙华"
+en = "Everlasting Red Spider Lily"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "不朽的曼珠沙华"
+page = "不朽的曼珠沙华"
+
+[soundtrack-list.commentary]
+ja = "３面のテーマです。\n\n三途の川を渡ったら、その先は死者の世界です。\n東方らしいあの世を表現しました。和風とも中華風とも付かない\n東アジア風のノスタルジーに満ちた幻想的な死後の世界に、\n弾幕戦闘を持ち込むとこういう感じなのかなぁ。"
+zh-hans = "3面的主题曲。\n\n渡过三途川，就是属于死者的世界了。\n这首曲子表现了有东方风格的彼世。设想一个满载幻想感的\n死后世界，洋溢着既非和风亦非中华风的东亚风格的怀旧感，\n在这样一个世界里引入弹幕战斗，大概就是这种感觉了吧。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "セラフィックチキン"
+zh-hans = "Seraphic Chicken"
+en = "Seraphic Chicken"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "庭渡久侘歌",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[庭渡久侘歌]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Seraphic Chicken"
+page = "Seraphic Chicken"
+
+[soundtrack-list.commentary]
+ja = "庭渡 久侘歌（にわたり くたか）のテーマです。\n\n鶏の神様です。現実でもフィクションでも、食材か悪口にしかなら\nない事が多い鶏ですが、この世界ではかなり高貴な神様のようです。\n鶏の歩き方っぽい突っかかり感と、急に強くなる中盤の大ボス感を\n混ぜて、このゲームっぽく仕上げをしました。どうぞ召し上がれ。"
+zh-hans = "庭渡久侘歌的主题曲。\n\n鸡神。不管在现实中还是在创作中，鸡要么是食材要么拿来骂人，\n但在这个世界里似乎是很高贵的神明。\n我混合了鸡走路时头一伸一伸的感觉和突然开始变强的游戏中盘的\n大BOSS的感觉，并让曲子有了符合这部游戏的感觉。大家请慢用。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "アンロケイテッドヘル"
+zh-hans = "Unlocated Hell"
+en = "Unlocated Hell"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Unlocated Hell"
+page = "Unlocated Hell"
+
+[soundtrack-list.commentary]
+ja = "４面のテーマです。\n\n音楽的に地獄と言えばヘビーメタル！　というステレオタイプな\n発想で曲を作り始めましたが、そもそもメタルに造詣が深くないので\nいつも通りの曲にちょい金属分が多い程度になりました。\n敵の余裕さと手強さを感じる曲になっていて気持ちいいです。"
+zh-hans = "4面的主题曲。\n\n在音乐里说到地狱就是重金属！我从这种刻板的\n想法开始创作这首曲子，但因为我对金属的造诣并不深，\n所以就仅仅是一如既往的曲子里多了一点金属成分而已。\n这是一首能体会到敌人的从容和强大的曲子，听起来非常舒服。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "トータスドラゴン　～ 幸運と不運"
+zh-hans = "Tortoise Dragon　～ 幸运与不幸"
+en = "Tortoise Dragon ~ Fortune and Misfortune"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "吉吊八千慧",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "[[吉吊八千慧]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Tortoise Dragon　～ 幸运与不幸"
+page = "Tortoise Dragon　～ 幸运与不幸"
+
+[soundtrack-list.commentary]
+ja = "吉弔 八千慧のテーマです。\n\n龍と亀の中間みたいな伝説的な生物です。\n格好良さと可愛らしさ、軽快さと重厚さのどっちも\n感じられるような不思議な曲になりました。\nこのゲームのキーマンの一人ですので中盤だけどちょい盛りました。"
+zh-hans = "吉吊 八千慧的主题曲。\n\n她是介于龙与龟之间的感觉的传说中的生物。\n这首曲子也能同时感受到帅气和可爱、轻快与厚重，\n是一首奇妙的曲子。\n她算是这款游戏的关键人物之一，所以虽然才到游戏中盘，曲子稍微热烈一些。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ビーストメトロポリス"
+zh-hans = "Beast Metropolis"
+en = "Beast Metropolis"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Beast Metropolis"
+page = "Beast Metropolis"
+
+[soundtrack-list.commentary]
+ja = "５面のテーマです。\n\n弱肉強食こそが唯一の理の畜生界です。\n経済的成功こそ至上であり、そこでは個人の思考は尊重されません。\n個人の感情など、合理化された社会では邪魔でしかないのです。\n畜生界は自己責任論渦巻く都市社会の、悪夢の一つです。"
+zh-hans = "5面的主题曲。\n\n在畜生界弱肉强食才是唯一的真理。\n经济上的成功最为重要，个人的思想并不会得到尊重。\n个人的情感，在被合理化的社会当中只会成为障碍。\n畜生界，是自我负责论盛行的都市社会的噩梦之一。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "セラミックスの杖刀人"
+zh-hans = "陶瓷的杖刀人"
+en = "Joutoujin of Ceramics"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "杖刀偶磨弓",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面BOSS",
+    "[[杖刀偶磨弓]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "陶瓷的杖刀人"
+page = "陶瓷的杖刀人"
+
+[soundtrack-list.commentary]
+ja = "杖刀偶 磨弓のテーマです。\n\n埴輪兵士です。昔、ＮＨＫで放送されていた埴輪の着ぐるみ番組が\n好きでよく覚えています。今回は格好良い埴輪を作りたかったのに\n頭の中ではずっと「おーい、はにまる♪はにまるおうじー」が流れ\nていました。曲はいつもの中ボスっぽいけど割と攻めてます。"
+zh-hans = "杖刀偶 磨弓的主题曲。\n\n她是埴轮士兵。过去NHK曾经放过埴轮的布偶服装节目，\n我很喜欢，所以印象很深刻。这回我明明想创作一个很帅的埴轮，\n脑海中却一直回想着“喂—埴丸♪埴丸王子”的旋律。\n曲子虽然是以往的中BOSS的感觉，但这次稍微有些激进。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "エレクトリックヘリテージ"
+zh-hans = "Electric Heritage"
+en = "Electric Heritage"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Electric Heritage"
+page = "Electric Heritage"
+
+[soundtrack-list.commentary]
+ja = "最終面のテーマです。\n\n霊長園内部です。\n仁徳天皇陵古墳が世界遺産になりましたね。でも、内部の調査は\n宮内庁の許可が無いと出来ないので、実際には誰の墳墓かすら\n判っていないんですよねぇ。ロマン有ります。"
+zh-hans = "最终面的主题曲。\n\n灵长园的内部。\n说起来仁德天皇陵古坟成了世界遗产。不过，\n因为没有宫内厅的许可就无法进入内部进行调查，\n所以实际上并不知道这到底是谁的陵墓。让人十分向往。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "偶像に世界を委ねて　～ Idoratrize World"
+zh-hans = "寄世界于偶像　～ Idoratrize World"
+en = "Entrust this World to Idols ~ Idolatrize World"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "埴安神袿姬",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面BOSS",
+    "[[埴安神袿姬]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "寄世界于偶像　～ Idoratrize World"
+page = "寄世界于偶像　～ Idoratrize World"
+
+[soundtrack-list.commentary]
+ja = "埴安神 袿姫のテーマです。\n\n天才造形師です。彫刻刀片手に作業着エプロンで戦うボスを、\n如何にして格好良く見せるのかだけが今回のテーマでした（笑）\n本当の敵が誰なのか主人公にもプレイヤーにも不確定なまま戦う\n為、悪意の感じない少し切なさもある爽やかな曲になりました。"
+zh-hans = "埴安神 袿姬的主题曲。\n\n她是天才造形师。将一只手拿着雕刻刀、穿着工作用围裙战斗的BOSS\n如何表现得很帅气，是这次唯一的主题（笑）\n因为战斗时主人公和玩家都不确定真正的敌人到底是谁，\n所以这首曲子中察觉不到恶意，还有些惆怅，非常清爽。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "輝かしき弱肉強食の掟"
+zh-hans = "闪耀的弱肉强食法则"
+en = "The Shining Law of the Strong Eating the Weak"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "闪耀的弱肉强食法则"
+page = "闪耀的弱肉强食法则"
+
+[soundtrack-list.commentary]
+ja = "エキストラステージのテーマです。\n\n四十ニの男が中二病全開を目指して作った曲です。\n何を作っても懐かしさを感じてしまうのは、年のせいなんだろ\nうなぁ。これから子供と一緒に感性を磨いていこうと思います。\nでも、この曲、全体的にイケメンなメロディだと思います。"
+zh-hans = "EXTRA关卡的主题曲。\n\n四十二岁的男子以中二病全开为目标创作的曲子。\n不论创作什么都有种怀念的感觉，一定是因为年纪大了。\n今后我想和孩子们一起锻炼我的感性。\n不过，我觉得这首曲子整体上都是帅气男生一般的旋律。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "聖徳太子のペガサス　～ Dark Pegasus"
+zh-hans = "圣德太子的天马　～ Dark Pegasus"
+en = "Prince Shoutoku's Pegasus ~ Dark Pegasus"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "骊驹早鬼",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[骊驹早鬼]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "圣德太子的天马　～ Dark Pegasus"
+page = "圣德太子的天马　～ Dark Pegasus"
+
+[soundtrack-list.commentary]
+ja = "驪駒 早鬼のテーマです。\n\n驪駒（くろこま）です。筋肉馬鹿らしいので、性格は悪くなさ\nそうです。畜生界では一番安心感があります。\n馬という事でカウガール風の服装にしたんですが、よく考えたら\nそれは乗る側の服装ですよね。よく考えなくても。"
+zh-hans = "骊驹 早鬼的主题曲。\n\n她是骊驹。她似乎是肌肉笨蛋，性格大概并不坏。\n在畜生界中她是最给人一种安心感的。\n因为她是马，所以她的服装是牛仔女郎的风格，\n但仔细想想那是骑马的人穿的。不用仔细想也能知道。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "畜生達の休息"
+zh-hans = "畜生们的小憩"
+en = "The Animals' Rest"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "畜生们的小憩"
+page = "畜生们的小憩"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n\n何故かスイングしてます。\n特に意味はありません。"
+zh-hans = "结局的主题曲。\n\n不知为什么这首曲子在摇摆。\n并没有什么特别的含意。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "地下からの帰還"
+zh-hans = "从地下的归还"
+en = "Returning Home from the Underground"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "鬼形兽音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "从地下的归还"
+page = "从地下的归还"
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\n\n４面の曲の編曲です。"
+zh-hans = "制作人员名单的主题曲。\n\n是4面曲子的改编曲。"
+
+[title]
+ja = "東方鬼形獣 〜 Wily Beast and Weakest Creature."
+en = "Touhou Kikeijuu ~ Wily Beast and Weakest Creature"
+zh = "東方鬼形獸 ～ Wily Beast and Weakest Creature."
+zh-hans = "东方鬼形兽 ～ Wily Beast and Weakest Creature."

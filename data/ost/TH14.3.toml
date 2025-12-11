@@ -1,0 +1,340 @@
+threlease = "TH14.3"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "反則の狼煙を上げろ"
+zh-hans = "燃起犯规的狼烟"
+en = "Raise the Signal Fire of Cheating"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天邪鬼音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "燃起犯规的狼烟"
+page = "燃起犯规的狼烟"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\nタイトル画面率の高いゲームなので少しだけノリノリにしています。\nタイトル画面というか、ステージ選択の曲だね、割合から言って。"
+zh-hans = "标题画面的主题曲。\n\n因为这是个标题画面率比较高的游戏，所以节奏感稍微弄得强了一点。\n与其说是标题画面，不如说是场景选择的曲子吧。从比例上来讲。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "不可能弾幕には反則を"
+zh-hans = "以犯规对不可能的弹幕"
+en = "Cheat Against the Impossible Danmaku"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "最序盘主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天邪鬼音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "最序盘主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "以犯规对不可能的弹幕"
+page = "以犯规对不可能的弹幕"
+
+[soundtrack-list.commentary]
+ja = "最序盤のテーマです。\n\nキャラと曲が結びつかないゲームなので、\n一般的な戦闘曲みたいなのになりました。\nステージの長さと曲の長さが釣り合い取れないのは\n何度もリトライすることが前提だからです。"
+zh-hans = "最序盘的主题曲。\n\n因为这是角色和曲子没有关联的游戏，\n所以我作成了一般的战斗曲一样的风格。\n场景的长度与曲子的长度不一致是因为\n这首曲子是以多次重新挑战为前提的。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ミッドナイトスペルカード"
+zh-hans = "Midnight Spell Card"
+en = "Midnight Spell Card"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "序盘主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天邪鬼音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "序盘主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Midnight Spell Card"
+page = "Midnight Spell Card"
+
+[soundtrack-list.commentary]
+ja = "序盤のテーマです。\n\n舞台を夜にして、夜っぽい感じの曲にしました。\n疾走感のある曲なのでここらで停滞しない様に。"
+zh-hans = "序盘的主题曲。\n\n以夜晚为舞台，作了一首有夜晚的感觉的曲子。\n这是首有疾速奔跑的感觉的曲子，所以不要在这里停滞。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ロマンチック逃飛行"
+zh-hans = "浪漫逃飞行"
+en = "Romantic Escape Flight"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "中盘主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天邪鬼音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "中盘主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "浪漫逃飞行"
+page = "浪漫逃飞行"
+
+[soundtrack-list.commentary]
+ja = "中盤のテーマです。\n\nうってかわって開けた感じになりました。\nこの辺まで来ると簡単にはステージを\nクリア出来ないかな？"
+zh-hans = "中盘的主题曲。\n\n风格一转，变成了开放的感觉。\n到了这里，应该就不能简简单单地\n打通场景了吧？\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "永遠の三日天下"
+zh-hans = "永远的三日天下"
+en = "Eternal Transient Reign"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "终盘主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天邪鬼音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "终盘主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "永远的三日天下"
+page = "永远的三日天下"
+
+[soundtrack-list.commentary]
+ja = "終盤のテーマです。\n\n最後は大人しい感じの曲で\nでも弾幕は地獄です。むしろ曲が絶望感を煽ってます。\n\n本当に不可能なのでしょか？"
+zh-hans = "终盘的主题曲。\n\n最后是比较温顺的感觉的曲子\n只不过弹幕是地狱。不如说曲子烘托着绝望感。\n\n真的是不可能的吗？\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "秘境のマーメイド"
+zh-hans = "秘境的人鱼"
+en = "Mermaid from the Uncharted Land"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第一日主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天邪鬼音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第一日主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "秘境的人鱼"
+page = "秘境的人鱼"
+
+[soundtrack-list.commentary]
+ja = "東方輝針城から再録です。"
+zh-hans = "重新收录自东方辉针城。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "リバースイデオロギー"
+zh-hans = "Reverse Ideology"
+en = "Reverse Ideology"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第三日、第八日主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天邪鬼音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第三日、第八日主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Reverse Ideology"
+page = "Reverse Ideology"
+
+[soundtrack-list.commentary]
+ja = "東方輝針城から再録です。"
+zh-hans = "重新收录自东方辉针城。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻想浄瑠璃"
+zh-hans = "幻想净琉璃"
+en = "Illusionary Joururi"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第五日主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天邪鬼音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第五日主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻想净琉璃"
+page = "幻想净琉璃"
+
+[soundtrack-list.commentary]
+ja = "東方輝針城から再録です。"
+zh-hans = "重新收录自东方辉针城。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖怪の山　～ Mysterious Mountain"
+zh-hans = "妖怪之山　～ Mysterious Mountain"
+en = "Youkai Mountain ~ Mysterious Mountain"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第六日主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "天邪鬼音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第六日主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖怪之山　～ Mysterious Mountain"
+page = "妖怪之山　～ Mysterious Mountain"
+
+[soundtrack-list.commentary]
+ja = "東方風神録から再録です。"
+zh-hans = "重新收录自东方风神录。\n"
+
+[title]
+ja = "弾幕アマノジャク 〜 Impossible Spell Card."
+en = "Danmaku Amanojaku ~ Impossible Spell Card"
+zh = "彈幕天邪鬼 ～ Impossible Spell Card"
+zh-hans = "弹幕天邪鬼 ～ Impossible Spell Card"

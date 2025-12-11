@@ -1,0 +1,658 @@
+threlease = "TH14"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "不思議なお祓い棒"
+zh-hans = "不可思议的驱魔棒"
+en = "Mysterious Purification Rod"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "不可思议的驱魔棒"
+page = "不可思议的驱魔棒"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\nいつも通りですが、今回アップテンポの曲が多いので\nタイトル画面ではしっとりするように作るつもりでした。\n\nそれはどうかな？"
+zh-hans = "标题画面的主题曲。\n\n和往常一样，这次节奏快的曲子比较多，\n所以标题画面打算做得平静一些。\n\n有那种感觉吗？\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ミストレイク"
+zh-hans = "Mist Lake"
+en = "Mist Lake"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Mist Lake"
+page = "Mist Lake"
+
+[soundtrack-list.commentary]
+ja = "１面のテーマです。\n\n１面という事で、ちょっとインパクトのある曲にしました。\nどういう原理で湖に常に霧が立ちこめているんでしょうねぇ。\n魚は棲んで無さそうですが、意外と色んな妖怪が棲んでいる\nみたいです。"
+zh-hans = "1面的主题曲。\n\n因为是1面，所以使用了比较有冲击性的曲子。\n湖面上常年雾气缭绕到底是什么原理呢。\n虽然似乎没有鱼栖息，但是意外地似乎有各种各样的妖怪\n住在里面。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "秘境のマーメイド"
+zh-hans = "秘境的人鱼"
+en = "Mermaid from the Uncharted Land"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "若鹭姬",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[若鹭姬]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "秘境的人鱼"
+page = "秘境的人鱼"
+
+[soundtrack-list.commentary]
+ja = "わかさぎ姫のテーマです。\n\n水中なら腕に自信がある人魚ですが、残念ながら幻想郷は\n陸地の方が多いのです。\n本気さを感じないかるーい感じの戦闘曲にしました。\n天ぷら大好きです。"
+zh-hans = "若鹭姬的主题曲。\n\n如果是在水中人鱼对于自己的实力还是很有自信的，可惜幻想乡\n陆地比较多。\n做成了一首感觉不到认真劲的十分轻松的战斗曲。\n我最喜欢天妇罗了。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "運河を行き交う人妖"
+zh-hans = "往来于运河的人与妖"
+en = "Humans and Youkai Traversing the Canal"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "往来于运河的人与妖"
+page = "往来于运河的人与妖"
+
+[soundtrack-list.commentary]
+ja = "２面のテーマです。\n\n一面ののほほん感とはうって変わって中二っぽい\n妖怪なので少し意識しました。\n\n一定のビートで淡々と進む感じが出ているかなと。"
+zh-hans = "2面的主题曲。\n\n和一面的吊儿郎当感不同，因为这一面是比较中二的妖怪，\n所以稍微注重了一下这方面。\n\n应该表现出了随着一定的节拍淡淡地前进的感觉吧。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "柳の下のデュラハン"
+zh-hans = "柳树下的杜拉罕"
+en = "Dullahan Under the Willows"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "赤蛮奇",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[赤蛮奇]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "柳树下的杜拉罕"
+page = "柳树下的杜拉罕"
+
+[soundtrack-list.commentary]
+ja = "赤蛮奇のテーマです。\n\nろくろ首って、首が伸びるんだか頭が飛ぶんだか\nよく判らないですよね。\nでも首が飛んでいるときに体を動かすと、元に\n戻れなくなるみたいですよ？"
+zh-hans = "赤蛮奇的主题曲。\n\n辘轳首这种妖怪，不太明白头到底是\n伸出去的还是飞出去的呢。\n但是据说在头飞走的时候移动身体，\n头就回不去了哦？\n\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "満月の竹林"
+zh-hans = "满月的竹林"
+en = "Bamboo Forest of the Full Moon"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "满月的竹林"
+page = "满月的竹林"
+
+[soundtrack-list.commentary]
+ja = "３面のテーマです。\n\n竹林で満月ですよ。\nいつの間にか迷いの竹林は月を崇める妖怪の聖地に\nなっていたんですね。\n曲も永夜抄のアレを意識しました。"
+zh-hans = "3面的主题曲。\n\n满月下的竹林哦。\n不知何时迷途竹林已经成为了崇拜月亮的妖怪的\n圣地了。\n曲子也参考了永夜抄的那首。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "孤独なウェアウルフ"
+zh-hans = "孤独的狼人"
+en = "Lonesome Werewolf"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "今泉影狼",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[今泉影狼]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "孤独的狼人"
+page = "孤独的狼人"
+
+[soundtrack-list.commentary]
+ja = "今泉 影狼のテーマです。\n\n中ボスっぽい感じを出しまくってみました。\nまあ三面ですしね。\n\nちなみに満月は本物ですので彼女も変身できます。"
+zh-hans = "今泉 影狼的主题曲。\n\n试着尽可能表现了中BOSS的感觉。\n毕竟才第三面而已。\n\n顺便满月是真的，所以她也能够变身。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "マジカルストーム"
+zh-hans = "Magical Storm"
+en = "Magical Storm"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Magical Storm"
+page = "Magical Storm"
+
+[soundtrack-list.commentary]
+ja = "４面のテーマです。\n\n不気味かと言えばそうでも無く、明るいかと言えばそうでも無い。\nちょっと不思議な浮遊感を出してます。\n嵐の割にはフワフワしているし……。\n文字通り足が地に着かない感じですね。"
+zh-hans = "4面的主题曲。\n\n要说阴森也不是，要说明朗也不是。\n表现出了有些不可思议的浮游感。\n明明是暴风雨却轻飘飘的……。\n顾名思义，真是沉不住气的感觉呢。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻想浄瑠璃"
+zh-hans = "幻想净琉璃"
+en = "Illusionary Joururi"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "九十九弁弁",
+    "九十九八桥",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "[[九十九弁弁]]＆[[九十九八桥]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻想净琉璃"
+page = "幻想净琉璃"
+
+[soundtrack-list.commentary]
+ja = "九十九 弁々　九十九 八橋のテーマです。\n\nもっとベタな伝統的な和風の曲にしようかとも思ったのですが、\n曲の技巧だけ走ってしまうとゲームの雰囲気が滅茶苦茶になるので\nグッとこらえました。\nでも何とかそれっぽくしたけど琵琶の音源が無くてしょんぼりです。"
+zh-hans = "九十九 弁弁　九十九 八桥的主题曲。\n\n本来是想做成更朴素更传统的和风曲子的，\n但如果只注重曲子的技巧游戏的氛围就会变得乱七八糟了，\n所以勉强忍住了。\n但是尽管做成了那种感觉，没有琵琶的音源还是让我有些失望。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "空中に沈む輝針城"
+zh-hans = "沉向空中的辉针城"
+en = "The Shining Needle Castle Sinking in the Air"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "沉向空中的辉针城"
+page = "沉向空中的辉针城"
+
+[soundtrack-list.commentary]
+ja = "５面のテーマです。\n\n大きな意味も無く、切ない感じの曲にしました。\n\n切ないメロディだけど軽快なリズム。\nこういう曲が流れると終盤だなーって感じます。"
+zh-hans = "5面的主题曲。\n\n没什么特别的意义，有些惆怅的感觉的曲子。\n\n虽然旋律很惆怅，但是节奏很轻快。\n这种曲子一响起，就会让人意识到已经是最后阶段了。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "リバースイデオロギー"
+zh-hans = "Reverse Ideology"
+en = "Reverse Ideology"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "鬼人正邪",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面BOSS",
+    "[[鬼人正邪]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Reverse Ideology"
+page = "Reverse Ideology"
+
+[soundtrack-list.commentary]
+ja = "鬼人 正邪のテーマです。\n\n極めて小物臭のする妖怪をイメージして曲を作りました。\n結果、何だかやんちゃな曲に……まあボスっぽいノリで楽しいよね。\n他人が嫌がることを率先してやる小物なボスですが、\nそれでも今回の黒幕です。"
+zh-hans = "鬼人 正邪的主题曲。\n\n一边想象着极其具有小人气息的妖怪一边创作了这首曲子。\n结果，成了首调皮的曲子……不过很符合BOSS的节奏，很愉快吧。\n虽然是率先去做别人讨厌的事的小人一般的BOSS，\n但这就是这次的黑幕。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "針小棒大の天守閣"
+zh-hans = "针小棒大的天守阁"
+en = "The Exaggerated Castle Keep"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "针小棒大的天守阁"
+page = "针小棒大的天守阁"
+
+[soundtrack-list.commentary]
+ja = "６面のテーマです。\n\n何だか少し焦る感じを出してます。\n\nここからラスボス、エンディングと３曲同じメロディにして、\n今作の共通のテーマっぽくしてみました。"
+zh-hans = "6面的主题曲。\n\n表现出了莫名有些焦急的感觉。\n\n从这里开始到最终BOSS、结尾曲3曲都使用了同样的旋律，\n做成了本作共通的主题的样子。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "輝く針の小人族　～ Little Princess"
+zh-hans = "辉光之针的小人族　～ Little Princess"
+en = "Inchlings of the Shining Needle ~ Little Princess"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "少名针妙丸",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面BOSS",
+    "[[少名针妙丸]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "辉光之针的小人族　～ Little Princess"
+page = "辉光之针的小人族　～ Little Princess"
+
+[soundtrack-list.commentary]
+ja = "少名 針妙丸のテーマです。\n\n小さい身体なりの格好良い曲にしました。\n重厚さは少ないですが、如何にもラスボスっぽい気持ちの良い\n広がり方のする曲になってると思います。\nあれ？　小さくないって？　まあ是非クリアして下さいな。"
+zh-hans = "少名 针妙丸的主题曲。\n\n尽管身体很小，但曲子却做得很帅。\n虽然少了几分厚重，但无论如何我觉得这是一首\n非常有最终BOSS气氛的展开方式十分惬意的曲子。\n嗯？看起来并不小？总之通关了你就知道了。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔力の雷雲"
+zh-hans = "魔力的雷云"
+en = "Thunderclouds of Magical Power"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔力的雷云"
+page = "魔力的雷云"
+
+[soundtrack-list.commentary]
+ja = "エキストラステージのテーマです。\n\n抵抗なくさらっと流れる感じの王道の道中曲です。\n\n実はあちこちに東方らしいエッセンスを散りばめてます。\nそれに深い意味はありません。"
+zh-hans = "EXTRA Stage的主题曲。\n\n王道的道中曲，毫无抵触、爽快地流淌的感觉。\n\n实际上曲子中四处点缀着具有东方风格的精粹。\n其中没有什么深刻的意义。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "始原のビート　～ Pristine Beat"
+zh-hans = "原初的节拍　～ Pristine Beat"
+en = "Primordial Beat ~ Pristine Beat"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "堀川雷鼓",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[堀川雷鼓]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "原初的节拍　～ Pristine Beat"
+page = "原初的节拍　～ Pristine Beat"
+
+[soundtrack-list.commentary]
+ja = "堀川 雷鼓のテーマです。\nドラムメイン曲にしようかと思ってたのですが、流石に\nその勇気は無かったです。ゲームのイメージ的に。\n間奏はちょっとだけドラムが主役になります。\nちなみに靴の構造上、足をじたばたさせてバスドラムを\n叩くんでしょうね。"
+zh-hans = "堀川 雷鼓的主题曲。\n本来想过要不要做成以西洋鼓为主的曲子，但\n我实在没有那个胆量。从游戏印象的角度来说。\n间奏的时候西洋鼓会稍微成为一会儿主角。\n顺便从靴子的构造上来看，她一定会灵活地运用双脚\n来踩大鼓吧。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "小槌の魔力"
+zh-hans = "小槌的魔力"
+en = "Magical Power of the Mallet"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "小槌的魔力"
+page = "小槌的魔力"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n\n終盤はラスボスのテーマで纏めてみました。\n\nそれぞれ違ったイメージになるんじゃないでしょうか？"
+zh-hans = "Ending的主题曲。\n\n最终阶段试着统一使用了最终BOSS的主题。\n\n每一首应该都会给人不同的印象吧？\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "不思議な不思議な道具達"
+zh-hans = "非常非常神奇的道具们"
+en = "Mysterious, Mysterious Tools"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "辉针城音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "非常非常神奇的道具们"
+page = "非常非常神奇的道具们"
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\n\nタイトルの曲のバージョン違いです。\n正直最初から、どっちかっていうとタイトルじゃなくて\nエンディング寄りの曲だと思ってました。\nよく見るとスタッフの表示と曲のタイミングがぴったりですよ。"
+zh-hans = "制作人员名单的主题曲。\n\n标题画面曲的不同版本。\n实际上从一开始我就觉得这个曲子与其说是标题画面曲，\n还是更倾向于结尾曲。\n仔细一看就能发现，制作人员的显示完全符合曲子的节奏哦。\n"
+
+[title]
+ja = "東方輝針城 〜 Double Dealing Character."
+en = "Touhou Kishinjou ~ Double Dealing Character"
+zh = "東方輝針城 ～ Double Dealing Character."
+zh-hans = "东方辉针城 ～ Double Dealing Character."

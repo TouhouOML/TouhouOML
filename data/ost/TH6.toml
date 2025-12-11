@@ -1,0 +1,1065 @@
+threlease = "TH6"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "赤より紅い夢"
+zh-hans = "比赤色更红的梦"
+en = "A Dream More Scarlet than Red"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "比赤色更红的梦"
+page = "比赤色更红的梦"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面テーマです。\n東方なんで、和風にしてみました。いやほんと。\nゲームはまるで和風じゃ無いくせに(^^;\nＳＴＧとは思えないような曲です。\nそもそも、タイトル画面に曲は必要なのでしょうか（笑）？"
+zh-hans = "标题画面的主题曲。\n既然是东方，试一下做成和风的。呀，真是的。\n游戏好像不是和风的说(^^;\n不像是ＳＴＧ的曲子。\n说起来，标题画面需要曲子吗（笑）？"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_01.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 紅夢楼 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 红梦楼 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ほおずきみたいに紅い魂"
+zh-hans = "如鬼灯般的红色之魂"
+en = "A Soul as Scarlet as a Ground Cherry"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "如鬼灯般的红色之魂"
+page = "如鬼灯般的红色之魂"
+
+[soundtrack-list.commentary]
+ja = "１面テーマです。\n夜の森をイメージしてあります。一面だし、曲に勇ましさがあると\nやる気が出るかなと思い、ちょっと元気のある曲を目指しました。\n勇ましさというかコミカルな百鬼夜行って感じかな？"
+zh-hans = "１面的主题曲。\n想要突出夜晚里森林的印象。反正是第一关，觉得加些勇气感就能\n让人有干劲了吧，做成稍微活泼一点的音乐了。\n说成勇气感还不如说是有趣的百鬼夜行的感觉吧？"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_02.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 ほおずきの様に紅い魂 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 像鬼灯一样的红色之魂 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖魔夜行"
+zh-hans = "妖魔夜行"
+en = "Apparitions Stalk the Night"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "露米娅",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[露米娅]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖魔夜行"
+page = "妖魔夜行"
+
+[soundtrack-list.commentary]
+ja = "ルーミアのテーマです。\nこの曲に限らず、今回、全体的に軽快な曲になっています。\nこの曲は夜の妖怪をイメージしました、\n・・・って言っても良いんだろうか(^^;\nノリ的には結構馬鹿っぽいです。"
+zh-hans = "露米娅的主题曲。\n不仅是这首音乐，这次，总体来说音乐变得轻快了。\n这音乐是表现夜晚里妖怪的印象，\n···这样说也可以吧(^^;\n节奏上有些像笨蛋的感觉。"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_03.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 妖魔夜行 】from 東方紅魔郷 for 88Pro Comp.ZUN"
+zh-hans = "【 妖魔夜行 】from 东方红魔乡 for 88Pro Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ルーネイトエルフ"
+zh-hans = "Lunate Elf"
+en = "Lunate Elf"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Lunate Elf"
+page = "Lunate Elf"
+
+[soundtrack-list.commentary]
+ja = "２面テーマです。\n水と霧をイメージして、ちょっと不気味さも混ぜて見ました。\n過去の東方のイメージとほとんど同じ感じとも言える。\n２面って言うと、なんの為にあるのかよく分からないからなぁ(^^;"
+zh-hans = "２面的主题曲。\n有水和雾的印象，听起来稍微混杂了些可怕感。\n可以说和过去东方印象差不多一样。\n说是第二关，为什么而存在的不是很清楚(^^;"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_04.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 ルーネイトエルフ 】from 東方紅魔郷 for 88Pro Comp.ZUN"
+zh-hans = "【 Lunate Elf 】from 东方红魔乡 for 88Pro Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "おてんば恋娘"
+zh-hans = "活泼的纯情小姑娘"
+en = "Tomboyish Girl in Love"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "琪露诺",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[琪露诺]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "活泼的纯情小姑娘"
+page = "活泼的纯情小姑娘"
+
+[soundtrack-list.commentary]
+ja = "チルノのテーマです。\nやっぱり、頭の悪い少女をイメージしてます。\nその割には明るいんだか暗いんだか分からない曲に仕上がって\nなんとも。ハイスピードにしっとりしたメインメロディとか。\nまぁ、２面だし（ぉ"
+zh-hans = "琪露诺的主题曲。\n果然，作成了有些笨的少女的印象。\n也因为这样变成了不知道是明快还是阴暗的曲子也没什么关系。\n高速宁静的主旋律之类的。\n算了，反正是第二关（哦"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_05.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 おてんば恋娘 】from 東方紅魔郷 for 88Pro Comp.ZUN"
+zh-hans = "【 活泼的纯情小姑娘 】from 东方红魔乡 for 88Pro Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "上海紅茶館　～ Chinese Tea"
+zh-hans = "上海红茶馆　～ Chinese Tea"
+en = "Shanghai Scarlet Teahouse ~ Chinese Tea"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "上海红茶馆　～ Chinese Tea"
+page = "上海红茶馆　～ Chinese Tea"
+
+[soundtrack-list.commentary]
+ja = "３面テーマです。\n中華風に仕上げる予定でしたが、結果そんなでも無いようです(^^;\nでも曲は東洋風です。４面以降に東洋風の曲を作ることが出来なさ\nそうだったので、ここでつくっときました(^^;\nFusionというより New Age風かな？"
+zh-hans = "３面的主题曲。\n虽然是打算作成中华风的，结果好像不是这样(^^;\n不过曲是东洋风的。第四关以后好像做不了东洋风了，就在这里作了\n(^^;\n说是Fusion，不如说是New Age风吧？"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_06.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 上海紅茶館　～ Chinese Tea 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 上海红茶馆　～ Chinese Tea 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "明治十七年の上海アリス"
+zh-hans = "明治十七年的上海爱丽丝"
+en = "Shanghai Alice of Meiji 17"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "红美铃",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[红美铃]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "明治十七年的上海爱丽丝"
+page = "明治十七年的上海爱丽丝"
+
+[soundtrack-list.commentary]
+ja = "紅　美鈴（ホン・メイリン）のテーマです。\n欧羅巴の香りとゲーム音楽の香りを混ぜてあります。(2:8位で)\n中華でも何でも無いあたりがアレです。上海のフランス租界をイメ\nージしているからです。\nもっとも、美鈴も人間では無いみたいだけど、何者なんだろう（ぉ"
+zh-hans = "红美铃的主题曲。\n欧罗巴的味道和游戏音乐的味道混合了。（2:8左右）\n不是中华也不是其他什么因为那个。是因为要上海法租界的印象。\n\n不过，美铃也好像不是人类，是什么东西呢（喂"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_07.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 明治十七年の上海アリス 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 明治十七年的上海爱丽丝 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ヴワル魔法図書館"
+zh-hans = "伏瓦鲁魔法图书馆"
+en = "Voile, the Magic Library"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "伏瓦鲁魔法图书馆"
+page = "伏瓦鲁魔法图书馆"
+
+[soundtrack-list.commentary]
+ja = "４面テーマです。\nこの面から室内ステージです。曲も室内の雰囲気を出してみまし\nた。後半、中ボスあたりから不気味さが出るように曲調が変化し\nます。\nそれ以外には特に特徴も無いですが、強いていえば、ＳＴＧの曲\nではない（笑）"
+zh-hans = "４面的主题曲。\n从这关开始就是室内的场地。曲也要室内的气氛。后半，道中Boss左\n右开始变可怕那样变化了曲调。\n\n除了那个就没有什么特征了，一定要说的话，不是STG的曲子（笑）"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_08.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 ヴワル魔法図書館 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 伏瓦鲁魔法图书馆 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ラクトガール　～ 少女密室"
+zh-hans = "Locked Girl　～ 少女密室"
+en = "Locked Girl ~ The Girl's Sealed Room"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "帕秋莉·诺蕾姬",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "[[{{帕秋莉}}]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Locked Girl　～ 少女密室"
+page = "Locked Girl　～ 少女密室"
+
+[soundtrack-list.commentary]
+ja = "パチュリー・ノーレッジのテーマです。\nああ、またいつもの悪い病気が...\n暗い曲です。こんなにも激しいのに明るさも軽快さも感じません\nもうちょっと気持ちよければいいんですが、この曲聴くと微妙に\n暗い気分になる感じがします（笑）"
+zh-hans = "{{帕秋莉}}的主题曲。\n啊啊，又是平时的病…\n是阴暗的曲子。这样的激烈却没有明亮轻快的感觉\n虽然再稍微舒服一点的话会好些，觉得听这首曲子会变得心情阴暗\n起来（笑）"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_09.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 ラクトガール　～ 少女密室 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 Locked Girl　～ 少女密室 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "メイドと血の懐中時計"
+zh-hans = "女仆与血之怀表"
+en = "The Maid and the Pocket Watch of Blood"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "女仆与血之怀表"
+page = "女仆与血之怀表"
+
+[soundtrack-list.commentary]
+ja = "５面のテーマです\n不思議な不思議な曲です。スピードを出そうとしてつんのめりそ\nうな曲になってるのは、特殊な拍子のせいでしょうか？\nロックにしたかったんですが、私はあまりロックを聴かない所為\nか、ロックというものを誤解している可能性大(^^;"
+zh-hans = "５面的主题曲\n是不可思议的不可思议之曲。变成了好像要有速度了却又减慢了的\n曲子，是因为特殊的拍子的原因吗？\n虽然很想做成摇滚，由于我不怎么听摇滚的，误解了摇滚的定义的\n可能性很大(^^;"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_10.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 懐中時計と血のメイド 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 怀表与血的女仆 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "月時計　～ ルナ・ダイアル"
+zh-hans = "月时计　～ Luna Dial"
+en = "Lunar Clock ~ Luna Dial"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "十六夜咲夜",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面BOSS",
+    "[[十六夜咲夜]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "月时计　～ Luna Dial"
+page = "月时计　～ Luna Dial"
+
+[soundtrack-list.commentary]
+ja = "十六夜　咲夜（いざよい・さくや）のテーマです。\nメイドさんといえばハードロック（嘘）\nかなりハードです。５面ということでこの位の激しさが必要だと\n\nやっぱり誤解してるのかなぁ(^^; >ロック\n私的詩的ロックということで"
+zh-hans = "十六夜咲夜的主题曲。\n说起女仆就是要硬摇滚（假的）\n比较硬。因为是第５面所以需要这么激烈\n\n果然是误解的吧(^^; >摇滚\n可以说是自己风格的摇滚<ref>此处捏他森博嗣的小说『詩的私的ジャック JACK THE POETICAL PRIVATE』。</ref>"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_11.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 月時計　～ ルナ・ダイアル 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 月时计　～ Luna Dial 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ツェペシュの幼き末裔"
+zh-hans = "特佩斯的年幼末裔"
+en = "The Young Descendant of Tepes"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "最终面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "最终面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "特佩斯的年幼末裔"
+page = "特佩斯的年幼末裔"
+
+[soundtrack-list.commentary]
+ja = "最終面のテーマです。\n最終面はいつもしっとりさせすぎていたので、今回は軽快なノリ\nで。短いステージの、ただのつなぎの曲なので、あまり自己主張\nさせないような曲にしました。"
+zh-hans = "最终面的主题曲。\n最终关一向都是比较宁静的，这次用轻快的节奏。短短的关卡的，\n单是连接的曲子，作成了没怎么自我主张的曲子了。"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_12.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 ツェペシュの幼き末裔 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 特佩斯的年幼末裔 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "亡き王女の為のセプテット"
+zh-hans = "献给已逝公主的七重奏"
+en = "Septette for a Dead Princess"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "蕾米莉亚·斯卡蕾特",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "最终面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "最终面BOSS",
+    "[[{{蕾米莉亚}}]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "献给已逝公主的七重奏"
+page = "献给已逝公主的七重奏"
+
+[soundtrack-list.commentary]
+ja = "レミリア・スカーレットのテーマです。\nこれがラストだ！といわんばかりの曲を目指しました。\nあんまり重厚さを出したり不気味さを出したり、そういうありが\nちラストは嫌なので、ジャズフュージョンチックにロリっぽさを\n混ぜて．．．、ってそれじゃいつもとあんまり変わらんな。\nこのメロディは自分でも理解しやすく、気に入っています。"
+zh-hans = "蕾米利亚·斯卡蕾特的主题曲。\n这就是最后了！想作成这种感觉的曲子。\n有些重厚和可怕，那样的最后不喜欢，又加了些融合爵士风格\n和萝莉气质………，那样就和平时一样了。\n\n这个旋律自己也容易理解，喜欢。"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_13.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 亡き王女の為のセプテット 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 献给已逝公主的七重奏 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔法少女達の百年祭"
+zh-hans = "魔法少女们的百年祭"
+en = "The Centennial Festival for Magical Girls"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔法少女们的百年祭"
+page = "魔法少女们的百年祭"
+
+[soundtrack-list.commentary]
+ja = "エキストラステージのテーマです。\n時折中華風です。時折ニューエイジ風です。それはなぜか？\n何もテーマも考えずにキーボードを弾いてしまったら、こうなっ\nてしまいました。\n私の惰性の集大成見たいな曲です。よく聴くと、謎めいたフレー\nズが詰まっています。私のおもちゃ箱ですね。"
+zh-hans = "Extra面的主题曲。\n有时是中华风。有时是New Age风格。那是为什么？\n什么主题也没有想就在键盘上弹了，就变成这样了。\n\n像是集我的惰性于大成的曲子。仔细听的话，\n会发现有一小段迷的旋律。是我的玩具箱。"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_14.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 魔法少女達の百年祭 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 魔法少女们的百年祭 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "U.N.オーエンは彼女なのか？"
+zh-hans = "U.N.OWEN就是她吗？"
+en = "U.N. Owen Was Her?"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "芙兰朵露·斯卡蕾特",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[{{芙兰朵露}}]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "U.N.OWEN就是她吗？"
+page = "U.N.OWEN就是她吗？"
+
+[soundtrack-list.commentary]
+ja = "フランドール・スカーレットのテーマです。\n今回のもっともお気に入りです。いかにして悪魔っ娘を東洋風に\nかつ、ミステリアスに表現できるかに挑戦した結果です。\nロリっぽいこのメロディは、今作品でもっとも私らしいメロディ\nで、鍵盤弾くのが楽しかったです。"
+zh-hans = "{{芙兰朵露}}的主题曲。\n这次的是最喜欢的。这是挑战如何才能\n把恶魔少女做成东洋风，同时又要表现出神秘的结果。\n这个萝莉风格的旋律，是至今的作品\n最有自我风格的旋律，弹键盘很有趣。"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_15.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 U.N.オーエンは彼女なのか？ 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 U.N.OWEN就是她吗？ 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "紅より儚い永遠"
+zh-hans = "比红色更虚无的永远"
+en = "An Eternity More Transient than Scarlet"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "比红色更虚无的永远"
+page = "比红色更虚无的永远"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n曲名から想像つくように、タイトル画面の曲の編曲みたいなもの\nです。そのため和風です。\nというか、和風で良いんですが。"
+zh-hans = "Ending的主题曲。\n从曲名就可以想象出，是像标题曲那样编曲的东西。所以是和风。\n\n或者说，是和风比较好。"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_16.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 紅より儚い永遠 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 比红色更虚无的永远 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "紅楼　～ Eastern Dream..."
+zh-hans = "红楼　～ Eastern Dream..."
+en = "Scarlet Tower ~ Eastern Dream..."
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "红楼　～ Eastern Dream..."
+page = "红楼　～ Eastern Dream..."
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\nいつもは絶望的に暗い曲ばっかのスタッフロールでしたが、今回\nは希望的に明るくしました。多分。\n相変わらずスタッフが少ないので、あまり長い曲には出来ません。\nもっと壮大な曲でも良かったんですが、割とインルームな印象の\n曲になりました。これは意図していません（笑）"
+zh-hans = "职员表的主题曲。\n虽然制作人员名单的音乐一直都是绝望阴暗的，\n这次变成了希望明快的了。大概。\n也是一样制作人员很少，不能做出怎么长的曲子。\n如果是更壮大的曲子就好了，\n结果变成了室内印象的曲子。这是没想过的（笑）"
+
+[soundtrack-list.source.midi]
+file-list = [
+    "th06_17.mid",
+]
+
+[soundtrack-list.source.midi.file_metadata]
+ja = "【 紅楼　～ Eastern Dream... 】from 東方紅魔郷 for 88P Comp.ZUN"
+zh-hans = "【 红楼　～ Eastern Dream... 】from 东方红魔乡 for 88P Comp.ZUN\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "赤より紅い夢"
+zh-hans = "比赤色更红的梦"
+en = "A Dream More Scarlet than Red"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "比赤色更红的梦"
+page = "比赤色更红的梦"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面テーマです。\n東方なんで、和風にしてみました。いやほんと。\n短いし激しい曲でも恋しい曲でも無いですが、落ち着いた曲です。\n珍しく。\nゲームはまるで和風じゃ無いくせにな(^^;"
+zh-hans = "标题画面的主题曲。\n既然是东方，试一下做成和风的。呀，真是的。\n既不是短促激烈的曲子，也不是令人怀恋的曲子，而是沉稳的曲子。\n真少见啊。\n游戏好像不是和风的说(^^;\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ほおずきみたいな魂"
+zh-hans = "如鬼灯般的灵魂"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.commentary]
+ja = "１面テーマです。\n夜の森をイメージしてあります。一面だし、曲に勇ましさがあると\nやる気が出るかなと思い、ちょっと元気のある曲を目指しました。\nステージ自体が短いので短い曲です。"
+zh-hans = "１面的主题曲。。\n想要突出夜晚里森林的印象。反正是第一关，觉得加些勇气感\n就能让人有干劲了吧，做成稍微活泼一点的音乐了。\n因为这一面很短，就成了短的曲子。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖魔夜行"
+zh-hans = "妖魔夜行"
+en = "Apparitions Stalk the Night"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "露米娅",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[露米娅]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖魔夜行"
+page = "妖魔夜行"
+
+[soundtrack-list.commentary]
+ja = "ルーミアのテーマです。\nこの曲に限らず、今回、全体的に軽快な曲になっています。\nあんまりにも重いとあんまりなんで。\nこの曲は夜の妖怪をイメージしました、\n・・・って言っても良いんだろうか(^^;\nノリ的には結構馬鹿っぽいです。\n頭は悪そうな曲になっています。"
+zh-hans = "露米娅的主题曲。\n不仅是这首音乐，这次，总体来说音乐变得轻快了。\n再怎么说，沉重也太那个了。\n这音乐是表现夜晚里妖怪的印象，\n···这样说也可以吧(^^;\n节奏上有些像笨蛋的感觉。\n曲子也就成了有些笨的样子。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ルーネイトエルフ"
+zh-hans = "Lunate Elf"
+en = "Lunate Elf"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Lunate Elf"
+page = "Lunate Elf"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "おてんば恋娘"
+zh-hans = "活泼的纯情小姑娘"
+en = "Tomboyish Girl in Love"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "琪露诺",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[琪露诺]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "活泼的纯情小姑娘"
+page = "活泼的纯情小姑娘"
+
+[soundtrack-list.commentary]
+ja = "チルノのテーマです。\nやっぱり、頭の悪い少女をイメージしてます。\nその割には明るいんだか暗いんだか分からない曲に仕上がって\nなんとも。\nまぁ、２面だし（ぉ"
+zh-hans = "琪露诺的主题曲。\n果然，作成了有些笨的少女的印象。\n也因为这样变成了不知道是明快还是阴暗的曲子\n也没什么关系。\n算了，反正是第二关（哦\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "上海紅茶館　～ Chinese Tea"
+zh-hans = "上海红茶馆　～ Chinese Tea"
+en = "Shanghai Scarlet Teahouse ~ Chinese Tea"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "上海红茶馆　～ Chinese Tea"
+page = "上海红茶馆　～ Chinese Tea"
+
+[soundtrack-list.commentary]
+ja = "３面テーマです。\n中華風に仕上げる予定でしたが、結果そんなでも無いようです(^^;\nでも曲は東洋風です。４面以降に東洋風の曲を作ることが出来なさ\nそうだったので、ここでつくっときました(^^;\nちょっと元気のある曲です。"
+zh-hans = "３面的主题曲。\n虽然是打算作成中华风的，结果好像不是这样(^^;\n不过曲是东洋风的。第四关以后好像做不了东洋风了，就在这里作了\n(^^;\n有些元气的曲子。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "明治十七年の上海アリス"
+zh-hans = "明治十七年的上海爱丽丝"
+en = "Shanghai Alice of Meiji 17"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "红美铃",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "红魔乡音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[红美铃]]主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "明治十七年的上海爱丽丝"
+page = "明治十七年的上海爱丽丝"
+
+[soundtrack-list.commentary]
+ja = "紅　美鈴（ホン・メイリン）のテーマです。\nこの曲は、ちょっと昔に創った曲だけど、冬コミに落ちて発表の場\nが無かったのでリサイクルしました。地球に優しいです。\n中華でも何でも無いあたりがアレです。上海のフランス租界をイメ\nージしているからです。\nもっとも、美鈴も人間では無いみたいだけど、何者なんだろう（ぉ"
+zh-hans = "红美铃的主题曲。\n这曲子，虽然是创作了有些时候的曲子，但是冬CM落选后没有发表\n的场合就再回收利用了。对地球有好处。\n不是中华也不是其他什么因为那个。是因为要\n上海法兰西租界的印象。\n不过，美铃也好像不是人类，是什么东西呢（喂\n"
+
+[title]
+ja = "東方紅魔郷 〜 the Embodiment of Scarlet Devil."
+en = "Touhou Koumakyou ~ The Embodiment of Scarlet Devil"
+zh = "東方紅魔鄉 ～ the Embodiment of Scarlet Devil."
+zh-hans = "东方红魔乡 ～ the Embodiment of Scarlet Devil."

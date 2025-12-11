@@ -1,0 +1,694 @@
+threlease = "TH20"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "錦の上の巫女"
+zh-hans = "锦上巫女"
+en = "Shrine Maiden Crowned with Glory"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "锦上巫女"
+page = "锦上巫女"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\nゲームタイトル通り、優美な感じを出しました。\nゲームの内容的には、切迫した不穏さが爆発していて、\nそんな優美な感じでも無いんですけどね。\nでも、タイトル画面位は気持ちいい方が良いですよね。"
+zh-hans = "标题画面的主题曲。\n\n这支曲子正如游戏标题一般，表现了优雅的感觉。\n虽说游戏全程都是迫在眉睫的危机大爆发，\n这份优雅也荡然无存就是了。\n不过，至少在标题画面还是令人舒心的音乐比较好吧。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "愛おしき塵の住処"
+zh-hans = "所爱所怜的凡尘居所"
+en = "Beloved Dwelling of Dust"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "所爱所怜的凡尘居所"
+page = "所爱所怜的凡尘居所"
+
+[soundtrack-list.commentary]
+ja = "１面のテーマです。\n\n軽快さの中に決意のような物を感じる曲になりました。\nサビの儚さと憂鬱さは、このゲームのストーリー観を\n表しているかの様です。\nちなみに塵の住処とは、俗世間の事です。やっぱり俗だよね。"
+zh-hans = "1面的主题曲。\n\n这支曲子写成了在轻快中隐约透露着决意的感觉。\n副歌部分的虚幻与忧郁，\n也许是本作故事基调的体现吧。\n顺带一提，所谓的凡尘居所是俗世的意思。果然很俗呢。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "例え世界から忘れられても"
+zh-hans = "即便为世间所遗忘"
+en = "Even if Forgotten by the World"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "尘塚姥芽",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[尘塚姥芽]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "即便为世间所遗忘"
+page = "即便为世间所遗忘"
+
+[soundtrack-list.commentary]
+ja = "塵塚ウバメのテーマです。\n\n一面らしい軽快さに、ハードでダークな雰囲気をもりもりに\nしました。彼女は山姥の王という格好良い設定を持っていま\nすが、家に帰れなくなって困っているという情けない場面で\n霊夢達と出会うことになります。不憫です。"
+zh-hans = "尘塚姥芽的主题曲。\n\n我在一面应有的轻快感中，塞满了硬质而黑暗的氛围。\n她拥有山姥之王这个酷炫的设定，\n却在回不了家一筹莫展的尴尬时刻遭遇了灵梦一行。\n怪可怜的。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "セイクリッドフォレスト"
+zh-hans = "Sacred Forest"
+en = "Sacred Forest"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Sacred Forest"
+page = "Sacred Forest"
+
+[soundtrack-list.commentary]
+ja = "２面のテーマです。\n\n一定のリズムでずっと流れているピアノメロディが、\n独特な雰囲気を醸し出していて気に入っています。\n上空から見たら昼なのに、森の中からは夜という不思議は\nどうやったら実現出来るのか、気になっています。"
+zh-hans = "2面的主题曲。\n\n节奏稳定的钢琴旋律贯穿始终，\n营造出独特的氛围令我很中意。\n从上空俯瞰明明是白昼，来到林间却成了夜晚\n这不可思议的现象究竟是如何实现的，实在令人在意。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "森にはお化けがいるよ"
+zh-hans = "森林里面有鬼怪哦"
+en = "There's a Monster in the Woods"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "封兽魑魅",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[封兽魑魅]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "森林里面有鬼怪哦"
+page = "森林里面有鬼怪哦"
+
+[soundtrack-list.commentary]
+ja = "封獣チミのテーマです。\n\n正体不明の妖怪です。曲も思い切りの良さだけ作ったので、\n出来上がるまでどうなるか判らなかった正体不明曲です。\n意味深な存在ですが、妖怪が学問になる前から存在していた\n純粋なもののけです。幻想郷にはそういうのも居ます。"
+zh-hans = "封兽魑魅的主题曲。\n\n她是原形不明的妖怪。而这支曲子也是彻头彻尾的一挥而就，\n可谓是在完成之前都不知道会写成什么样子的原形不明的曲子。\n她的来历不小，是在妖怪的学问形成体系之前便已存在的\n纯粹物怪。幻想乡也是有这种角色的。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "プレステ・ジョアンの黄金境"
+zh-hans = "祭司王约翰的黄金境"
+en = "Golden Land of Prester John"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "祭司王约翰的黄金境"
+page = "祭司王约翰的黄金境"
+
+[soundtrack-list.commentary]
+ja = "３面のテーマです。\n\n異国感と冒険感を持たせた前半と、祭壇発見後の畏怖と\n寂寥感を感じさせる後半の２パートに曲が分かれてます。\n今の世界で冒険譚なんてもう成立しないかも、と思うと\n寂しくなりますね。せめて霊夢達だけでも冒険させたいです。"
+zh-hans = "3面的主题曲。\n\n这支曲子分为两个部分，前半部分洋溢着异国感和冒险感\n后半部分则传达了发现祭坛后的畏惧与寂寥之情。\n在如今的世界冒险谭也许已经没有立足之地了，这样想来\n实在是令人寂寞呢。至少让灵梦一行享受一番冒险吧。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "どうせなら命を賭けて謎を解け"
+zh-hans = "事已至此就赌上性命来猜谜吧"
+en = "Might as Well Stake Your Life to Solve the Riddle"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "道神驯子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[道神驯子]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "事已至此就赌上性命来猜谜吧"
+page = "事已至此就赌上性命来猜谜吧"
+
+[soundtrack-list.commentary]
+ja = "道神 馴子のテーマです\n\n無駄に格好良い曲です。元祖、謎解き王スフィンクスの\n真似をしてますが、彼女の正体は、道ばたで見つけると\nほっこりするあの道祖神です。ほっこりしますよね。\nサビは今作全体の雰囲気を上手く表現できていると思ってます。"
+zh-hans = "道神驯子的主题曲。\n\n这是支帅气过头的曲子。虽说是在模仿老祖宗猜谜王里的\n斯芬克斯，但她的本尊，其实就是那个在路边看到了就会\n心头一暖的道祖神而已。听来确实会心头一暖吧。\n我想这支曲子的副歌应该很好地表现出了本作的整体氛围。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "フォーカラーラビリンス"
+zh-hans = "Four-Color Labyrinth"
+en = "Four-Color Labyrinth"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Four-Color Labyrinth"
+page = "Four-Color Labyrinth"
+
+[soundtrack-list.commentary]
+ja = "４面のテーマです\n\nスピード感のあるミステリアスな曲です。\nピラミッドだからといって、安易にエジプト伝統的な曲調に\nならないようにしました。それでいて異国のような、和風な\nような不思議なメロディはまさにラビリンス。"
+zh-hans = "4面的主题曲。\n\n这是支速度感与神秘氛围兼具的曲子。\n虽说曲子主题是金字塔，但我着意避免了轻率引入埃及传统\n曲风。话虽如此，半是异国情调、半是和风意趣的奇妙旋律，\n可谓是恰如蜿蜒曲折的迷宫一般。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "鹿狩りのレミニセンス"
+zh-hans = "猎鹿旧忆回潮"
+en = "Reminiscence of Deer-Hunting"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "维缦·浅间",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "[[{{维缦}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "猎鹿旧忆回潮"
+page = "猎鹿旧忆回潮"
+
+[soundtrack-list.commentary]
+ja = "ユイマン・浅間のテーマです\n\n出来上がるまでどんな曲にするのか自分でも決めないで、\n鹿狩りの精神（？）が導くままに創りました。\nその結果、ピアノの旋律がかっこいい曲に落ち着きました。\n結果としていつも通りな曲な気がして驚いています。"
+zh-hans = "{{维缦}}的主题曲。\n\n在落成之前我自己也没想好要写成什么样，\n所以这支曲子完全是在猎鹿精神（？）的指引下写就的。\n结果就诞生了这么一支拥有帅气钢琴旋律的曲子。\n就结果而言，成品好像还是一如既往的感觉，这实在令人惊讶。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "記憶の深海に沈む少女"
+zh-hans = "沉入记忆深海的少女"
+en = "The Maiden Sinking into the Deep Sea of Memory"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "沉入记忆深海的少女"
+page = "沉入记忆深海的少女"
+
+[soundtrack-list.commentary]
+ja = "５面のテーマです\n\n数少ない海感を出していい曲なので楽しみました。\n懐かしさと可愛らしさに重点を置いています。\nなぜか少し没入できる酩酊感があるのは、実際に作曲時に\n酩酊していたからだと思います……。"
+zh-hans = "5面的主题曲。\n\n这是少数营造出海洋氛围的好曲子之一，所以我写得很开心。\n这支曲子着重表现了怀念与可爱的感觉。\n要问为什么曲子带着一丝引人沉醉的酩酊感，我想大概是因为\n作曲的时候我确实正在酩酊大醉……。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "綿月のスペルカード　～ 神海戦"
+zh-hans = "绵月的符卡　～ 神海战"
+en = "Watatsuki's Spell Card ~ Divine Sea Battle"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "绵月丰姬",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面BOSS",
+    "[[绵月丰姬]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "绵月的符卡　～ 神海战"
+page = "绵月的符卡　～ 神海战"
+
+[soundtrack-list.commentary]
+ja = "綿月 豊姫のテーマです\n\n書籍についていた超マイナー曲の精神的アレンジ版です。\n元の曲とはだいぶ雰囲気が違うのは、元の曲を聞かないで\n完全にうろ覚えアレンジしたからです（笑）\n余裕のある戦闘曲という感じで気持ちいいです。"
+zh-hans = "绵月丰姬的主题曲。\n\n这是书籍附赠的超冷门曲目的精神重编曲版。\n重编版本和原曲氛围大相径庭，是因为我没听原曲\n纯粹靠脑内模糊的印象重编的（笑）。\n这支曲子给人一种游刃有余的战斗曲的感觉，听来十分爽快。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ピラミッドの神域"
+zh-hans = "金字塔的神域"
+en = "Sacred Precincts of the Pyramid"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "金字塔的神域"
+page = "金字塔的神域"
+
+[soundtrack-list.commentary]
+ja = "６面のテーマです\n\n悲しさと不気味さと心細さとー……。と終盤らしい曲です。\n\nピラミッドの底に謎の神社があったらワクワクするよね。\nま、そんな場面に出くわすことはないんでしょうけど。"
+zh-hans = "6面的主题曲。\n\n交织着悲伤、诡异与不安，以及……。\n总之是这样一首很有终局氛围的曲子。\n\n在金字塔下发现一座神秘神社，很激动人心对吧。\n虽然这种场面大概是见不到的啦。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "最後の一人は慣れてるから　～ Stone Goddess"
+zh-hans = "早已习惯最终孑然一身　～ Stone Goddess"
+en = "Because I'm Used to Being the Last One Left ~ Stone Goddess"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "磐永阿梨夜",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面BOSS",
+    "[[磐永阿梨夜]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "早已习惯最终孑然一身　～ Stone Goddess"
+page = "早已习惯最终孑然一身　～ Stone Goddess"
+
+[soundtrack-list.commentary]
+ja = "磐永 阿梨夜のテーマです\n\nピラミッドの底に封印されている死ぬ事も生きる事も\n出来ない石の女神。これに合うのはもうヴォーカル曲\nしなかいな、と思いながらインスト曲を作りました（笑）\nメロディアスなサビは必聴です。"
+zh-hans = "磐永阿梨夜的主题曲。\n\n她是被封印在金字塔底的石之女神，无法死去，也无法生还。\n和这一身份相称的曲子是非声乐莫属了吧，\n但抱着这个念头最终写出来的还是纯音乐（笑）。\n悠扬美妙的副歌不容错过哦。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ファンタスティックドリフト"
+zh-hans = "Fantastic Drift"
+en = "Fantastic Drift"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Fantastic Drift"
+page = "Fantastic Drift"
+
+[soundtrack-list.commentary]
+ja = "エキストラステージのテーマです\n\n不思議と浮遊感のある曲になりました。\n本編ラストの重さから一変して、軽い曲調ですが\nどこか切ない感じは何故か残ったままです。\nところどころにある東洋風なエッセンスがお気に入りです。"
+zh-hans = "EXTRA关卡的主题曲。\n\n这支曲子给人一种不可思议的浮游感。\n曲子一扫主线结尾的沉重，采用了轻快的曲调，\n但怅然若失的感觉却不知为何遗留了下来。\n我很中意这支曲子中四处点缀的东洋风要素。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "二枚貝の上のハルシネーション"
+zh-hans = "双壳贝上的幻觉"
+en = "Hallucination Atop a Bivalve"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "渡里贝子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[{{渡里}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "双壳贝上的幻觉"
+page = "双壳贝上的幻觉"
+
+[soundtrack-list.commentary]
+ja = "渡里ニナのテーマです\n\nユイマンの曲と同じく、出来上がりのイメージを決めないで\n思うがままに作りました。和音もコードも音色も何もかも\nセオリーを無視して自由に弾いた結果、意外と纏まりが\nいいです（笑）　世の中不思議だらけです。"
+zh-hans = "{{渡里}}的主题曲。\n\n这支曲子和维缦的曲子一样，没有事先决定风格，是随性\n而作的。和弦也好音色也罢全都抛诸脑后，无视一切音乐理论\n率性弹奏一通，成品却出乎意料地和谐（笑）。\n真是世间多奇妙呀。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "不変の日常"
+zh-hans = "不变的日常"
+en = "Unchanging Daily Life"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending主题曲1",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending主题曲1",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "不变的日常"
+page = "不变的日常"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマ１です\n\n主にバッドエンディングで使われてます。\n変化の薄い、けだるい日常をイメージしてます。"
+zh-hans = "结局主题曲1号。\n\n主要用于坏结局。\n这支曲子表现的是缺乏变化、令人倦怠的日常光景。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "愛おしき日常"
+zh-hans = "所爱所怜的日常"
+en = "Beloved Daily Life"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending主题曲2",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending主题曲2",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "所爱所怜的日常"
+page = "所爱所怜的日常"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマ２です\n\nグッドエンディングの曲です。\nこれはいつもの曲の雰囲気ですね。\n日常が戻ってきた感じです"
+zh-hans = "结局主题曲2号。\n\n这是用于好结局的曲子。\n这支曲子就是一如既往的风格呢。\n有种重新回归日常生活的感觉。"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "生と死のある世界へ"
+zh-hans = "迈向生死更迭的世界"
+en = "To a World With Life and Death"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "锦上京音乐名",
+    18,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "迈向生死更迭的世界"
+page = "迈向生死更迭的世界"
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです\n\n阿梨夜の曲のアレンジです。\nもともとメロディアスなので\nエンディングにも向いてますね。"
+zh-hans = "制作人员名单的主题曲。\n\n这是阿梨夜的曲子的重编曲版本。\n原曲就是悠扬美妙的风格，\n所以也很适合作为结局曲目呢。"
+
+[title]
+ja = "東方錦上京 〜 Fossilized Wonders."
+en = "Touhou Kinjoukyou ~ Fossilized Wonders"
+zh = "东方锦上京 ～ Fossilized Wonders."
+zh-hans = "东方锦上京 ～ Fossilized Wonders."

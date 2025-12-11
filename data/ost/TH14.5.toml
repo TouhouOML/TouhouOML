@@ -1,0 +1,1387 @@
+threlease = "TH14.5"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "二色蓮花蝶 ～ Red and White"
+zh-hans = "二色莲花蝶 ～ Red and White"
+en = "Dichromatic Lotus Butterfly ~ Red and White"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "博丽灵梦",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "博丽神社",
+]
+
+[soundtrack-list.composer]
+ja = "コンプ([[豚乙女]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = コンプ，コンプ，パプリカ|乐器 = Guitar，Bass，Piano}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[博丽灵梦]]角色曲",
+    "[[博丽神社]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "二色莲花蝶 ～ Red and White"
+page = "二色莲花蝶 ～ Red and White"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "恋色マスタースパーク"
+zh-hans = "恋色Master spark"
+en = "Love-Colored Master Spark"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "雾雨魔理沙",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "香霖堂",
+]
+
+[soundtrack-list.composer]
+ja = "oiko"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[雾雨魔理沙]]角色曲",
+    "[[香霖堂]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "恋色Master spark"
+page = "恋色Master spark"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "時代親父とハイカラ少女"
+zh-hans = "守旧老爹与前卫少女"
+en = "The Traditional Old Man and the Stylish Girl"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "云居一轮",
+    "云山",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "云上的宝船",
+]
+
+[soundtrack-list.composer]
+ja = "しゃばだば([[Sound CYCLONE]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = しゃばだば，sou，HearTribe|乐器 = Guitar，Bass，Piano}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[云居一轮]]&[[云山]]角色曲",
+    "[[云上的宝船]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "守旧老爹与前卫少女"
+page = "守旧老爹与前卫少女"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "感情の摩天楼　～ Cosmic Mind"
+zh-hans = "感情的摩天楼　～ Cosmic Mind"
+en = "Emotional Skyscraper ~ Cosmic Mind"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "圣白莲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "命莲寺",
+]
+
+[soundtrack-list.composer]
+ja = "NYO([[Silver Forest]])\n<small>{{乐器演奏列表|演奏 = NYO|乐器 = Guitar}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[圣白莲]]角色曲",
+    "[[命莲寺]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "感情的摩天楼　～ Cosmic Mind"
+page = "感情的摩天楼　～ Cosmic Mind"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "大神神話伝"
+zh-hans = "大神神话传"
+en = "Omiwa Legend"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "物部布都",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "梦殿大祀庙（场景）",
+]
+
+[soundtrack-list.composer]
+ja = "鯛の小骨"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[物部布都]]角色曲",
+    "[[梦殿大祀庙（场景）|梦殿大祀庙]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "大神神话传"
+page = "大神神话传"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "聖徳伝説　～ True Administrator"
+zh-hans = "圣德传说　～ True Administrator"
+en = "Shoutoku Legend ~ True Administrator"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "丰聪耳神子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "神灵庙（场景）",
+]
+
+[soundtrack-list.composer]
+ja = "鷹([[CROW'SCLAW]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = 鷹，鷹|乐器 = Guitar，Bass}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[丰聪耳神子]]角色曲",
+    "[[神灵庙（场景）|神灵庙]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "圣德传说　～ True Administrator"
+page = "圣德传说　～ True Administrator"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "芥川龍之介の河童　～ Candid Friend"
+zh-hans = "芥川龙之介的河童　～ Candid Friend"
+en = "Akutagawa Ryuunosuke's \"Kappa\" ~ Candid Friend"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "河城荷取",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "玄武涧",
+]
+
+[soundtrack-list.composer]
+ja = "ゆうゆ"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[河城荷取]]角色曲",
+    "[[玄武涧]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "芥川龙之介的河童　～ Candid Friend"
+page = "芥川龙之介的河童　～ Candid Friend"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ハルトマンの妖怪少女"
+zh-hans = "哈德曼的妖怪少女"
+en = "Hartmann's Youkai Girl"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "古明地恋",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "地灵殿（场景）",
+]
+
+[soundtrack-list.composer]
+ja = "岸田([[岸田教団]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = 岸田，岸田|乐器 = Guitar，Bass}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[古明地恋]]角色曲",
+    "[[地灵殿（场景）|地灵殿]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "哈德曼的妖怪少女"
+page = "哈德曼的妖怪少女"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻想郷の二ッ岩"
+zh-hans = "幻想乡的二岩"
+en = "Futatsuiwa from Gensokyo"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "二岩猯藏",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "妖怪狸森林",
+]
+
+[soundtrack-list.composer]
+ja = "秀三([[石鹸屋]])\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = 秀三，秀三|乐器 = Guitar，Bass}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{二岩}}]]角色曲",
+    "[[妖怪狸森林]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻想乡的二岩"
+page = "幻想乡的二岩"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "亡失のエモーション"
+zh-hans = "亡失的情感"
+en = "The Lost Emotion"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "秦心",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "人类村落",
+]
+
+[soundtrack-list.composer]
+ja = "どぶウサギ\n<small>{{乐器演奏列表|演奏阵列 = 是|演奏 = わさもん，JUN|乐器 = Guitar，Violin}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[秦心]]角色曲",
+    "[[人类村落]]（夜）",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "亡失的情感"
+page = "亡失的情感"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "月まで届け、不死の煙"
+zh-hans = "飘上月球，不死之烟"
+en = "Reach for the Moon, Immortal Smoke"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "藤原妹红",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "迷途竹林",
+]
+
+[soundtrack-list.composer]
+ja = "ziki_7"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[藤原妹红]]角色曲",
+    "[[迷途竹林]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "飘上月球，不死之烟"
+page = "飘上月球，不死之烟"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "輝く針の小人族　～ Little Princess"
+zh-hans = "辉光之针的小人族　～ Little Princess"
+en = "Inchlings of the Shining Needle ~ Little Princess"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "少名针妙丸",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "辉针城",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[少名针妙丸]]角色曲",
+    "[[辉针城]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "辉光之针的小人族　～ Little Princess"
+page = "辉光之针的小人族　～ Little Princess"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "心揺さぶる都市伝説"
+zh-hans = "震撼心灵的都市传说"
+en = "Heart-Stirring Urban Legends"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "震撼心灵的都市传说"
+page = "震撼心灵的都市传说"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幻想郷ふしぎ発見"
+zh-hans = "幻想乡不可思议发现"
+en = "Gensokyo Mystery Discovery"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "角色选择画面",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "角色选择画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幻想乡不可思议发现"
+page = "幻想乡不可思议发现"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ボールのある日常"
+zh-hans = "有珠子的日常"
+en = "An Everyday Life with Balls"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "有珠子的日常"
+page = "有珠子的日常"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "顕現した伝承の形"
+zh-hans = "显现的传承形态"
+en = "Forms of Manifested Folklore"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "显现的传承形态"
+page = "显现的传承形态"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "時代の風の訪れ"
+zh-hans = "时代风潮的造访"
+en = "Arrival of the Winds of the Era"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "时代风潮的造访"
+page = "时代风潮的造访"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "価値がわからない"
+zh-hans = "价值不明"
+en = "The Value Is Unrealized"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    18,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "价值不明"
+page = "价值不明"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "可能性を信じて"
+zh-hans = "相信可能性"
+en = "Believe in Possibilities"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    19,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "相信可能性"
+page = "相信可能性"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "真実を知る者"
+zh-hans = "知晓真相之人"
+en = "Those Who Know the Truth"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    20,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "知晓真相之人"
+page = "知晓真相之人"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "外界フォークロア"
+zh-hans = "外界民俗"
+en = "Outside World Folklore"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    21,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "外界民俗"
+page = "外界民俗"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "各々の結末"
+zh-hans = "各自的结局"
+en = "Each Ending"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    22,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "各自的结局"
+page = "各自的结局"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "明かされる深秘"
+zh-hans = "被揭晓的深秘"
+en = "The Arcane Is Revealed"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    23,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "被揭晓的深秘"
+page = "被揭晓的深秘"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "オカルトアラカルト"
+zh-hans = "灵异任你选"
+en = "Occult à la Carte"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに\n<small>{{乐器演奏列表|演奏 = JUN|乐器 = Violin}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    24,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "灵异任你选"
+page = "灵异任你选"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "七玉蒐集ショウダウン"
+zh-hans = "七玉搜集大摊牌"
+en = "Seven-Orb Collection Showdown"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    25,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "七玉搜集大摊牌"
+page = "七玉搜集大摊牌"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "公正なる奪い合い"
+zh-hans = "公正的争夺"
+en = "Fair Scramble"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    26,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "公正的争夺"
+page = "公正的争夺"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "対蹠地の鐘"
+zh-hans = "对跖点之钟"
+en = "Bell of the Antipodes"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに\n<small>{{乐器演奏列表|演奏 = JUN|乐器 = Violin}}</small>"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    27,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "对跖点之钟"
+page = "对跖点之钟"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "竹林インフレイム"
+zh-hans = "竹林大火"
+en = "Bamboo Forest in Flames"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    28,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "竹林大火"
+page = "竹林大火"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "華狭間のバトルフィールド"
+zh-hans = "华狭间的战场"
+en = "Battlefield of the Flower Threshold"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "茨木华扇",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "博丽神社",
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    29,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[茨木华扇]]角色曲",
+    "[[博丽神社|异变的神社]]",
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "华狭间的战场"
+page = "华狭间的战场"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ラストオカルティズム　～ 現し世の秘術師"
+zh-hans = "Last Occultism　～ 现世的秘术师"
+en = "Last Occultism ~ Esotericist of the Present World"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "宇佐见堇子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "外界",
+    "故事模式最终战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    30,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[宇佐见堇子]]角色曲",
+    "[[外界]]",
+    "故事模式最终战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Last Occultism　～ 现世的秘术师"
+page = "Last Occultism　～ 现世的秘术师"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "狂気の瞳　～ Invisible Full Moon"
+zh-hans = "狂气之瞳　～ Invisible Full Moon"
+en = "Lunatic Eyes ~ Invisible Full Moon"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "铃仙·优昙华院·因幡",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "永远亭",
+]
+
+[soundtrack-list.composer]
+ja = "ビートまりお([[COOL&CREATE ]])"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    31,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "[[{{铃仙}}]]角色曲",
+    "[[永远亭]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "狂气之瞳　～ Invisible Full Moon"
+page = "狂气之瞳　～ Invisible Full Moon"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ネオ竹林インフレイム"
+zh-hans = "新竹林大火"
+en = "Neo Bamboo Forest in Flames"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    32,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "新竹林大火"
+page = "新竹林大火"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "億万劫の鐘"
+zh-hans = "亿万劫之钟"
+en = "Bell of So Many Aeons"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    33,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "亿万劫之钟"
+page = "亿万劫之钟"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "オカルトアトラクト"
+zh-hans = "Occult Attract"
+en = "Occult Attract"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    34,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式战斗曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Occult Attract"
+page = "Occult Attract"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "境界フォークロア"
+zh-hans = "境界民俗"
+en = "Boundary Folklore"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    35,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "境界民俗"
+page = "境界民俗"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "境界フォークロア（後半）"
+zh-hans = "境界民俗（后半）"
+en = "Boundary Folklore (latter half)"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    36,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "境界民俗（后半）"
+page = "境界民俗（后半）"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "アンノウンＸ　～ Occultly Madness"
+zh-hans = "未知物Ｘ　～ Occultly Madness"
+en = "Unknown X ~ Occultly Madness"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "故事模式最终战斗曲（EXTRA）",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    37,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "故事模式最终战斗曲（EXTRA）",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "未知物Ｘ　～ Occultly Madness"
+page = "未知物Ｘ　～ Occultly Madness"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "相貌の狂い　～ Horrible Night"
+zh-hans = "容貌错乱　～ Horrible Night"
+en = "Madness of Visages ~ Horrible Night"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff后预告曲",
+]
+
+[soundtrack-list.composer]
+ja = "あきやまうに"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "深秘录音乐名",
+    38,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff后预告曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "容貌错乱　～ Horrible Night"
+page = "容貌错乱　～ Horrible Night"
+
+[soundtrack-list.commentary]
+
+[title]
+ja = "東方深秘録 〜 Urban Legend in Limbo."
+en = "Touhou Shinpiroku ~ Urban Legend in Limbo"
+zh = "东方深秘录 ～ Urban Legend in Limbo."
+zh-hans = "东方深秘录 ～ Urban Legend in Limbo."

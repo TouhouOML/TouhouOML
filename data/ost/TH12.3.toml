@@ -1,0 +1,874 @@
+threlease = "TH12.3"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "君はあの影を見たか"
+zh-hans = "你见到了那个影子吗"
+en = "Did You See That Shadow?"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "你见到了那个影子吗"
+page = "你见到了那个影子吗"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "萃夢想"
+zh-hans = "萃梦想"
+en = "Memory of Forgathering Dream"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "角色选择",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "角色选择",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "萃梦想"
+page = "萃梦想（曲目）"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "伝説の巨神"
+zh-hans = "传说的巨神"
+en = "The Legendary Titan"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲1",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲1",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "传说的巨神"
+page = "传说的巨神"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ぼくらの非想天則"
+zh-hans = "我们的非想天则"
+en = "Our Hisoutensoku"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲2",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲2",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "我们的非想天则"
+page = "我们的非想天则"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "人形のある風景"
+zh-hans = "人偶存在的风景"
+en = "Scenery with Dolls"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "对话曲3",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "对话曲3",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "人偶存在的风景"
+page = "人偶存在的风景"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "悠久の蒸気機関"
+zh-hans = "悠久的蒸汽机关"
+en = "The Eternal Steam Engine"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "悠久的蒸汽机关"
+page = "悠久的蒸汽机关"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "信仰は儚き人間の為に"
+zh-hans = "信仰是为了虚幻之人"
+en = "Faith Is for the Transient People"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "东风谷早苗",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "守矢神社",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "VS[[东风谷早苗]]",
+    "[[守矢神社]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "信仰是为了虚幻之人"
+page = "信仰是为了虚幻之人"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "おてんば恋娘"
+zh-hans = "活泼的纯情小姑娘"
+en = "Tomboyish Girl in Love"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "琪露诺",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "雾之湖",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "VS[[琪露诺]]",
+    "[[雾之湖]]边",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "活泼的纯情小姑娘"
+page = "活泼的纯情小姑娘"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "上海紅茶館　～ Chinese Tea"
+zh-hans = "上海红茶馆　～ Chinese Tea"
+en = "Shanghai Scarlet Teahouse ~ Chinese Tea"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "红美铃",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "间歇泉地下中心入口",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "VS[[红美铃]]",
+    "间歇泉地下中心入口",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "上海红茶馆　～ Chinese Tea"
+page = "上海红茶馆　～ Chinese Tea"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "霊知の太陽信仰　～ Nuclear Fusion"
+zh-hans = "灵知的太阳信仰　～ Nuclear Fusion"
+en = "Solar Sect of Mystic Wisdom ~ Nuclear Fusion"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "灵乌路空",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "间歇泉地下中心通道",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "VS[[灵乌路空]]",
+    "间歇泉地下中心通道",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "灵知的太阳信仰　～ Nuclear Fusion"
+page = "灵知的太阳信仰　～ Nuclear Fusion"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "明日ハレの日、ケの昨日"
+zh-hans = "明日之盛，昨日之俗"
+en = "Tomorrow Will Be Special, Yesterday Was Not"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "洩矢诹访子",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = []
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "VS[[洩矢诹访子]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "明日之盛，昨日之俗"
+page = "明日之盛，昨日之俗"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "アンノウンＸ　～ Unfound Adventure"
+zh-hans = "未知物Ｘ　～ Unfound Adventure"
+en = "Unknown X ~ Unfound Adventure"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "核聚变炉心",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "最终BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "最终BOSS",
+    "核聚变炉心",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "未知物Ｘ　～ Unfound Adventure"
+page = "未知物Ｘ　～ Unfound Adventure"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "空に浮かぶ物体Ｘ"
+zh-hans = "空中飘浮的物体Ｘ"
+en = "X, the Floating Object in the Sky"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "最后一战",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "最后一战",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "空中飘浮的物体Ｘ"
+page = "空中飘浮的物体Ｘ"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "二色蓮花蝶　～ Ancients"
+zh-hans = "二色莲花蝶　～ Ancients"
+en = "Dichromatic Lotus Butterfly ~ Ancients"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "博丽灵梦",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "博丽神社",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "VS[[博丽灵梦]]",
+    "[[博丽神社]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "二色莲花蝶　～ Ancients"
+page = "二色莲花蝶　～ Ancients"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "恋色マジック"
+zh-hans = "恋色Magic"
+en = "Love-Colored Magic"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "雾雨魔理沙",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "雾雨魔法店",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "VS[[雾雨魔理沙]]",
+    "[[雾雨魔法店]]",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "恋色Magic"
+page = "恋色Magic"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "the Grimoire of Alice"
+zh-hans = "the Grimoire of Alice"
+en = "the Grimoire of Alice"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "爱丽丝·玛格特洛依德",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "人偶森林",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "VS[[{{爱丽丝}}]]",
+    "人偶森林",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "the Grimoire of Alice"
+page = "the Grimoire of Alice"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ヴワル魔法図書館"
+zh-hans = "伏瓦鲁魔法图书馆"
+en = "Voile, the Magic Library"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "帕秋莉·诺蕾姬",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "红魔馆",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "VS[[{{帕秋莉}}]]",
+    "[[红魔馆]]大图书馆",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "伏瓦鲁魔法图书馆"
+page = "伏瓦鲁魔法图书馆"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "東方妖恋談"
+zh-hans = "东方妖恋谈"
+en = "Eastern Mystical Love Consultation (Century's End Version)"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "灵梦特殊曲目",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "非想天则音乐名",
+    18,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "灵梦特殊曲目",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "东方妖恋谈"
+page = "东方妖恋谈"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "日常坐臥"
+zh-hans = "日常坐卧"
+en = "Usual Days"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "原对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绯想天音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "原对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "日常坐卧"
+page = "日常坐卧"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "甲論乙駁"
+zh-hans = "甲论乙驳"
+en = "Argue for and Against"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "原对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绯想天音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "原对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "甲论乙驳"
+page = "甲论乙驳"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "風光明媚"
+zh-hans = "风光明媚"
+en = "Beautiful Nature Sight"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "原对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绯想天音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "原对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "风光明媚"
+page = "风光明媚"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "以魚駆蠅"
+zh-hans = "以鱼驱蝇"
+en = "Swing a Fish to Drive Away Flies"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "原对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绯想天音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "原对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "以鱼驱蝇"
+page = "以鱼驱蝇"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "冷吟閑酔"
+zh-hans = "冷吟闲醉"
+en = "Drunk as I Like"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "原对话曲",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绯想天音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "原对话曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "冷吟闲醉"
+page = "冷吟闲醉"
+
+[soundtrack-list.commentary]
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "暮色蒼然"
+zh-hans = "暮色苍然"
+en = "Darkening Dusk"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "原Ending",
+]
+
+[soundtrack-list.composer]
+ja = "U2"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "绯想天音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "原Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "暮色苍然"
+page = "暮色苍然"
+
+[soundtrack-list.commentary]
+
+[title]
+ja = "東方非想天則 〜 超弩級ギニョルの謎を追え"
+en = "Touhou Hisoutensoku"
+zh = "东方非想天则 ～ 追寻特大型人偶之谜"
+zh-hans = "东方非想天则 ～ 追寻特大型人偶之谜"

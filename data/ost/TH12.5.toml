@@ -1,0 +1,264 @@
+threlease = "TH12.5"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ニュースハウンド"
+zh-hans = "Newshound"
+en = "Newshound"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖DS音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Newshound"
+page = "Newshound"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\nいつも通りの曲ですが、いつでも出撃可能状態といった感じを\n入れました。\nいつものゲームよりメニュー画面になってる率が高いしねー。"
+zh-hans = "标题画面的主题。\n\n虽然依旧是那首曲子\n但在其中我还混入了随时都能出击的感觉。\n玩家盯着菜单画面的频率会比进行通常游戏的还要高呢——\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "あなたの町の怪事件"
+zh-hans = "你所在之城的怪事"
+en = "The Mystery in Your Town"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第一首取材主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖DS音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第一首取材主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "你所在之城的怪事"
+page = "你所在之城的怪事"
+
+[soundtrack-list.commentary]
+ja = "取材のテーマ１です。\nまだ取材が穏やかだった頃のテーマです。意気揚々として元気な\n感じを出しました。\n一応、初心者向けステージのテーマとなります。\n１ステージクリアする時間より曲の方が長いので、上手い人なら\n前奏だけで終わってしまうかもね。"
+zh-hans = "取材的主题曲１。\n这是在取材还比较轻松的阶段使用的主题。\n不说是意气风发也让人感到很有精神。\n这个，姑且算是初学者向关卡的主题曲。\n曲子比完成１关的时间还要长，熟练的玩家说不定只需要前奏的\n工夫就能搞定收工呢。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖怪モダンコロニー"
+zh-hans = "现代妖怪殖民地"
+en = "Youkai Modern Colony"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第二首取材主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖DS音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第二首取材主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "现代妖怪殖民地"
+page = "现代妖怪殖民地"
+
+[soundtrack-list.commentary]
+ja = "取材のテーマ２です。\nここから妖怪の質も変化し中級編に入ります。\n古典的な妖怪が多めの中級編。威厳を失った妖怪達が幻想郷の影で\n楽しく暮らす様は、まるで妖怪のスペースコロニーのようです。\nそんな妖怪達をガシガシ取材して、表舞台に立たせてあげましょう。\nまだまだ余裕、余裕。"
+zh-hans = "取材的主题曲２。\n这里开始妖怪发生了质的改变，进入了中级篇。\n中级篇里古典的妖怪居多。失去了威严的妖怪们在幻想乡远离\n喧嚣的角落快乐地生活着，这情景就如同妖怪的宇宙殖民地一般。\n纠缠不休地对这些妖怪们取材，让世人了解她们吧。\n轻松，还很轻松呀。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "ネメシスの要塞"
+zh-hans = "复仇女神的要塞"
+en = "Nemesis' Stronghold"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第三首取材主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖DS音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第三首取材主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "复仇女神的要塞"
+page = "复仇女神的要塞"
+
+[soundtrack-list.commentary]
+ja = "取材のテーマ３です。\nさあさあ上級編です。この辺から撮影枚数三桁はザラですよねー。\n手強そうな取材相手に立ち向かう姿をイメージして書きました。\nちょっと男前そうなメロディですか、音やリズムでほんのりと\n可愛い感じが出てるかと思います。\nいやあ、上級は手強いぜ。"
+zh-hans = "取材的主题曲３。\n来～到上级篇啦。从这里开始拍摄张数上三位数已经不稀奇了呢。\n想象面对着不好对付的目标时文的身姿而做出的曲子。\n旋律给人有点英姿飒爽的感觉\n但和音符与节奏间却又微微地透出一缕可爱的感觉，不是吗？\n哎呀，上级很难对付啦。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "無間の鐘　～ Infinite Nightmare"
+zh-hans = "无间之钟　～ Infinite Nightmare"
+en = "Bell of Avici ~ Infinite Nightmare"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第四首取材主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖DS音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第四首取材主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "无间之钟　～ Infinite Nightmare"
+page = "无间之钟　～ Infinite Nightmare"
+
+[soundtrack-list.commentary]
+ja = "取材のテーマ４です。\nその鐘を鳴らすと現世では幸せを得られるが、来世は絶え間なく苦\nが続く最悪の地獄、無間（むけん）地獄におちるという無間の鐘。\n恐らく多くの人が、最も長時間聞くはめになる曲ですのでメリハリ\nを抑えて疲れにくい感じにしました。\nまさに無間地獄。フハハハ、精々頑張るんだな！<ref>出自《文明4》最高难度的日文解说。原文为“フハハハ、せいぜい頑張るんだな！”</ref>"
+zh-hans = "取材的主题曲４。\n无间之钟，敲响它的时候也就代表着现世能够得到幸福\n但来世却必将坠入痛苦持续无间的最可怕地狱——无间地狱。\n大概是，压迫着大部分人鼓膜时间最长的曲子\n所以削弱了曲子中的落差从而听起来不易产生疲劳。\n真可谓无间地狱。呵哈哈哈，就给我好好努力吧！\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖怪の山　～ Mysterious Mountain"
+zh-hans = "妖怪之山　～ Mysterious Mountain"
+en = "Youkai Mountain ~ Mysterious Mountain"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "第五首取材主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖DS音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "第五首取材主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖怪之山　～ Mysterious Mountain"
+page = "妖怪之山　～ Mysterious Mountain"
+
+[soundtrack-list.commentary]
+ja = "取材のテーマ５です。\n天狗同士の醜い争いのテーマです。\nって、実は二人は仲が悪いわけではなく、ただ単に修行しあって\n撮影技術の向上に努めているだけなんですよね。\n一応、最終レベルですが難易度は決して高くないので、ここまで\n来た方には楽勝でしょう。"
+zh-hans = "取材的主题曲５。\n描述天狗同类之间丑陋争斗的主题。\n嗯，其实两个人也并不是关系很差，只不过是互相修行\n努力提高各自的拍照技术罢了呀。\n虽然姑且算是最终级别但绝不表示难度很高\n所以能来到这里的玩家应该都能轻松应对的吧。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "曲名不詳"
+zh-hans = "曲名不详"
+en = "Untitled"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "通关画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "文花帖DS音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "通关画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "曲名不详"
+page = "曲名不详"
+
+[soundtrack-list.commentary]
+
+[title]
+ja = "ダブルスポイラー 〜 東方文花帖"
+en = "Double Spoiler ~ Touhou Bunkachou"
+zh = "Double Spoiler ～ 東方文花帖"
+zh-hans = "Double Spoiler ～ 东方文花帖"

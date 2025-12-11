@@ -1,0 +1,658 @@
+threlease = "TH12"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "青空の影"
+zh-hans = "青空之影"
+en = "A Shadow in the Blue Sky"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    1,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "标题画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "青空之影"
+page = "青空之影"
+
+[soundtrack-list.commentary]
+ja = "タイトル画面のテーマです。\n\nまあいつもの感じで。\nちょっとすかした感じにしてみました。\n上を向いて歩きたいけど、変な人に見られるのが怖いので\n前を向いて歩きます。"
+zh-hans = "标题画面的主题曲。\n\n这次也是与以往一样的感觉。\n尝试做出些许空灵感。\n会有向高处前进的冲动，但被当成奇怪的人不太妙\n所以只好向前迈步走去。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "春の湊に"
+zh-hans = "春之港湾"
+en = "At the Harbor of Spring"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    2,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "春之港湾"
+page = "春之港湾"
+
+[soundtrack-list.commentary]
+ja = "１面のテーマです。\n\n軽快で気持ちの良い曲で始めたかったのでこんな感じに。\nやっぱさ、シューティングって明るい方がよくない？\nと、その時の気分で趣味嗜好が変わる人間が言ってもねぇ。\n曲は爽やかです。窓から飛び出したくなるくらい。"
+zh-hans = "１面的主题曲。\n\n因为想用轻快而且舒服的曲子来开始所以就做成了这种感觉。\n果然嘛,弹幕射击就是要明快的才好吧？\n虽然这话是个会根据心情来改变兴趣爱好的人说的。\n曲子非常的爽快。爽快到几乎想从窗户冲出去。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "小さな小さな賢将"
+zh-hans = "小小的贤将"
+en = "A Tiny, Tiny, Clever Commander"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "娜兹玲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "1面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    3,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "1面BOSS",
+    "[[{{Naz}}]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "小小的贤将"
+page = "小小的贤将"
+
+[soundtrack-list.commentary]
+ja = "ナズーリンのテーマです。\n\nボスっぽい曲でしょ？　見た目はともかく。\n昔自分が入っているこたつの中に、ネズミが入ってきた事がある。\n噛まれた事もある。血が止まらなくなって小学校休んだなぁ。\nネズミは実際強いし、危ないよ。見た目はともかく。"
+zh-hans = "{{Naz}}的主题曲。\n\n很有BOSS感觉的一曲吧？　虽然BOSS看上去不怎么样。\n曾经有过自己的被炉里闯进老鼠的事。\n小学时也试过被咬。血流不止，还因此休息了没去上学。\n实际上老鼠是很强、很危险的哟。虽然看上去不怎么样。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "閉ざせし雲の通い路"
+zh-hans = "封闭的云中通路"
+en = "The Sealed Cloud Route"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    4,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "封闭的云中通路"
+page = "封闭的云中通路"
+
+[soundtrack-list.commentary]
+ja = "２面のテーマです。\n\n１面とは異なった浮遊感を出してみました。\n妖怪がいるであろう雲の中を泳いでいます。\n想像すると気持ちよさそうだけど、実際は寒いだろうね。\n服が凍ったりするんじゃないかな。ガッツ足りるかなぁ。"
+zh-hans = "２面的主题曲。\n\n尝试着表现出与１面不同的浮游感。\n在应该会有妖怪出现的云层里穿梭。\n想想的话感觉应该会很好，实际上会很冷吧。\n衣服会不会被冻住呢。干劲还足么。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "万年置き傘にご注意を"
+zh-hans = "请注意万年备用伞"
+en = "Beware the Umbrella Left There Forever"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "多多良小伞",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "2面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    5,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "2面BOSS",
+    "[[多多良小伞]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "请注意万年备用伞"
+page = "请注意万年备用伞"
+
+[soundtrack-list.commentary]
+ja = "多々良 小傘のテーマです。\n\n傘って、一生のうちに何本買っちゃうんだろうか。\n電車に置き忘れたり、出先での突然の雨にビニール傘を買ったり。\nそれはともかく、楽しげなのに急に気分が落ち込んだりするという\n勝手な唐傘お化けのイメージで作りました。"
+zh-hans = "多多良　小伞的主题曲。\n\n伞这种东西，我们一辈子里到底会买多少把呢。\n有时候会忘在电车里，有时也会因为突然下雨而去买便利店的伞。\n那个姑且不谈，这是首根据印象里喜怒无常的\n任性的唐伞妖怪而做成的曲子。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "スカイルーイン"
+zh-hans = "Sky Ruin"
+en = "Sky Ruin"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    6,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Sky Ruin"
+page = "Sky Ruin"
+
+[soundtrack-list.commentary]
+ja = "３面のテーマです。\n\n軽快さを失わずに、ちょっと謎めいた雰囲気を出してみました。\n空中に浮かぶと言えばやはりラピュタですが――のくだりは、もう\nやりましたね。\nでは廃墟と言えば……やはりラピュ"
+zh-hans = "３面的主题曲。\n\n尝试着衬托出不失轻快的同时也带些迷离的气氛。\n说到漂浮在空中的，当然就是天空之城拉普达吧——本来是它\n但人类已经做出来了<ref>指空间站，在[[全人类的天乐录/光盘#ZUN|全人类的天乐录]]中提到过</ref> 。\n那么说到废墟……当然就是拉普\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "時代親父とハイカラ少女"
+zh-hans = "守旧老爹与前卫少女"
+en = "The Traditional Old Man and the Stylish Girl"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "云山",
+    "云居一轮",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "3面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    7,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "3面BOSS",
+    "[[云山]]&[[云居一轮]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "守旧老爹与前卫少女"
+page = "守旧老爹与前卫少女"
+
+[soundtrack-list.commentary]
+ja = "雲居 一輪＆雲山のテーマです。\n\n楽しいキャラだったので、曲も楽しげで古くさい感じにしました。\n馬鹿っぽかったり、時折センチになったり素敵です。\n雲山は雲で出来ていますので、同時に二人以上出てきても同時に\n腕が四本出てきても気にする必要はありません。眼力フラッシュ！"
+zh-hans = "云居　一轮＆云山的主题曲。\n\n因为都是欢乐的角色，所以曲子也做成了欢快而且古老的感觉。\n有时像个笨蛋，偶尔又变得机敏非常，真不错。\n由于云山是由云组成的，所以同时出现两个云山啊，\n拳头出来四个什么的不要在意。眼力闪光！\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "幽霊客船の時空を越えた旅"
+zh-hans = "幽灵客船的穿越时空之旅"
+en = "Interdimensional Voyage of a Ghostly Passenger Ship"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    8,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "幽灵客船的穿越时空之旅"
+page = "幽灵客船的穿越时空之旅"
+
+[soundtrack-list.commentary]
+ja = "４面のテーマです。\n\n旅って良いですよね。乗り物に乗っている時が一番ワクワクする。\n例えそれが、よく沈没する事で有名な幽霊船長の船だとしても。\nこの曲は出来るだけ期待と不安が入り交じった、ワクワク感を出し\nて見ました。"
+zh-hans = "４面的主题曲。\n\n旅行真好呢。坐上交通工具出发的时候最兴奋了。\n即使那是因沉没事件而著名的幽灵船长的船也好。\n这首曲子尽量表现了期待与不安交织而出的心跳感。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "キャプテン・ムラサ"
+zh-hans = "Captain Murasa"
+en = "Captain Murasa"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "村纱水蜜",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "4面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    9,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "4面BOSS",
+    "[[村纱水蜜]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "Captain Murasa"
+page = "Captain Murasa"
+
+[soundtrack-list.commentary]
+ja = "村紗 水蜜のテーマです。\n\nよく沈没する事で有名な舟幽霊の船長です。\n曲はキャプテンってイメージで作ったので、無駄に格好良いです。\nしかしみんなムラサって呼ぶけど、ムラサのは妖怪の名前なので\n実は名前で呼ばれていないというオチが。"
+zh-hans = "村纱　水蜜的主题曲。\n\n因为沉没事件而著名的幽灵船长。\n曲子的风格由对船长的印象而来，因此显得很酷。\n但是大家都用村纱这个妖怪的名字来称呼她，\n所以基本没有用本名来称呼她的。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "魔界地方都市エソテリア"
+zh-hans = "魔界地方都市秘境"
+en = "Rural Makai City Esoteria"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    10,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "魔界地方都市秘境"
+page = "魔界地方都市秘境"
+
+[soundtrack-list.commentary]
+ja = "５面のテーマです。\n\n変則的なリズムの曲ですが意外とノリノリです。魔界っぽい感じ。\nプレイ中の効果音と共に聞くと、途中からの盛り上がりが激しい\nので、是非遊びながら聞いて貰いたいです。\n曲名は、田舎的な感じと都会的な感じを併せ持ったところから。"
+zh-hans = "５面的主题曲。\n\n有着不规则节奏的曲子，但也出奇地有感觉。有着魔界的感觉。\n配上游戏的效果音听的话，途中开始就会感觉情绪越发高涨，\n因此请务必一边玩游戏一边听。\n至于曲名，则兼具了农村与都市的感觉。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "虎柄の毘沙門天"
+zh-hans = "虎纹的毘沙门天"
+en = "The Tiger-Patterned Bishamonten"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "寅丸星",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "5面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    11,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "5面BOSS",
+    "[[寅丸星]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "虎纹的毘沙门天"
+page = "虎纹的毘沙门天"
+
+[soundtrack-list.commentary]
+ja = "虎<ref>原文如此，应为ZUN笔误。</ref>丸 星のテーマです。\n\n静かに強い感じを出しました。後半のボスっぽい感じ。\n恐怖というより、威厳があるという感じです。\nしかし、くるんくるんレーザー怖い。\nアレは高い反射神経を要する老体キラーだ。"
+zh-hans = "寅丸　星的主题曲。\n\n透露出安静而强大的感觉。有后半部BOSS的感觉。\n与其说是恐怖，倒不如说是有威严。\n但是，团团转发射的激光很可怕啊。\n那种激光需要很好的反射神经才能躲避，是老年人杀手。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "法界の火"
+zh-hans = "法界之火"
+en = "Fires of Hokkai"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    12,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "法界之火"
+page = "法界之火"
+
+[soundtrack-list.commentary]
+ja = "６面のテーマです。\n\n無駄に緊張感のある曲です。\n短いステージで難易度も高くない処が、逆に緊張する。\n\n心音は焦るよね。"
+zh-hans = "６面的主题曲。\n\n非常有紧张感的一曲。\n虽然道中很短而且难度也不高，但这样反而更加令人紧张。\n\n心跳加速了吧。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "感情の摩天楼　～ Cosmic Mind"
+zh-hans = "感情的摩天楼　～ Cosmic Mind"
+en = "Emotional Skyscraper ~ Cosmic Mind"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "圣白莲",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "6面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    13,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "6面BOSS",
+    "[[圣白莲]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "感情的摩天楼　～ Cosmic Mind"
+page = "感情的摩天楼　～ Cosmic Mind"
+
+[soundtrack-list.commentary]
+ja = "聖 白蓮のテーマです。\n\n静かな心音からいきなり世界は開ける感じにしました。\n疲れにくいラスボスの曲です、多分。\n全体的に和風でメロディアスに、サビはまるでみんなで歌っている\nかのようなメロディにしました。人間、感情むき出しでＧＯ！"
+zh-hans = "圣　白莲的主题曲。\n\n伴随静谧的心跳声，突然展开一个世界般的感觉。\n大概就是那种让人不容易感觉累的最终BOSS曲。\n整体上是和风的旋律，高潮部分就像大家一起唱似的。\n大家都倾尽最真感情地GO！\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "夜空のユーフォーロマンス"
+zh-hans = "夜空中的UFO恋曲"
+en = "UFO Romance in the Night Sky"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    14,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面主题曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "夜空中的UFO恋曲"
+page = "夜空中的UFO恋曲"
+
+[soundtrack-list.commentary]
+ja = "エキストラステージのテーマです。\n\nＵＦＯ可愛いよね。\nここからは本編とは打って変わって可愛いノリでお送りします。\nポップな感じを目指して作りました。\nやっぱＵＦＯはポップですよ。\n"
+zh-hans = "Extra面的主题曲。\n\nUFO很可爱吧。\n这里开始营造了跟本篇不一样的可爱感觉，\n目标是营造出流行感。\n果然UFO还是比较适合流行风格。\n\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "平安のエイリアン"
+zh-hans = "平安时代的外星人"
+en = "Heian Alien"
+
+[soundtrack-list.context.character-list]
+zh-hans = [
+    "封兽鵺",
+]
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Extra面BOSS",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    15,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Extra面BOSS",
+    "[[封兽鵺]]角色曲",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "平安时代的外星人"
+page = "平安时代的外星人"
+
+[soundtrack-list.commentary]
+ja = "封獣 ぬえのテーマです。\n\n激しく妖怪妖怪した曲です。\n古風で和風な恐怖と哀愁を漂わせた曲にしました。\nいかにもエキストラボスって感じになってるかな。\n割と一発録音でアドリブだらけだったりするのもエキストラっぽい。"
+zh-hans = "封兽　鵺的主题曲。\n\n妖怪感觉非常强烈的曲子。\n弥漫着古老的和风式恐怖与哀愁的曲子。\n完全能感受到Extra BOSS的感觉吧。\n一次尽是即兴的录音，却也意外地有Extra的感觉。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "妖怪寺"
+zh-hans = "妖怪寺"
+en = "Youkai Temple"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    16,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Ending",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "妖怪寺"
+page = "妖怪寺"
+
+[soundtrack-list.commentary]
+ja = "エンディングのテーマです。\n\nいつも神社のテーマばっかなので、珍しくお寺。\n\n神社よりお寺の方が暗いイメージがある。\nいや暗いと言ったら失礼だ。退屈なイメージで （冗談です）"
+zh-hans = "结局的主题曲。\n\n一直以来都是神社的主题曲，这次却少有地变成了寺院。\n\n寺院比起神社更给人一种幽暗的印象。\n说幽暗真是失礼了啊。应该说是沉闷的印象（开玩笑的）。\n"
+
+[[soundtrack-list]]
+
+[soundtrack-list.title]
+ja = "空の帰り道　～ Sky Dream"
+zh-hans = "空中的归路　～ Sky Dream"
+en = "Returning Home from the Sky ~ Sky Dream"
+
+[soundtrack-list.context.character-list]
+zh-hans = []
+
+[soundtrack-list.context.scenario-list]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.composer]
+ja = "ZUN"
+
+[soundtrack-list.extra.thbwiki]
+title-template = [
+    "星莲船音乐名",
+    17,
+]
+
+[soundtrack-list.extra.thbwiki.category]
+zh-hans = [
+    "Staff画面",
+]
+
+[soundtrack-list.extra.thbwiki.linked-page]
+text = "空中的归路　～ Sky Dream"
+page = "空中的归路　～ Sky Dream"
+
+[soundtrack-list.commentary]
+ja = "スタッフロールのテーマです。\n\n感情の摩天楼の編曲になってます。\n\n旅の終わりの静かな帰り道って感じです。\n見上げてごらん～、夜空にＵＦＯが。"
+zh-hans = "制作人员名单的主题曲。\n\n用感情的摩天楼来编曲了。\n\n旅游完了踏上安静的归途的感觉。\n请抬头仰望～夜空里有UFO在飞呢。\n"
+
+[title]
+ja = "東方星蓮船 〜 Undefined Fantastic Object."
+en = "Touhou Seirensen ~ Undefined Fantastic Object"
+zh = "東方星蓮船 ～ Undefined Fantastic Object."
+zh-hans = "东方星莲船 ～ Undefined Fantastic Object."
