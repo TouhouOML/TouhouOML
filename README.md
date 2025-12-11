@@ -11,6 +11,7 @@ TODO
 1. Implement another parser for English descriptions from TouhouWiki.net.
 2. "category" extractor is still buggy.
 3. Track soundtrack relationships using the "Work-Recording" hierarchy.
-4. The code is of extremely low quality, need a full rewrite, it's the
+4. Musician templates are not resolved yet.
+5. The code is of extremely low quality, need a full rewrite, it's the
    worst program I've ever written.
-5. Trialing newline handling is inconsistent.
+6. Trialing newline handling is inconsistent.
