@@ -25,7 +25,7 @@ def thbwiki_musicroom_splittracks(lines, keyword="category"):
 
 def thbwiki_musicroom_splitkeys(lines):
     KEYS = [
-        "category", "titleJA", "titleZH", "composer", "source", "mp3", "ja", "zh"
+        "category", "titleJA", "titleja", "titleZH", "titlezh", "composer", "source", "mp3", "ja", "zh"
     ]
 
     item_buffer = None
@@ -45,10 +45,6 @@ def thbwiki_musicroom_kv(entry_list):
     retval = []
 
     for entry in entry_list:
-        if entry.endswith("=\n") or entry.endswith("= \n"):
-            entry.replace("=\n", "\n")
-            entry.replace("= \n", "\n")
-
         if "=" in entry.split("\n")[0]:
             retval.append([
                 entry[:entry.index("=")].strip(),
@@ -173,7 +169,7 @@ def thbwiki_kv_to_json(entry_list):
 
         if key == "category":
             retval["extra"]["thbwiki"]["category"]["zh-hans"] = args
-        elif key == "titleJA":
+        elif key.lower() == "titleja":
             assert len(args) == 1
             if "{{" in args[0] or "}}" in args[0]:
                 template = thbtemplate.MusicTitleTemplate(args[0])
@@ -193,7 +189,7 @@ def thbwiki_kv_to_json(entry_list):
                 retval["title"]["ja"] = args[0].replace("[[", "").replace("]]", "")
             else:
                 retval["title"]["ja"] = args[0]
-        elif key == "titleZH":
+        elif key.lower() == "titlezh":
             assert len(args) == 1
             if "{{" in args[0] or "}}" in args[0]:
                 template = thbtemplate.MusicTitleTemplate(args[0])
