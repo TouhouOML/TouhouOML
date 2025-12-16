@@ -66,9 +66,9 @@ class ApiRequest():
 
     def post(self, **kwargs):
         try:
-            resp = self._read_cache(params=kwargs, method="post")
+            resp = self._read_cache(kwargs, method="post")
             return resp
         except FileNotFoundError:
-            resp = self.curl.get(params=kwargs).decode(self.ENCODING)
+            resp = self.curl.post(cgi=None, params=kwargs).decode(self.ENCODING)
             self._write_cache(kwargs, method="post")
             return resp
