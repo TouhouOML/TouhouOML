@@ -60,7 +60,8 @@ class MusicTitleTemplate():
 
 
 class WikitextRequest():
-    def __init__(self):
+    def __init__(self, api_endpoint):
+        self.api_endpoint = api_endpoint
         self.wikitext_list = []
         self.resp_list = []
         self.map = {}
@@ -82,12 +83,12 @@ class WikitextRequest():
         print(req)
         print(first, last)
 
-        url = curlrequests.construct_apiurl(
-            thbconstant.API_URL, action="expandtemplates",
+        body = self.api_endpoint.get(
+            action="expandtemplates",
             text=req,
             prop="wikitext", format="json"
         )
-        resp = json.loads(curlrequests.get(url))["expandtemplates"]["wikitext"]
+        resp = json.loads(body)["expandtemplates"]["wikitext"]
         resp_list = resp.split("|")
         print(resp_list)
         print(len(resp_list))

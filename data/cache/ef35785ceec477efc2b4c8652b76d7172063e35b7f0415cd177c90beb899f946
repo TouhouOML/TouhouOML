@@ -1,0 +1,1 @@
+{"curl": {"84": 3, "10023": ["User-Agent: Touhou Metadata Downloader, by https://thwiki.cc/User:NicoNicoNii"], "10002": "https://thwiki.cc/api.php"}, "request": {"kwargs": {"action": "expandtemplates", "text": "{{Naz}}", "prop": "wikitext", "format": "json"}}, "method": "get", "resp": {"body": "{\"expandtemplates\":{\"wikitext\":\"\\u5a1c\\u5179\\u73b2\"}}"}}

@@ -1,1 +1,0 @@
-{"url": "https://thwiki.cc/api.php?action=expandtemplates&text=%7B%7B%E7%88%B1%E5%A1%94%E2%80%8E%7D%7D&prop=wikitext&format=json", "coding": "UTF-8", "headers": ["User-Agent: Touhou Metadata Downloader, by https://thwiki.cc/User:NicoNicoNii"], "http_version": 3, "resp": "{\"expandtemplates\":{\"wikitext\":\"\\u7231\\u5854\\u59ae\\u7f07\\u62c9\\u5c14\\u74e6\"}}"}

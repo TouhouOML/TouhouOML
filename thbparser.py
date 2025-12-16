@@ -221,12 +221,12 @@ def thbwiki_kv_to_json(entry_list):
     return {**retval, **commentary}
 
 
-def thbwiki_evaluate_title_wikitext(track_parsed_list):
+def thbwiki_evaluate_title_wikitext(api_endpoint, track_parsed_list):
     LANG_ZH = 1
     LANG_JA = 2
     LANG_EN = 4
 
-    request = thbtemplate.WikitextRequest()
+    request = thbtemplate.WikitextRequest(api_endpoint)
 
     for track in track_parsed_list:
         if "title-template" in track["extra"]["thbwiki"]:
@@ -325,8 +325,8 @@ def thbwiki_parse_category(category_string):
     }
             
 
-def thbwiki_evaluate_category_wikitext(track_parsed_list):
-    request = thbtemplate.WikitextRequest()
+def thbwiki_evaluate_category_wikitext(api_endpoint, track_parsed_list):
+    request = thbtemplate.WikitextRequest(api_endpoint)
 
     for track in track_parsed_list:
         context = thbwiki_parse_category(
@@ -360,8 +360,8 @@ def thbwiki_evaluate_category_wikitext(track_parsed_list):
                     track["context"][list_type]["zh-hans"][idx] = request.substitute(str(template))
 
 
-def thbwiki_evaluate_source_wikitext(track_parsed_list):
-    request = thbtemplate.WikitextRequest()
+def thbwiki_evaluate_source_wikitext(api_endpoint, track_parsed_list):
+    request = thbtemplate.WikitextRequest(api_endpoint)
 
     for track in track_parsed_list:
         if "source" not in track:
@@ -385,7 +385,7 @@ def thbwiki_evaluate_source_wikitext(track_parsed_list):
                     dic["file_metadata"][lang] = request.substitute(text)
 
 
-def parse_thbwiki_musicroom(text):
+def parse_thbwiki_musicroom(api_endpoint, text):
     track_list = list(thbwiki_musicroom_splittracks(text.split("\n")))
 
     track_parsed_list = []
@@ -397,7 +397,7 @@ def parse_thbwiki_musicroom(text):
         #pprint(thbwiki_kv_to_json(kv))
         track_parsed_list.append(json)
 
-    thbwiki_evaluate_title_wikitext(track_parsed_list)
-    thbwiki_evaluate_category_wikitext(track_parsed_list)
-    thbwiki_evaluate_source_wikitext(track_parsed_list)
+    thbwiki_evaluate_title_wikitext(api_endpoint, track_parsed_list)
+    thbwiki_evaluate_category_wikitext(api_endpoint, track_parsed_list)
+    thbwiki_evaluate_source_wikitext(api_endpoint, track_parsed_list)
     return track_parsed_list

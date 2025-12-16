@@ -57,10 +57,10 @@ def fetch_threlease_data():
         ORDER BY xsd:float(?thReleaseValue)
     """
     
-    url = curlrequests.construct_apiurl(
-        WIKIDATA_API, format="json", query=query
+    apirequest = curlrequests.ApiRequest(WIKIDATA_API)
+    resp = json.loads(
+        apirequest.get(format="json", query=query)
     )
-    resp = json.loads(curlrequests.get(url))
 
     all_game_dict = {}
     for i in resp["results"]["bindings"]:
