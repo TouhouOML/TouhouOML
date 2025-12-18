@@ -3,23 +3,23 @@
 One of the most useful public services provided by THBwiki is the
 [Music Data API](https://thwiki.cc/%E5%B8%AE%E5%8A%A9:%E9%9F%B3%E4%B9%90%E8%B5%84%E6%96%99API),
 which contains information about over 10,000 Touhou music albums.
-Unfortunately, only fanworks (and their corresponding originals)
+Unfortunately, only fanworks (and their corresponding original titles)
 are included.
 
 It's not possible to query information about the original soundtracks
 themselves, such as the games names, levels and locations where
 they appear, the associated characters, the soundtrack titles
-(in English, Japanese or Simplified Chinese), or the author's
+(in English, Japanese, Simplified Chinese), or the author's
 commentary.
 
 During my development of this Touhou soundtrack finder tool,
 several kinds of black magic have been discovered, which exploits
-some lesser-known features within the MediaWiki API or Wikitext
+some lesser-known features within the MediaWiki API and Wikitext
 syntax.
 
 These special findings are documented here.
 
-## Obtain All Touhou OST Title Table Mappings
+## Obtain All Touhou OST Title Mapping Tables
 
 To canonicalize Touhou soundtrack titles in Japanese, English and Simplified
 Chinese, THBwiki uses a custom MediaWiki extension known as *Table Mapping*.
@@ -71,8 +71,8 @@ It's noteworthy that the API is available for everyone, without logging in.
 Since there's no security problems for unprivileged visiters, the token
 response always contains a dummy placeholder `+\`. Thus, the CSRF token is
 effectively non-existent. But considering the possibility of a breaking
-change of the placeholder string, it's still recommend to request this
-dummy token rather than hardcoding it.
+change of the placeholder string in future MediaWiki releases, it's still
+recommended to request this dummy token rather than hardcoding it.
 
 #### Using `action=tablemapping`, `maction=list`
 
@@ -207,7 +207,7 @@ later.
 The greatest problem of the `action=tablemapping` is its low performance.
 Since this API doesn't support requesting multiple mapping tables, it creates
 a serious request amplification effect. According to `jq`'s statistics, there
-are currently 73 soundtrack mapping tables on THBwiki. Since each table are
+are currently 73 soundtrack mapping tables on THBwiki. Since each table is
 available in Japanese, Chinese, and English variants, number of requests is
 amplified by a factor of 3. It means that one needs at least 219 HTTPS requests
 to obtain all mapping tables.
@@ -238,11 +238,11 @@ THBwiki to use Soundtrack Title Templates or Character Templates. Effectively,
 these templates are de-facto standard library functions or API endpoints.
 However, their usage is limited to MediaWiki. Unless the client has a
 full MediaWiki interpreter, database and source code (which is impossible),
-it's not impossible to parse these MediaWiki templates on the client side.
+it's impossible to parse these MediaWiki templates on the client side.
 
 To offer a solution in this situation, MediaWiki provides a handy
-`expandtemplates` API, which works almost like Remote Procedure Call for our
-purpose.
+`expandtemplates` API, which works almost like Remote Procedure Calls
+for our purpose.
 
 For Soundtrack Title Template syntax, see
 [帮助:音乐名模板](https://thwiki.cc/%E5%B8%AE%E5%8A%A9:%E9%9F%B3%E4%B9%90%E5%90%8D%E6%A8%A1%E6%9D%BF).
@@ -341,7 +341,7 @@ Therefore, this solution still generates at least 75 HTTP requests, with poor pe
 
 ### Difficulty Hard: Parser Functions Template Expansion
   
-In MediaWiki, in additional to ordinary templates (which are essentially HTML
+In MediaWiki, in addition to ordinary templates (which are essentially HTML
 generators), several built-in functions are also included, which are known as
 [Parser Functions](https://www.mediawiki.org/wiki/Parser_functions). Additional
 parser functions are installed as MediaWiki extensions on THBwiki, making the
@@ -388,7 +388,6 @@ In the following text, we'll introduce several important functions.
                  --data-urlencode "prop=wikitext" \
                  --data-urlencode "format=json" \
                  https://thwiki.cc/api.php 2>/dev/null | jq
-  </syntaxhighlight>
   ```
 
   Server response:
@@ -411,12 +410,12 @@ processing.
 
 One of the most powerful functions is `arraymay`. It accepts an input
 string `INPUT_EXPRESSION` and splits the string into parts according to
-the `INPUT_SEPARATOR`. For each of the substring, it's assigned to a
-`VARIABLE_NAME`, and is modified by applying `OUTPUT_EXPRESSION`. Finally,
-all modified substrings are rejoined together according to the `OUTPUT_SEPARATOR`.
+the `INPUT_SEPARATOR`. For each of the substrings, it's assigned to a
+`VARIABLE_NAME`, and a new output is determined by evaluating
+`OUTPUT_EXPRESSION`. Finally, all modified substrings are rejoined together
+according to the `OUTPUT_SEPARATOR`.
 
 ```wikitext
-<syntaxhighlight lang="wikitext">
 {{#arraymap:
     INPUT_EXPRESSION|
     INPUT_SEPARATOR|
@@ -428,9 +427,9 @@ all modified substrings are rejoined together according to the `OUTPUT_SEPARATOR
 
 Therefore, it's effectively equivalent to `array.map(lambda var: do_something(var))`
 in functional programming or `foreach` in procedural programming. Using this function,
-it's easy to process all outputs from the previous functionsin a loop. For example,
+it's easy to process all outputs from the previous functions in a loop. For example,
 we can first obtain all mapping tables names ``{{#getmapname:音乐名日文}}``, and for
-each table names, we can further apply ``getmaparray`` to extract the soundtrack tiles,
+each table name, we can further apply ``getmaparray`` to extract the soundtrack tiles,
 allowing us to obtain *all* soundtrack titles in *all* mapping tables.
 
 ```bash
@@ -450,10 +449,9 @@ $ curl -X POST --data-urlencode "action=expandtemplates" \
                --data-urlencode "prop=wikitext" \
                --data-urlencode "format=json" \
                https://thwiki.cc/api.php 2>/dev/null | jq
-</syntaxhighlight>
 ```
 
-Server Response:
+Server response:
 
 ```json
 {
@@ -466,13 +464,13 @@ Server Response:
 #### Performance Considerations
 
 As we can see, this data retrieval method is efficient by exploiting MediaWiki
-templates as a general-purpose querying language, dumping the entire database.
+templates as a general-purpose query language, dumping the entire database.
 One can obtain all soundtrack mapping tables using only 3 HTTPS requests. If
 the code above is duplicated for three languages and joined in a single string, 
 it's possible to simultaneously request `音乐名日文`, `音乐名英文`, and `音乐名中文`
 using only a single HTTPS request.
 
-### Difficulty Lunatic: Manually Construct JSON Strings via Parser Functions
+### Difficulty Lunatic: Manually Constructing JSON Strings via Parser Functions
 
 In the tutorial above, we've utilized the MediaWiki parser functions to obtain
 all fields in all mapping tables. Hovever, the API response still requires
@@ -483,9 +481,9 @@ together.
 If we can make the MediaWiki response more structured, the application logic
 would be greatly simplified.
 
-Recall that, in the current template code, we're currently using `getmaparray` to
+Recall that, in the current template code, we're using `getmaparray` to
 extract all Japanese mapping table names, and for each `tablename`, we apply
-`getmaparray` to obtain all key-value pairs, one line per pair.
+`getmaparray` to obtain all key-value pairs as a large string.
 
 ```wikitext
 {{#arraymap:
@@ -499,8 +497,8 @@ extract all Japanese mapping table names, and for each `tablename`, we apply
 
 #### Splitting Every Line
 
-One can further improve this MediaWiki templates, so that we can process the
-content of each mapping table, one line at a time. To make it check to check
+One can further improve this MediaWiki template, so that we can process the
+content of each mapping table, one line at a time. To make it easy to check
 whether the splitting is correct, we wrap each line with `<item></item>`.
 The improved program is as follows:
 
@@ -529,16 +527,14 @@ $ curl -X POST --data-urlencode "action=expandtemplates" \
                https://thwiki.cc/api.php 2>/dev/null | jq
 ```
 
-Server Response:
+Server response:
 
 ```json
-<syntaxhighlight lang="json">
 {
   "expandtemplates": {
     "wikitext": "<item>!CAT 音乐名日文</item>\n<item>!COR 东方红魔乡</item>\n<item>!DEF 缺少参数</item>\n<item>!SOR 6</item>\n<item>!TEM 红魔乡音乐名</item>\n<item>1 赤より紅い夢</item>\n<item>1-1 ほおずきみたいに紅い魂</item>\n<item>1-2 妖魔夜行</item>\n<item>2 ほおずきみたいに紅い魂</item>\n<item>2-1 ルーネイトエルフ</item>\n<item>2-2 おてんば恋娘</item>\n<item>3 妖魔夜行</item>\n<item>3-1 上海紅茶館　～ Chinese Tea</item>\n<item>3-2 明治十七年の上海アリス</item>\n<item>4 ルーネイトエルフ</item>\n<item>4-1 ヴワル魔法図書館</item>\n<item>4-2 ラクトガール　～ 少女密室</item>\n<item>5 おてんば恋娘</item>\n<item>5-1 メイドと血の懐中時計</item>\n<item>..."
   }
 }
-</syntaxhighlight>
 ```
 
 As we can see, the logic is correctly implemented, and every line
@@ -546,8 +542,8 @@ has been accurately splitted.
 
 #### Splitting the Key and Value in Every Line
 
-Furthermore, we further split every single line we've just splitted into smaller
-units, as that the data can be formatted as the `key: value` format. To achieve
+Furthermore, we further split every single line again into smaller
+units, so that the data can be formatted in the `key: value` format. To achieve
 this objective, we can use the `pos` function to identify the position of the
 first space character within the line. Subsequently, all characters before this
 space is seen as the `key` substring, and all characters after this space is
@@ -598,10 +594,9 @@ $ curl -X POST --data-urlencode "action=expandtemplates" \
                --data-urlencode "prop=wikitext" \
                --data-urlencode "format=json" \
                https://thwiki.cc/api.php 2>/dev/null | jq
-</syntaxhighlight>
 ```
 
-Server Response:
+Server response:
 
 ```json
 {
@@ -611,7 +606,7 @@ Server Response:
 }
 ```
 
-#### Construct JSON Key-Value Format
+#### Constructing JSON Key-Value Format
 
 Now our key-value format is already machine-friendly, only slight
 adjustments are needed to the output format.
@@ -619,7 +614,7 @@ adjustments are needed to the output format.
 ##### Escaping Quotes
 
 We wrap all `key` and `value` with quotes. To prevent the situation
-where the strings already contains quotes by themselves, we can
+where the strings already contain quotes by themselves, we call
 the `replace` function to rewrite all `"` to `\"`.
 
 ```wikitext
@@ -632,10 +627,11 @@ the `replace` function to rewrite all `"` to `\"`.
 "{{#var:key}}": "{{#var:value}}"
 ```
 
-##### Adding Square Brackets and Parentheses
+##### Adding Square and Curly Brackets
 
 Next, in the outer loop (loop variable `tablename`), we insert the following
-characters to wrap the inner `key: value` string:
+characters to wrap the inner `key: value` string with additional square
+and curly brakets:
 
 ```json
 [
@@ -711,7 +707,7 @@ $ curl -X POST --data-urlencode "action=expandtemplates" \
                https://thwiki.cc/api.php 2>/dev/null | jq
 ```
 
-Server Response:
+Server response:
 
 ```json
 {
@@ -734,7 +730,7 @@ $ curl -X POST --data-urlencode "action=expandtemplates" \
                https://thwiki.cc/api.php 2>/dev/null | jq ".expandtemplates.wikitext | fromjson"
 ```
 
-Server Response:
+Server response:
 
 ```json
 [
@@ -770,10 +766,10 @@ Server Response:
     }
   },
   ...
-}
+]
 ```
 
-##### Constructing Multi-Language JSON
+#### Constructing Multi-Language JSON
 
 Right now we've successfully exploited the functional programming
 language known as the MediaWiki template to construct a JSON string
@@ -793,7 +789,7 @@ versions of the mapping tables.
 ```
 
 Next, we insert more curly brackets to our templates so that
-the output string follows the following format.
+the output string is in the following format.
 
 ```json
 [
@@ -859,7 +855,7 @@ Finally, we copy-paste the key-value extraction logic of the inner
 loop three times.
 
 ```bash
-$ wikitext=$(cat <<'EOF'
+wikitext=$(cat <<'EOF'
 [
   {{#arraymap:
     {{#getmapname:音乐名日文}}|
@@ -922,7 +918,7 @@ EOF
 )
 ```
 
-##### Final Result
+#### Final Result
 
 Example (`bash` variable definition from the last section is required):
 
@@ -934,7 +930,7 @@ $ curl -X POST --data-urlencode "action=expandtemplates" \
                https://thwiki.cc/api.php 2>/dev/null | jq ".expandtemplates.wikitext | fromjson"
 ```
 
-Server Response:
+Server response:
 
 ```json
 [
